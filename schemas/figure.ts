@@ -28,17 +28,30 @@ export default {
       title: 'Type',
       type: 'string',
       options: {
-        list: ['Warrior','Hero']
+        list: ['Warrior', 'Hero']
       }
     },
-    // {
-    //   name: 'set',
-    //   title: 'Set',
-    //   type: 'string',
-    //   options: {
-    //     list: set
-    //   }
-    // },
+    {
+      name: 'material',
+      title: 'Material',
+      type: 'string',
+      options: {
+        list: ['Metal', 'Plastic', 'Resin']
+      }
+    },
+    {
+      title: 'Character',
+      name: 'character',
+      type: 'array',
+      of: [
+        {
+          type: 'reference',
+          to: [
+            {type: 'character'}
+          ]
+        }
+      ]
+    },
     {
       name: 'releaseDate',
       title: 'Release Date',

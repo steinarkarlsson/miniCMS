@@ -2,4 +2,7 @@ import figure from './figure'
 import set from './set'
 import terrain from './terrain'
 import print from './print'
-export const schemaTypes = [figure, set, terrain, print]
+import character from './character'
+import faction from './faction'
+import releaseWave from './releaseWave'
+export const schemaTypes = [figure, set, terrain, print, character, faction, releaseWave]
