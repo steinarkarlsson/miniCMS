@@ -7,6 +7,11 @@ export default {
       name: 'name',
       title: 'Name',
       type: 'string'
+    },
+    {
+      name: 'releaseDate',
+      title: 'Release Date',
+      type: 'date'
     }
   ]
 }

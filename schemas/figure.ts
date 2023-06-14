@@ -19,11 +19,6 @@ export default {
       type: 'image'
     },
     {
-      name: 'characterName',
-      title: 'Character Name',
-      type: 'string'
-    },
-    {
       name: 'type',
       title: 'Type',
       type: 'string',
@@ -33,11 +28,15 @@ export default {
     },
     {
       name: 'material',
-      title: 'Material',
-      type: 'string',
-      options: {
-        list: ['Metal', 'Plastic', 'Resin']
-      }
+      type: 'array',
+      of: [
+        {
+          type: 'string',
+          options: {
+            list: ['metal', 'plastic', 'resin']
+          }
+        }
+      ]
     },
     {
       title: 'Character',
@@ -53,10 +52,12 @@ export default {
       ]
     },
     {
-      name: 'releaseDate',
-      title: 'Release Date',
-      type: 'date'
+      title: 'Release Wave',
+      name: 'releaseWave',
+      type: 'reference',
+      to: [
+        {type: 'releaseWave'}
+      ]
     }
-
   ]
 }
