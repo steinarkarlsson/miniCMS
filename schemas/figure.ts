@@ -9,9 +9,17 @@ export default {
       type: 'string'
     },
     {
-      name: 'faction',
       title: 'Faction',
-      type: 'string'
+      name: 'faction',
+      type: 'array',
+      of: [
+        {
+          type: 'reference',
+          to: [
+            {type: 'faction'}
+          ]
+        }
+      ]
     },
     {
       name: 'image',
