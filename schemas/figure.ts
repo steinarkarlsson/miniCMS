@@ -66,6 +66,27 @@ export default {
       to: [
         {type: 'releaseWave'}
       ]
-    }
+    },
+    {
+      name: 'baseSize',
+      title: 'Base Size',
+      type: 'string',
+      options: {
+        list: ['25mm', '40mm', '60mm']
+      }
+    },
+    {
+      title: 'Race',
+      name: 'race',
+      type: 'array',
+      of: [
+        {
+          type: 'reference',
+          to: [
+            {type: 'race'}
+          ]
+        }
+      ]
+    },
   ]
 }
