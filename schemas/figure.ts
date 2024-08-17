@@ -88,5 +88,16 @@ export default {
         }
       ]
     },
+    {
+      name: 'description',
+      title: 'Description',
+      type: 'array',
+      of: [{type: 'block'}]
+    },
+    {
+      name:'alias',
+      title: 'Alias',
+      type: 'string'
+    }
   ]
 }
