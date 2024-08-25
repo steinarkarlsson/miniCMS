@@ -9,6 +9,17 @@ export default {
       type: 'string'
     },
     {
+      name: 'image',
+      title: 'Image',
+      type: 'image'
+    },
+    {
+      name: 'description',
+      title: 'Description',
+      type: 'array',
+      of: [{type: 'block'}]
+    },
+    {
       name: 'figures',
       title: 'Figures',
       type: 'array',
@@ -47,11 +58,6 @@ export default {
         }
       ]
     },
-    {
-      name: 'description',
-      title: 'Description',
-      type: 'array',
-      of: [{type: 'block'}]
-    },
+
   ]
 }
