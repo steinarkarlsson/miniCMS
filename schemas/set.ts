@@ -20,6 +20,14 @@ export default {
       of: [{type: 'block'}]
     },
     {
+      title: 'Release Wave',
+      name: 'releaseWave',
+      type: 'reference',
+      to: [
+        {type: 'releaseWave'}
+      ]
+    },
+    {
       name: 'figures',
       title: 'Figures',
       type: 'array',
