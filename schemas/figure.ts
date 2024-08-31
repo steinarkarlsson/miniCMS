@@ -98,6 +98,11 @@ export default {
       name:'alias',
       title: 'Alias',
       type: 'string'
+    },
+    {
+      name: 'featured',
+      title: 'Featured',
+      type: 'boolean'
     }
   ]
 }

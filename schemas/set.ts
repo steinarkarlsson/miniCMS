@@ -66,6 +66,10 @@ export default {
         }
       ]
     },
-
+    {
+      name: 'featured',
+      title: 'Featured',
+      type: 'boolean'
+    },
   ]
 }
