@@ -14,6 +14,12 @@ export default {
       type: 'image'
     },
     {
+      name: 'description',
+      title: 'Description',
+      type: 'array',
+      of: [{type: 'block'}]
+    },
+    {
       title: 'Release Wave',
       name: 'releaseWave',
       type: 'reference',
@@ -26,5 +32,6 @@ export default {
       title: 'Featured',
       type: 'boolean'
     },
+
   ]
 }
