@@ -1,3 +1,5 @@
+import {type} from 'node:os'
+
 export default {
   name: 'figure',
   title: 'Figure',
@@ -6,7 +8,29 @@ export default {
     {
       name: 'mainName',
       title: 'Main Name',
-      type: 'string'
+      type: 'string',
+    },
+    {
+      name: 'allegiance',
+      title: 'Allegiance',
+      type: 'array',
+      of: [
+        {
+          type: 'reference',
+          to: [{type: 'allegiance'}],
+        },
+      ],
+    },
+    {
+      name: 'armyList',
+      title: 'Army List',
+      type: 'array',
+      of: [
+        {
+          type: 'reference',
+          to: [{type: 'armyList'}],
+        },
+      ],
     },
     {
       title: 'Faction',
@@ -15,24 +39,22 @@ export default {
       of: [
         {
           type: 'reference',
-          to: [
-            {type: 'faction'}
-          ]
-        }
-      ]
+          to: [{type: 'faction'}],
+        },
+      ],
     },
     {
       name: 'image',
       title: 'Image',
-      type: 'image'
+      type: 'image',
     },
     {
       name: 'type',
       title: 'Type',
       type: 'string',
       options: {
-        list: ['Warrior', 'Hero']
-      }
+        list: ['Warrior', 'Hero'],
+      },
     },
     {
       name: 'material',
@@ -41,10 +63,10 @@ export default {
         {
           type: 'string',
           options: {
-            list: ['metal', 'plastic', 'resin']
-          }
-        }
-      ]
+            list: ['metal', 'plastic', 'resin'],
+          },
+        },
+      ],
     },
     {
       title: 'Character',
@@ -53,27 +75,23 @@ export default {
       of: [
         {
           type: 'reference',
-          to: [
-            {type: 'character'}
-          ]
-        }
-      ]
+          to: [{type: 'character'}],
+        },
+      ],
     },
     {
       title: 'Release Wave',
       name: 'releaseWave',
       type: 'reference',
-      to: [
-        {type: 'releaseWave'}
-      ]
+      to: [{type: 'releaseWave'}],
     },
     {
       name: 'baseSize',
       title: 'Base Size',
       type: 'string',
       options: {
-        list: ['25mm', '40mm', '60mm']
-      }
+        list: ['25mm', '40mm', '60mm'],
+      },
     },
     {
       title: 'Race',
@@ -82,27 +100,25 @@ export default {
       of: [
         {
           type: 'reference',
-          to: [
-            {type: 'race'}
-          ]
-        }
-      ]
+          to: [{type: 'race'}],
+        },
+      ],
     },
     {
       name: 'description',
       title: 'Description',
       type: 'array',
-      of: [{type: 'block'}]
+      of: [{type: 'block'}],
     },
     {
-      name:'alias',
+      name: 'alias',
       title: 'Alias',
-      type: 'string'
+      type: 'string',
     },
     {
       name: 'featured',
       title: 'Featured',
-      type: 'boolean'
-    }
-  ]
+      type: 'boolean',
+    },
+  ],
 }

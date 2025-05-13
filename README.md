@@ -10,7 +10,7 @@ Now you can do the following things:
 
 ## Run locally
 ```bash 
-npm run dev
+yarn run dev
 ```
 
 ## Upgrading Sanity

@@ -7,4 +7,18 @@ import faction from './faction'
 import releaseWave from './releaseWave'
 import race from './race'
 import accessory from './accessory'
-export const schemaTypes = [figure, set, terrain, print, character, faction, releaseWave, race, accessory]
+import allegiance from './allegiance'
+import armyList from './armyList'
+export const schemaTypes = [
+  figure,
+  set,
+  terrain,
+  print,
+  character,
+  allegiance,
+  armyList,
+  faction,
+  releaseWave,
+  race,
+  accessory,
+]
