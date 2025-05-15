@@ -1,12 +1,12 @@
 export default {
-  name: 'character',
-  title: 'Character',
+  name: 'sculptor',
+  title: 'Sculptor',
   type: 'document',
   fields: [
     {
       name: 'name',
       title: 'Name',
-      type: 'string'
-    }
-  ]
+      type: 'string',
+    },
+  ],
 }
