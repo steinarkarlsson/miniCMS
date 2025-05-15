@@ -6,26 +6,29 @@ export default {
     {
       name: 'mainName',
       title: 'Main Name',
-      type: 'string'
+      type: 'string',
     },
     {
       name: 'image',
       title: 'Image',
-      type: 'image'
+      type: 'image',
+    },
+    {
+      name: 'gallery',
+      title: 'Gallery',
+      type: 'gallery',
     },
     {
       name: 'description',
       title: 'Description',
       type: 'array',
-      of: [{type: 'block'}]
+      of: [{type: 'block'}],
     },
     {
       title: 'Release Wave',
       name: 'releaseWave',
       type: 'reference',
-      to: [
-        {type: 'releaseWave'}
-      ]
+      to: [{type: 'releaseWave'}],
     },
     {
       name: 'figures',
@@ -34,11 +37,9 @@ export default {
       of: [
         {
           type: 'reference',
-          to: [
-            {type: 'figure'},
-          ]
-        }
-      ]
+          to: [{type: 'figure'}],
+        },
+      ],
     },
     {
       name: 'print',
@@ -47,11 +48,9 @@ export default {
       of: [
         {
           type: 'reference',
-          to: [
-            {type: 'print'},
-          ]
-        }
-      ]
+          to: [{type: 'print'}],
+        },
+      ],
     },
     {
       name: 'terrain',
@@ -60,16 +59,14 @@ export default {
       of: [
         {
           type: 'reference',
-          to: [
-            {type: 'terrain'},
-          ]
-        }
-      ]
+          to: [{type: 'terrain'}],
+        },
+      ],
     },
     {
       name: 'featured',
       title: 'Featured',
-      type: 'boolean'
+      type: 'boolean',
     },
-  ]
+  ],
 }

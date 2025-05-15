@@ -9,6 +9,8 @@ import race from './race'
 import accessory from './accessory'
 import allegiance from './allegiance'
 import armyList from './armyList'
+import gallery from './fieldSchemas/gallery'
+
 export const schemaTypes = [
   figure,
   set,
@@ -21,4 +23,5 @@ export const schemaTypes = [
   releaseWave,
   race,
   accessory,
+  gallery,
 ]

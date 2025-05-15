@@ -6,25 +6,28 @@ export default {
     {
       name: 'mainName',
       title: 'Main Name',
-      type: 'string'
+      type: 'string',
     },
     {
       name: 'image',
       title: 'Image',
-      type: 'image'
+      type: 'image',
+    },
+    {
+      name: 'gallery',
+      title: 'Gallery',
+      type: 'gallery',
     },
     {
       title: 'Release Wave',
       name: 'releaseWave',
       type: 'reference',
-      to: [
-        {type: 'releaseWave'}
-      ]
+      to: [{type: 'releaseWave'}],
     },
     {
       name: 'featured',
       title: 'Featured',
-      type: 'boolean'
+      type: 'boolean',
     },
-  ]
+  ],
 }

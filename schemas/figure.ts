@@ -1,5 +1,3 @@
-import {type} from 'node:os'
-
 export default {
   name: 'figure',
   title: 'Figure',
@@ -47,6 +45,11 @@ export default {
       name: 'image',
       title: 'Image',
       type: 'image',
+    },
+    {
+      name: 'gallery',
+      title: 'Gallery',
+      type: 'gallery',
     },
     {
       name: 'type',
