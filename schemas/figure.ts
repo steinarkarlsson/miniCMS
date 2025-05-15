@@ -114,9 +114,32 @@ export default {
       of: [{type: 'block'}],
     },
     {
+      name: 'officialDescription',
+      title: 'Official Description',
+      type: 'array',
+      of: [{type: 'block'}],
+    },
+    {
+      name: 'references',
+      title: 'References',
+      type: 'array',
+      of: [{type: 'url'}],
+    },
+    {
       name: 'alias',
       title: 'Alias',
       type: 'string',
+    },
+    {
+      name: 'sculptor',
+      title: 'Sculptor',
+      type: 'array',
+      of: [
+        {
+          type: 'reference',
+          to: [{type: 'sculptor'}],
+        },
+      ],
     },
     {
       name: 'featured',

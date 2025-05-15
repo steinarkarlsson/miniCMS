@@ -10,6 +10,7 @@ import accessory from './accessory'
 import allegiance from './allegiance'
 import armyList from './armyList'
 import gallery from './fieldSchemas/gallery'
+import sculptor from './sculptor'
 
 export const schemaTypes = [
   figure,
@@ -24,4 +25,5 @@ export const schemaTypes = [
   race,
   accessory,
   gallery,
+  sculptor,
 ]
