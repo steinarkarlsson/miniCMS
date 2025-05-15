@@ -6,20 +6,21 @@ export default {
     {
       name: 'name',
       title: 'Name',
-      type: 'string'
+      type: 'string',
+      validation: (rule: {required: () => any}) => rule.required(),
     },
     {
       name: 'alignment',
       title: 'Alignment',
       type: 'string',
       options: {
-        list: ['Good', 'Evil']
-      }
+        list: ['Good', 'Evil'],
+      },
     },
     {
       name: 'icon',
       title: 'Icon',
       type: 'image',
-    }
-  ]
+    },
+  ],
 }

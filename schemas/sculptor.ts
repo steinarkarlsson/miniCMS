@@ -7,6 +7,7 @@ export default {
       name: 'name',
       title: 'Name',
       type: 'string',
+      validation: (rule: {required: () => any}) => rule.required(),
     },
   ],
 }
