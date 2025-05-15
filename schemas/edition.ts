@@ -1,6 +1,6 @@
 export default {
-  name: 'releaseWave',
-  title: 'Release Wave',
+  name: 'edition',
+  title: 'Edition',
   type: 'document',
   fields: [
     {
@@ -14,10 +14,10 @@ export default {
       type: 'date',
     },
     {
-      name: 'edition',
-      title: 'Edition',
-      type: 'reference',
-      to: [{type: 'edition'}],
+      name: 'description',
+      title: 'Description',
+      type: 'array',
+      of: [{type: 'block'}],
     },
   ],
 }

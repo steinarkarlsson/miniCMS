@@ -11,6 +11,7 @@ import allegiance from './allegiance'
 import armyList from './armyList'
 import gallery from './fieldSchemas/gallery'
 import sculptor from './sculptor'
+import edition from './edition'
 
 export const schemaTypes = [
   figure,
@@ -26,4 +27,5 @@ export const schemaTypes = [
   accessory,
   gallery,
   sculptor,
+  edition,
 ]
