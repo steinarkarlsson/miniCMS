@@ -65,6 +65,12 @@ export default {
       ],
     },
     {
+      title: 'Packaging',
+      name: 'packaging',
+      type: 'reference',
+      to: [{type: 'packaging'}],
+    },
+    {
       name: 'featured',
       title: 'Featured',
       type: 'boolean',
