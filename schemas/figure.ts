@@ -61,6 +61,14 @@ export default {
       },
     },
     {
+      name: 'status',
+      title: 'Status',
+      type: 'string',
+      options: {
+        list: ['Released', 'Unreleased', 'Announced'],
+      },
+    },
+    {
       name: 'material',
       type: 'array',
       of: [
