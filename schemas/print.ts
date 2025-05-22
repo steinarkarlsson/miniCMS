@@ -42,5 +42,13 @@ export default {
       title: 'Featured',
       type: 'boolean',
     },
+    {
+      name: 'type',
+      title: 'Type',
+      type: 'string',
+      options: {
+        list: ['Rulebook', 'Expansion', 'Magazine', 'Catalogue', 'Other'],
+      },
+    },
   ],
 }
