@@ -13,6 +13,7 @@ import gallery from './fieldSchemas/gallery'
 import sculptor from './sculptor'
 import edition from './edition'
 import packaging from './packaging'
+import references from './fieldSchemas/references'
 
 export const schemaTypes = [
   figure,
@@ -27,6 +28,7 @@ export const schemaTypes = [
   race,
   accessory,
   gallery,
+  references,
   sculptor,
   edition,
   packaging,
