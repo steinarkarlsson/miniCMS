@@ -154,5 +154,11 @@ export default {
       title: 'Featured',
       type: 'boolean',
     },
+    {
+      title: 'Release Date',
+      name: 'releaseDate',
+      type: 'date',
+      description:'The original release date'
+    },
   ],
 }

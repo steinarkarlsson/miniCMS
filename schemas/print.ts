@@ -55,5 +55,11 @@ export default {
       title: 'References',
       type: 'references',
     },
+    {
+      title: 'Release Date',
+      name: 'releaseDate',
+      type: 'date',
+      description:'The original release date'
+    },
   ],
 }
