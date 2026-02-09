@@ -71,6 +71,11 @@ export default {
       to: [{type: 'packaging'}],
     },
     {
+      name: 'references',
+      title: 'References',
+      type: 'references',
+    },
+    {
       name: 'featured',
       title: 'Featured',
       type: 'boolean',

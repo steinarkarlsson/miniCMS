@@ -50,5 +50,10 @@ export default {
         list: ['Rulebook', 'Expansion', 'Magazine', 'Catalogue', 'Other'],
       },
     },
+    {
+      name: 'references',
+      title: 'References',
+      type: 'references',
+    },
   ],
 }

@@ -32,6 +32,11 @@ export default {
       to: [{type: 'releaseWave'}],
     },
     {
+      name: 'references',
+      title: 'References',
+      type: 'references',
+    },
+    {
       name: 'featured',
       title: 'Featured',
       type: 'boolean',

@@ -2271,6 +2271,16 @@
     get-it "^8.6.7"
     rxjs "^7.0.0"
 
+"@sanity/client@^7.14.0":
+  version "7.14.0"
+  resolved "https://registry.yarnpkg.com/@sanity/client/-/client-7.14.0.tgz#94d9f364a610bcc7519c07a754f1a37dbad36ebc"
+  integrity sha512-eXue3rc4MqJh89mvuTC0h0pdoY8lwXjlV8odFB3EF7aSFKF7F5BL0NU2mlTrCZYbPAlV3JTvMPPLGJCORqOKDw==
+  dependencies:
+    "@sanity/eventsource" "^5.0.2"
+    get-it "^8.7.0"
+    nanoid "^3.3.11"
+    rxjs "^7.0.0"
+
 "@sanity/client@^7.2.1":
   version "7.2.1"
   resolved "https://registry.yarnpkg.com/@sanity/client/-/client-7.2.1.tgz#83592d3e99e6e781a65978c127cdba3eeb611975"
@@ -5120,6 +5130,18 @@ get-it@^8.6.7, get-it@^8.6.8:
   version "8.6.8"
   resolved "https://registry.yarnpkg.com/get-it/-/get-it-8.6.8.tgz#c4bfdf0b21d5c4ac984e48a6651fe2e6d95b1277"
   integrity sha512-O2H5qFvFJ26XFnELV2/4y0YKpQVtlKisSrzmdL09L82ZuGoIGXGhtr1GWzt/BIrhxa38DWHNrSloU7dF/ZSQrQ==
+  dependencies:
+    "@types/follow-redirects" "^1.14.4"
+    decompress-response "^7.0.0"
+    follow-redirects "^1.15.9"
+    is-retry-allowed "^2.2.0"
+    through2 "^4.0.2"
+    tunnel-agent "^0.6.0"
+
+get-it@^8.7.0:
+  version "8.7.0"
+  resolved "https://registry.yarnpkg.com/get-it/-/get-it-8.7.0.tgz#dbb5728e301c248d3aa02f0efd01f2af381c9842"
+  integrity sha512-uong/+jOz0GiuIWIUJXp2tnQKgQKukC99LEqOxLckPUoHYoerQbV6vC0Tu+/pSgk0tgHh1xX2aJtCk4y35LLLg==
   dependencies:
     "@types/follow-redirects" "^1.14.4"
     decompress-response "^7.0.0"

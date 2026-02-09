@@ -102,7 +102,7 @@ export default {
       title: 'Base Size',
       type: 'string',
       options: {
-        list: ['25mm', '40mm', '60mm'],
+        list: ['25mm', '40mm', '60mm', '80mm'],
       },
     },
     {
@@ -131,8 +131,7 @@ export default {
     {
       name: 'references',
       title: 'References',
-      type: 'array',
-      of: [{type: 'url'}],
+      type: 'references',
     },
     {
       name: 'alias',
