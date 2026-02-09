@@ -5,5 +5,7 @@ export default defineCliConfig({
     projectId: '4llymfg7',
     dataset: 'production',
   },
-  studioHost: 'minicollection',
+  deployment: {
+    appId: '8113567eae5beddc0966af13',
+  },
 })
