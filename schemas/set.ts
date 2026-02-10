@@ -65,6 +65,17 @@ export default {
       ],
     },
     {
+      name: 'accessories',
+      title: 'Accessories',
+      type: 'array',
+      of: [
+        {
+          type: 'reference',
+          to: [{type: 'accessory'}],
+        },
+      ],
+    },
+    {
       title: 'Packaging',
       name: 'packaging',
       type: 'reference',
