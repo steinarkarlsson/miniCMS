@@ -1,14 +1,11 @@
+import {baseProductFields} from './baseProduct'
+
 export default {
   name: 'figure',
   title: 'Figure',
   type: 'document',
   fields: [
-    {
-      name: 'mainName',
-      title: 'Main Name',
-      type: 'string',
-      validation: (rule: {required: () => any}) => rule.required(),
-    },
+    ...baseProductFields,
     {
       name: 'allegiance',
       title: 'Allegiance',
@@ -43,29 +40,11 @@ export default {
       ],
     },
     {
-      name: 'image',
-      title: 'Image',
-      type: 'image',
-    },
-    {
-      name: 'gallery',
-      title: 'Gallery',
-      type: 'gallery',
-    },
-    {
       name: 'type',
       title: 'Type',
       type: 'string',
       options: {
         list: ['Warrior', 'Hero'],
-      },
-    },
-    {
-      name: 'status',
-      title: 'Status',
-      type: 'string',
-      options: {
-        list: ['Released', 'Unreleased', 'Announced'],
       },
     },
     {
@@ -92,12 +71,6 @@ export default {
       ],
     },
     {
-      title: 'Release Wave',
-      name: 'releaseWave',
-      type: 'reference',
-      to: [{type: 'releaseWave'}],
-    },
-    {
       name: 'baseSize',
       title: 'Base Size',
       type: 'string',
@@ -117,21 +90,10 @@ export default {
       ],
     },
     {
-      name: 'description',
-      title: 'Description',
-      type: 'array',
-      of: [{type: 'block'}],
-    },
-    {
       name: 'officialDescription',
       title: 'Official Description',
       type: 'array',
       of: [{type: 'block'}],
-    },
-    {
-      name: 'references',
-      title: 'References',
-      type: 'references',
     },
     {
       name: 'alias',
@@ -148,17 +110,6 @@ export default {
           to: [{type: 'sculptor'}],
         },
       ],
-    },
-    {
-      name: 'featured',
-      title: 'Featured',
-      type: 'boolean',
-    },
-    {
-      title: 'Release Date',
-      name: 'releaseDate',
-      type: 'date',
-      description:'The original release date'
     },
   ],
 }
