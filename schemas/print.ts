@@ -20,5 +20,16 @@ export default {
         list: ['Rulebook', 'Expansion', 'Magazine', 'Catalogue', 'Other'],
       },
     },
+    {
+      name: 'figures',
+      title: 'Figures',
+      type: 'array',
+      of: [
+        {
+          type: 'reference',
+          to: [{type: 'figure'}],
+        },
+      ],
+    },
   ],
 }
