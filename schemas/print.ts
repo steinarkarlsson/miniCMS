@@ -17,7 +17,17 @@ export default {
       title: 'Type',
       type: 'string',
       options: {
-        list: ['Rulebook', 'Expansion', 'Magazine', 'Catalogue', 'Other'],
+        list: [
+          'Rulebook',
+          'Supplement',
+          'Compilation',
+          'Journeybook',
+          'Expansion',
+          'Battle Games in Middle-earth',
+          'Magazine',
+          'Catalogue',
+          'Other',
+        ],
       },
     },
     {
