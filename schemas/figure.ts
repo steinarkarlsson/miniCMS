@@ -1,4 +1,6 @@
 import {baseProductFields} from './baseProduct'
+import {BASE_SIZES} from './baseSizes'
+import {profileReferenceTargets} from './profiles/baseProfile'
 
 export default {
   name: 'figure',
@@ -18,9 +20,24 @@ export default {
       ],
     },
     {
-      name: 'armyList',
-      title: 'Army List',
+      name: 'profiles',
+      title: 'Profiles',
       type: 'array',
+      of: [
+        {
+          type: 'reference',
+          to: profileReferenceTargets,
+        },
+      ],
+      description: 'The game profiles this miniature represents, across all editions',
+    },
+    {
+      name: 'armyList',
+      title: 'Army List (legacy)',
+      type: 'array',
+      readOnly: true,
+      description:
+        'Superseded by Profiles. Kept read-only until every figure is linked to its profiles.',
       of: [
         {
           type: 'reference',
@@ -74,23 +91,7 @@ export default {
       name: 'baseSize',
       title: 'Base Size',
       type: 'string',
-      options: {
-        list: [
-          '25mm',
-          '40mm',
-          '50mm',
-          '60mm',
-          '80mm',
-          '100mm',
-          '105mm Oval',
-          '120mm Oval',
-          '130mm',
-          '160mm',
-          '170mm Oval',
-          '180x140mm Oval',
-          '231x133mm Oval',
-        ],
-      },
+      options: {list: BASE_SIZES},
     },
     {
       title: 'Race',
