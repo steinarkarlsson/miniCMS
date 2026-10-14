@@ -27,3 +27,10 @@
 
 # Dotenv and similar local-only files
 *.local
+
+# Environment secrets
+.env
+
+# Yarn Plug'n'Play artifacts (project uses node_modules)
+.pnp.*
+.yarn/
