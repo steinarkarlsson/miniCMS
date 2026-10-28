@@ -15,7 +15,7 @@ import sculptor from './sculptor'
 import edition from './edition'
 import packaging from './packaging'
 import references from './fieldSchemas/references'
-import {heroicValues, profileOption} from './profiles/baseProfile'
+import {heroicValues, profileOption, profileSource} from './profiles/baseProfile'
 import profile1e from './profiles/profile1e'
 import profile2e from './profiles/profile2e'
 import profile3e from './profiles/profile3e'
@@ -41,6 +41,7 @@ export const schemaTypes = [
   profile6e,
   heroicValues,
   profileOption,
+  profileSource,
   faction,
   releaseWave,
   race,

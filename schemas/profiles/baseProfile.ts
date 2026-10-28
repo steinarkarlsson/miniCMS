@@ -67,6 +67,84 @@ export const profileOption = defineType({
   },
 })
 
+/**
+ * One place a profile was published. Most come from a printed book, but some
+ * were only ever released online (e.g. a free PDF), so a source is either a
+ * reference to a Print document or a title + URL. Profiles hold an array of
+ * these since the same profile is often reprinted.
+ */
+export const profileSource = defineType({
+  name: 'profileSource',
+  title: 'Source',
+  type: 'object',
+  fields: [
+    defineField({
+      name: 'kind',
+      title: 'Kind',
+      type: 'string',
+      initialValue: 'print',
+      options: {
+        list: [
+          {title: 'Print', value: 'print'},
+          {title: 'Online', value: 'online'},
+        ],
+        layout: 'radio',
+        direction: 'horizontal',
+      },
+      validation: (rule) => rule.required(),
+    }),
+    defineField({
+      name: 'print',
+      title: 'Print',
+      type: 'reference',
+      to: [{type: 'print'}],
+      hidden: ({parent}) => parent?.kind !== 'print',
+      validation: (rule) =>
+        rule.custom((value, context) => {
+          const kind = (context.parent as {kind?: string} | undefined)?.kind
+          return kind === 'print' && !value ? 'Select the print this profile was published in' : true
+        }),
+    }),
+    defineField({
+      name: 'title',
+      title: 'Title',
+      type: 'string',
+      description: 'Name of the online release, e.g. "Legacies PDF"',
+      hidden: ({parent}) => parent?.kind !== 'online',
+      validation: (rule) =>
+        rule.custom((value, context) => {
+          const kind = (context.parent as {kind?: string} | undefined)?.kind
+          return kind === 'online' && !value ? 'Enter a title for the online source' : true
+        }),
+    }),
+    defineField({
+      name: 'url',
+      title: 'URL',
+      type: 'url',
+      hidden: ({parent}) => parent?.kind !== 'online',
+      validation: (rule) =>
+        rule.uri({scheme: ['http', 'https']}).custom((value, context) => {
+          const kind = (context.parent as {kind?: string} | undefined)?.kind
+          return kind === 'online' && !value ? 'Enter the URL of the online source' : true
+        }),
+    }),
+    defineField({
+      name: 'page',
+      title: 'Page',
+      type: 'string',
+      description: 'Page or section where the profile appears, if known',
+    }),
+  ],
+  preview: {
+    select: {kind: 'kind', printName: 'print.mainName', title: 'title', url: 'url', page: 'page'},
+    prepare({kind, printName, title, url, page}) {
+      const name = kind === 'online' ? title || url : printName
+      const parts = [kind === 'online' ? 'Online' : 'Print', page ? `p. ${page}` : undefined]
+      return {title: name || 'Source', subtitle: parts.filter(Boolean).join(' · ')}
+    },
+  },
+})
+
 const stringList = (name: string, title: string) =>
   defineField({name, title, type: 'array', of: [{type: 'string'}], fieldset: 'rules'})
 
@@ -104,6 +182,13 @@ export const baseProfileFields = [
     type: 'reference',
     to: profileReferenceTargets,
     description: 'The same profile in an earlier edition, if it continued from one',
+  }),
+  defineField({
+    name: 'sources',
+    title: 'Sources',
+    type: 'array',
+    of: [{type: 'profileSource'}],
+    description: 'Every print or online release this profile was published in',
   }),
   defineField({
     name: 'movement',
