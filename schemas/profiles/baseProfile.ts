@@ -38,15 +38,19 @@ async function nameIsUniqueWithinType(name: string | undefined, context: Validat
   return count === 0 ? true : `Another ${context.document._type} document is already named "${name}"`
 }
 
+/**
+ * Might, Will, Fate and every points value are free text rather than numbers,
+ * since books print values such as "*", "3+" or "Varies".
+ */
 export const heroicValues = defineType({
   name: 'heroicValues',
   title: 'Heroic Values',
   type: 'object',
   options: {columns: 3},
   fields: [
-    defineField({name: 'might', title: 'Might', type: 'number'}),
-    defineField({name: 'will', title: 'Will', type: 'number'}),
-    defineField({name: 'fate', title: 'Fate', type: 'number'}),
+    defineField({name: 'might', title: 'Might', type: 'string'}),
+    defineField({name: 'will', title: 'Will', type: 'string'}),
+    defineField({name: 'fate', title: 'Fate', type: 'string'}),
   ],
 })
 
@@ -57,12 +61,12 @@ export const profileOption = defineType({
   options: {columns: 2},
   fields: [
     defineField({name: 'name', title: 'Name', type: 'string'}),
-    defineField({name: 'points', title: 'Points', type: 'number'}),
+    defineField({name: 'points', title: 'Points', type: 'string'}),
   ],
   preview: {
     select: {title: 'name', points: 'points'},
     prepare({title, points}) {
-      return {title, subtitle: points != null ? `${points} pts` : undefined}
+      return {title, subtitle: points ? `${points} pts` : undefined}
     },
   },
 })
@@ -162,7 +166,7 @@ export const baseProfileFields = [
     type: 'string',
     options: {list: ['Hero', 'Warrior'], layout: 'radio', direction: 'horizontal'},
   }),
-  defineField({name: 'points', title: 'Points', type: 'number'}),
+  defineField({name: 'points', title: 'Points', type: 'string'}),
   defineField({
     name: 'unique',
     title: 'Unique',
@@ -243,8 +247,8 @@ export const baseProfileFieldsets = [
 export function profilePreview(editionTitle: string) {
   return {
     select: {title: 'name', category: 'category', points: 'points'},
-    prepare({title, category, points}: {title?: string; category?: string; points?: number}) {
-      const parts = [editionTitle, category, points != null ? `${points} pts` : undefined]
+    prepare({title, category, points}: {title?: string; category?: string; points?: string}) {
+      const parts = [editionTitle, category, points ? `${points} pts` : undefined]
       return {title, subtitle: parts.filter(Boolean).join(' · '), editionTitle, points}
     },
   }

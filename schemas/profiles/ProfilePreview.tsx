@@ -10,7 +10,7 @@ import {API_VERSION} from './baseProfile'
 type ProfilePreviewProps = PreviewProps & {
   _id?: string
   editionTitle?: string
-  points?: number
+  points?: string
 }
 
 /** Every army list the profile can be taken in, directly or through a formation. */
@@ -75,6 +75,6 @@ export function ProfilePreview(props: PreviewProps) {
 
   if (!_id || editionTitle === undefined) return props.renderDefault(props)
 
-  const parts = [editionTitle, armyLists?.join(', '), points != null ? `${points} pts` : undefined]
+  const parts = [editionTitle, armyLists?.join(', '), points ? `${points} pts` : undefined]
   return props.renderDefault({...props, subtitle: parts.filter(Boolean).join(' · ')})
 }

@@ -84,6 +84,11 @@ function ref(_ref: string, _key?: string) {
 function num(v: unknown): number | undefined {
   return typeof v === 'number' ? v : undefined
 }
+/** Points and heroic values are free text in the schema; the exports hold them as numbers. */
+function text(v: unknown): string | undefined {
+  if (typeof v === 'number') return String(v)
+  return typeof v === 'string' && v.trim() ? v.trim() : undefined
+}
 function strings(v: unknown): string[] | undefined {
   if (!Array.isArray(v)) return undefined
   const out = v.filter((x): x is string => typeof x === 'string')
@@ -226,7 +231,7 @@ async function main() {
     const id = `${config.profileType}-${slug(p.name)}`
     const heroic =
       r.might != null || r.will != null || r.fate != null
-        ? {might: num(r.might), will: num(r.will), fate: num(r.fate)}
+        ? {might: text(r.might), will: text(r.will), fate: text(r.fate)}
         : undefined
     const options = Array.isArray(r.options)
       ? r.options
@@ -235,7 +240,7 @@ async function main() {
             _key: `opt-${i}`,
             _type: 'profileOption',
             name: o.name,
-            points: num(o.points),
+            points: text(o.points),
           }))
       : undefined
     const doc: Row = {
@@ -243,7 +248,7 @@ async function main() {
       _type: config.profileType,
       name: p.name,
       category: p.category,
-      points: num(r.points),
+      points: text(r.points),
       unique: r.unique === true ? true : undefined,
       movement: num(r.movement),
       fightValue: num(r.fight),
