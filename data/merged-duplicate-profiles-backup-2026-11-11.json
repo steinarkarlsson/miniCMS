@@ -1,0 +1,101 @@
+[
+  {
+    "_createdAt": "2026-09-23T23:26:19Z",
+    "_id": "profile5e-uruk-hai-captain-assault-on-helm-s-deep",
+    "_rev": "mlvJHWK1e8jSXIm0e1k3d1",
+    "_type": "profile5e",
+    "_updatedAt": "2026-11-09T21:21:10Z",
+    "attacks": 2,
+    "category": "Hero",
+    "courage": 4,
+    "defence": 6,
+    "fightValue": 5,
+    "heroicActions": [
+      "Heroic March"
+    ],
+    "heroicValues": {
+      "fate": "1",
+      "might": "2",
+      "will": "1"
+    },
+    "keywords": [
+      "Uruk-Hai",
+      "Isengard",
+      "Infantry",
+      "Hero"
+    ],
+    "movement": 6,
+    "name": "Uruk-Hai Captain - Assault on Helm's Deep",
+    "options": [
+      {
+        "_key": "opt-0",
+        "_type": "profileOption",
+        "name": "Crossbow",
+        "points": "5"
+      },
+      {
+        "_key": "opt-1",
+        "_type": "profileOption",
+        "name": "Shield",
+        "points": "5"
+      },
+      {
+        "_key": "opt-2",
+        "_type": "profileOption",
+        "name": "Two-handed weapon",
+        "points": "5"
+      }
+    ],
+    "points": "60",
+    "shootValue": 4,
+    "strength": 5,
+    "wargear": [
+      "Heavy Armour",
+      "Sword"
+    ],
+    "wounds": 2
+  },
+  {
+    "_createdAt": "2026-09-23T23:26:19Z",
+    "_id": "profile5e-uruk-hai-shaman-assault-on-helm-s-deep",
+    "_rev": "mlvJHWK1e8jSXIm0e1k3d1",
+    "_type": "profile5e",
+    "_updatedAt": "2026-11-09T21:21:10Z",
+    "attacks": 1,
+    "category": "Hero",
+    "courage": 4,
+    "defence": 4,
+    "fightValue": 4,
+    "heroicActions": [
+      "Heroic Channeling"
+    ],
+    "heroicValues": {
+      "fate": "1",
+      "might": "1",
+      "will": "3"
+    },
+    "keywords": [
+      "Uruk-Hai",
+      "Isengard",
+      "Infantry",
+      "Hero"
+    ],
+    "movement": 6,
+    "name": "Uruk-Hai Shaman - Assault on Helm's Deep",
+    "options": [
+      {
+        "_key": "opt-0",
+        "_type": "profileOption",
+        "name": "Armour",
+        "points": "5"
+      }
+    ],
+    "points": "50",
+    "shootValue": 5,
+    "strength": 4,
+    "wargear": [
+      "Spear"
+    ],
+    "wounds": 2
+  }
+]

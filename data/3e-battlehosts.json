@@ -1,0 +1,2179 @@
+[
+ {
+  "kind": "Note",
+  "army": null,
+  "title": "Introduction",
+  "page": 3,
+  "text": "This book is an expansion for War of The Ring, one that enables you to group your formations into powerful units called battlehosts. These will form the core of your army, presenting you with a new way of collecting and personalising your forces, with extra abilities and tactics to exploit. Using this gaming supplement alongside the War of The Ring rulebook, you will be able to build and add battlehosts to your War of The Ring armies and use them in your battles for Middle-earth. [The Warriors of The Ring] The bulk of this book is split into ten parts, one for each of the factions involved in the War of The Ring. Each part contains: Battlehosts: Powerful bands of warriors to personalise your War of The Ring collection and incorporate into your battles for Middle-earth. Each battlehost includes a description of its role on the battlefield along with details of any new special rules and abilities they can use to secure victory. Fortunes and Fates: Brand-new Fortunes and Fates to bolster your forces and unleash upon your opponent. Each of the ten factions found in the War of The Ring rulebook gains access to a unique range of new Fortunes or Fates. These pages, found at the back of each Faction's section, detail the Fortunes and Fates that can be used by your forces. (No rules for buying or using battlehosts are printed on this page.)"
+ },
+ {
+  "kind": "Note",
+  "army": null,
+  "title": "What are Battlehosts?",
+  "page": 4,
+  "text": "A battlehost consists of several formations from the War of The Ring rulebook. [...] Battlehosts also give you access to new special rules, creating powerful fighting forces and opening up a whole new series of strategies to exploit.\n\n[Using Battlehosts] The battlehosts presented in this book can be used in any game of War of The Ring. Including battlehosts in your army is simple. After you have chosen your faction, you can include any battlehosts from that faction, and from allied factions if you wish. You may take several battlehosts in the same army, but each battlehost can only be taken once.\n\nA battlehost consists of several formations and Heroes from the War of The Ring rulebook, some of which must be taken if the battlehost is to be fielded, whilst others are optional. Each battlehost will clearly list the formations and Heroes it must include; having purchased them, you are free to include any of the optional formations that are listed. A formation or Hero that is not listed in a particular battlehost may not be included as part of it.\n\nFor a formation to be included in a battlehost it is sometimes necessary for it to contain a certain number of companies – this is indicated by a number in brackets after the name of the formation. Where there is no number it is assumed that the minimum size for each of these formations is a single company. You are free to buy any additional upgrades for any formations, including additional companies, as detailed in their individual entries in the War of The Ring rulebook.\n\nHaving purchased a battlehost's formations, you must then pay an additional points cost in order to field these formations as a battlehost. The points cost is indicated in the top-right hand corner of the page and takes account of all the additional special rules and abilities your warriors will gain. Having paid this premium, your battlehost is ready to take to the battlefield.\n\nFor an example, let us look at the Warg Riders of Isengard battlehost. This battlehost consists of Sharku's Hunters (which must contain at least 3 companies), and between 2 and 4 Warg Rider Warbands (each of which must contain 6 companies). To field this battlehost you will require 75 points (the battlehost's premium) plus the points cost of every company and upgrade (wargear and command options for example) in the battlehost.\n\nHaving selected all of your battlehosts, continue to build the remainder of your army as detailed in the War of The Ring rulebook.\n\nNote that any of your battlehost's Epic Heroes (or Heroes leading a Legendary Formation) can be nominated as your army's leader if you wish. If none of your battlehosts contain a suitable leader, or if you wish your army to be led by a different character, just select one from the War of The Ring rulebook, as normal.\n\n[Battlehosts and the Decrees] Formations in a battlehost are ignored for the purposes of the Decree of Rarity. This may mean that your army ends up with more Rare formations than would normally be permitted. When building the rest of your army, simply ignore any Rare and Common formations and companies that are part of a battlehost.\n\nSome battlehosts include formations from allied factions. For the purposes of the Decree of Allies these formations are ignored. However, if the battlehost itself is from an allied faction, then the total points cost of the battlehost counts towards the 25% points limit on allies that can be included in your army as normal.\n\nClearly it is not possible for your army to include the same Hero more than once; the Decree of Legends remains unchanged. If two different battlehosts require the same Epic Hero or Legendary formation in order to be fielded, you can take one or the other, but not both.\n\nHeroes only gain the special rules for the battlehost they were originally bought with and a Hero cannot belong to more than one battlehost in the same army. It is of course possible that your opponent may include the same battlehosts and Heroes that you have taken. It goes without saying that during such games, your opponent's battlehosts and Heroes do not confer advantages onto formations in your army, and vice-versa. The two armies are fighting a battle to the death after all!"
+ },
+ {
+  "kind": "Note",
+  "army": null,
+  "title": "Deploying Battlehosts / Battlehosts' Fortunes and Fates",
+  "page": 5,
+  "text": "[Deploying Battlehosts] Each battlehost counts as a single formation for the purposes of deployment and reinforcements. When deploying a battlehost, you should place all of its Heroes and formations on the board at the same time, making it clear to your opponent what the battlehost consists of. You will find that many of a battlehost's special rules only apply whilst they remain within a certain distance of their Heroes. As a result, it is often a good idea to deploy a battlehost's formations in close proximity to each other.\n\nIn games where you are using reinforcements, you can choose not to deploy a battlehost, having it arrive as reinforcements later on. You cannot, however, split a battlehost's constituent formations up – they either all deploy on the board or they all arrive as reinforcements. If during deployment you must roll to determine which formations can deploy and which must arrive as reinforcements, make a single dice roll for the entire battlehost. Similarly, if you must roll to determine when and where your reinforcements will arrive, roll for the entire battlehost as if it were a single formation and apply the result.\n\nBattlehosts arrive as reinforcements as per the normal scenario rules, but with all formations in the battlehost arriving during the same Move phase. If one or more of these formations cannot be placed due to insufficient space, they will automatically arrive in the following turn from the same table edge as their parent battlehost – there is no need to roll for them again.\n\nBecause certain warriors act as scouts for their parent battlehost, formations that have the Ambushers ability are an exception to the normal rules for deploying a battlehost. Such formations can be deployed using the Ambushers rule as described in the War of The Ring rulebook. This means they can 'arrive' after their parent battlehost has deployed (or before, if reinforcements are being used).\n\nOnce a battlehost has been deployed, its constituent Heroes and formations can act completely independently, albeit with the additional bonuses and special rules afforded to them as listed on the battlehost page.\n\n[Battlehosts' Fortunes and Fates] This book introduces additional Fortunes and Fates that are specific to a particular faction.\n\nIf your army includes a battlehost from a particular faction, you may select any of that faction's Fortunes or Fates. If you include battlehosts from allied factions, you may also select Fortunes and Fates from their faction (and note that their points cost does not count towards the points limit on allies).\n\nYou can choose any combination of Fortunes and Fates, be they from this book or the War of The Ring rulebook, but the total number taken cannot exceed the limit your army is normally allowed to include. No Fortune or Fate can be duplicated in the same army.\n\n[Page key] Title: The name of the battlehost is presented next to an icon representing the faction to which it belongs. Points Cost: In addition to the total points cost of the models in the battlehost, as listed in the War of The Ring rulebook, there is an extra points cost you must pay to field the battlehost. Description: This gives an description of the battlehost and its battlefield role, including details of who the warriors and Heroes are and why they fight together. Battlehost: This lists the formations and Heroes that must be included in the battlehost as well as the minimum number of companies each formation needs to include. Special Rules: There may be special rules that apply to some or all of the formations in the battlehost. These are in addition to the 'usual' special rules, as described in the War of The Ring rulebook. Diagram: This diagram illustrates the core formations, companies and Heroes that make up the battlehost. Showcase: Shown here are a few examples of the Heroes and warriors that fight in the battlehost, including some details and descriptions of their banners, markings, uniforms and heraldry."
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Gondor",
+  "title": "Faramir's Knights",
+  "page": 7,
+  "points": "50 points + models",
+  "composition": [
+   "Faramir",
+   "2-4 Minas Tirith Knights formations (6 companies)"
+  ],
+  "rules": [
+   {
+    "name": "Death or Glory",
+    "text": "All formations in this battlehost are Stalwart and Indomitable."
+   },
+   {
+    "name": "Valour of Gondor",
+    "text": "As long as they are within 12\" of Faramir, all formations in this battlehost are steadfast on a 4, 5 or 6, rather than a 6."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Gondor",
+  "title": "The Defenders of Minas Tirith",
+  "page": 8,
+  "points": "50 points + models",
+  "composition": [
+   "Gandalf the White",
+   "Peregrin Took, Guard of the Citadel",
+   "2-6 Minas Tirith Warriors formations (3+ companies)",
+   "1-3 Minas Tirith Archers formations (3+ companies)",
+   "0-1 Battlecry Trebuchet formation"
+  ],
+  "rules": [
+   {
+    "name": "Return to your Posts",
+    "text": "As long as they are within 12\" of Gandalf, all formations in this battlehost will automatically regroup in the Move phase."
+   },
+   {
+    "name": "Do Not Give in to Fear",
+    "text": "As long as they are within 12\" of Gandalf, all formations in this battlehost re-roll failed Terror tests. In addition, these formations re-roll their Panic test if they roll an 'Onset of Dismay' result."
+   },
+   {
+    "name": "Keep Firing!",
+    "text": "As long as they are within 12\" of Gandalf when he calls a Heroic Shoot action, all formations in this battlehost also count as having called a Heroic Shoot. Note that this also affects Battlecry Trebuchets, even though they would not normally be able to call a Heroic Shoot."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Gondor",
+  "title": "The Ecthelion Guard",
+  "page": 9,
+  "points": "75 points + models",
+  "composition": [
+   "Denethor's Guard (3+ companies)",
+   "0-1 Boromir",
+   "0-1 Faramir",
+   "1-2 Guards of the Fountain Court formations (2+ companies)",
+   "2-4 Minas Tirith Warriors formations (3+ companies)",
+   "0-4 Citadel Guards formations"
+  ],
+  "rules": [
+   {
+    "name": "The Steward's Sons",
+    "text": "As long as Denethor is within 12\" of Boromir, his Broken Mind special rule is suspended. In addition, if Denethor calls a Heroic action whilst he is within 12\" of Faramir and/or Boromir, Faramir and/or Boromir will automatically call a Heroic action of the same type without using any Might points."
+   },
+   {
+    "name": "Ecthelion's Finest",
+    "text": "As long as they are within 12\" of Denethor, all formations in this battlehost automatically pass their At the Double! tests and re-roll failed Terror tests."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Gondor",
+  "title": "Faramir's Rangers",
+  "page": 10,
+  "points": "25 points + models",
+  "composition": [
+   "Faramir",
+   "Rangers of Ithilien (3+ companies)",
+   "2-4 Rangers of Gondor formations (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "Forward Scouts",
+    "text": "All formations in this battlehost have the Pathfinder (Master) and Ambushers abilities. In addition, if arriving from reinforcements, this battlehost can re-roll any dice roll that determines when and where it will arrive."
+   },
+   {
+    "name": "The First Line of Defence",
+    "text": "As long as they are within 12\" of Faramir, all formations in this battlehost are steadfast on a 5 or 6, instead of a 6."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Gondor",
+  "title": "The Garrison of Osgiliath",
+  "page": 11,
+  "points": "50 points + models",
+  "composition": [
+   "Boromir",
+   "Osgiliath Veterans (3+ companies)",
+   "2-4 Minas Tirith Warriors formations (3+ companies)",
+   "0-2 Rangers of Gondor formations",
+   "0-2 Citadel Guards formations"
+  ],
+  "rules": [
+   {
+    "name": "Grizzled Veterans",
+    "text": "As long as they are within 12\" of Boromir, all formations in this battlehost are automatically steadfast if beaten in close combat by Orcs."
+   },
+   {
+    "name": "City Fighters",
+    "text": "All formations in this battlehost have the Pathfinder (Mountains) special rule to represent their sure-footedness when scrambling over city ruins.\n\nIn addition, when occupying a terrain feature that is either ruins or a building, supporting companies from this battlehost contribute D3 attacks instead of just 1 (for both shooting and close combat) – roll separately for each company."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Gondor",
+  "title": "Swanhost of Dol Amroth",
+  "page": 12,
+  "points": "50 points + models",
+  "composition": [
+   "Prince Imrahil of Dol Amroth",
+   "2-4 Knights of Dol Amroth formations (3+ companies)",
+   "1-2 Foot Knights of Dol Amroth formations (3+ companies)",
+   "1-2 Men-at-arms of Dol Amroth formations (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "The Lineage of Númenor",
+    "text": "As long as they are within 12\" of Prince Imrahil of Dol Amroth, all formations in this battlehost re-roll failed Courage tests. In addition, these formations ignore any negative modifiers to their Courage."
+   },
+   {
+    "name": "Amroth to Gondor",
+    "text": "As long as they are within 12\" of Prince Imrahil when he calls a Heroic Charge action, all formations in this battlehost also count as having called a Heroic Charge action. In addition, as long as they are within 12\" of Prince Imrahil when he calls an Epic Charge action, all formations in this battlehost also count as having called an Epic Charge action."
+   }
+  ],
+  "otherText": [
+   {
+    "heading": "The Men of the Outlands",
+    "text": "If you include the Fiefdoms of Gondor (see page 13) and the Swanhost of Dol Amroth battlehosts in the same army, the Swanhost of Dol Amroth will gain the Stand United rule (see page 13) as if they were part of the Fiefdoms of Gondor battlehost."
+   }
+  ],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Gondor",
+  "title": "The Fiefdoms of Gondor",
+  "page": 13,
+  "points": "75 points + models",
+  "composition": [
+   "1-2 Axemen of Lossarnach formations (3+ companies)*",
+   "1-2 Clansmen of Lamedon formations (3+ companies)",
+   "1-2 Rangers of Gondor formations (3+ companies)",
+   "1-2 Minas Tirith Warriors formations (3+ companies)",
+   "Blackroot Vale Archers (3+ companies)",
+   "0-1 Wardens of the Keys"
+  ],
+  "rules": [
+   {
+    "name": "For Gondor!",
+    "text": "As long as they are within 12\" of Forlong the Fat when he calls a Heroic Fight, all formations in this battlehost also count as having called a Heroic Fight."
+   },
+   {
+    "name": "Stand United",
+    "text": "If two or more formations from this battlehost are fighting against the same enemy formation in the Fight phase, they all receive a +1 bonus to their Fight value."
+   },
+   {
+    "name": "Aim for their Eyes",
+    "text": "Duinhir's Blackroot Vale Archers felled Mûmakil by shooting at the monster's eyes. When fielded as part of this battlehost, Blackroot Vale Archers' shooting attacks gain a +1 bonus to any rolls on the Hard to Kill! table (or equivalent)."
+   }
+  ],
+  "otherText": [
+   {
+    "heading": "*",
+    "text": "*One Axemen of Lossarnach formation must include Forlong the Fat."
+   },
+   {
+    "heading": "The Men of the Outlands",
+    "text": "If you include the Fiefdoms of Gondor and the Swanhost of Dol Amroth battlehosts (see page 12) in the same army, the Swanhost of Dol Amroth will gain the Stand United rule as if they were part of the Fiefdoms of Gondor battlehost."
+   }
+  ],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Gondor",
+  "title": "Army of the Dead",
+  "page": 14,
+  "points": "75 points + models",
+  "composition": [
+   "Court of the Dead King (3+ companies)",
+   "2-4 Warriors of the Dead formations (3+ companies)",
+   "0-2 Riders of the Dead formations"
+  ],
+  "rules": [
+   {
+    "name": "Regain Your Honour",
+    "text": "The Warriors of the Dead fight without any thought other than the destruction of their enemies, so eager are they to fulfil their oath and earn eternal rest. As long as they are within 12\" of the King of The Dead, all formations in this battlehost have the Berserk rule."
+   },
+   {
+    "name": "Terror Incarnate",
+    "text": "Enemy formations that are charged by two or more formations from this battlehost suffer a -1 penalty to their resulting Terror tests. In addition, enemy formations that lose a fight against a formation from this battlehost will suffer an Onset of Dismay result on a roll of a 1 or 2, instead of just a 1."
+   }
+  ],
+  "otherText": [
+   {
+    "heading": "An Alliance of Living and Dead",
+    "text": "If you include both the Return of The King (see page 15) and the Army of the Dead battlehosts in the same army, the Army of the Dead will gain the For Gondor! For the King! rule (see page 15) as if they were also part of the Return of The King battlehost."
+   }
+  ],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Gondor",
+  "title": "The Return of The King",
+  "page": 15,
+  "points": "75 points + models",
+  "composition": [
+   "The Three Hunters OR Aragorn, Gimli and Legolas",
+   "Elladan",
+   "Elrohir",
+   "The Grey Company",
+   "2-4 Clansmen of Lamedon formations (2+ companies)*"
+  ],
+  "rules": [
+   {
+    "name": "The Turning of the Tide",
+    "text": "Aragorn's arrival marks the turning of the tide for the forces of Good, snatching victory from the jaws of defeat. You may only use the Turning of the Tide special rule once per game. If you lose a fight involving a formation in this battlehost roll a D6 – on a 4+ (2+ if Aragorn is in the fight) your side is now treated as having won that fight."
+   },
+   {
+    "name": "Surprise Assault",
+    "text": "The arrival of Aragorn and his kinsmen is as unexpected as it is terrifying for Sauron's forces. As long as they are within 12\" of Aragorn, all formations in this battlehost have the Terror rule."
+   },
+   {
+    "name": "For Gondor! For the King!",
+    "text": "As long as they are within 12\" of Aragorn, all formations in this battlehost re-roll To Hit rolls of a 1 in a fight."
+   }
+  ],
+  "otherText": [
+   {
+    "heading": "*",
+    "text": "*One Clansmen of Lamedon formation must include Angbor the Fearless."
+   },
+   {
+    "heading": "An Alliance of Living and Dead",
+    "text": "If you include both the Return of The King and the Army of the Dead battlehosts (see page 14) in the same army, the Army of the Dead will gain the For Gondor! For the King! special rule as if they were also part of the Return of The King battlehost."
+   }
+  ],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Note",
+  "army": "Gondor",
+  "title": "Gondor Fortunes",
+  "page": 16,
+  "text": "These are additional Fortunes that you can select as long as your army contains one or more battlehosts from the Gondor army list."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Gondor",
+  "title": "Horn of Gondor",
+  "page": 16,
+  "points": "100 points",
+  "text": "Persistent effect. Choose one Gondor Epic Hero in your army to carry the Horn of Gondor. This Hero counts as a Hornblower and causes Terror."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Gondor",
+  "title": "Spiritbane Weapons",
+  "page": 16,
+  "points": "100 points",
+  "text": "Persistent effect. Choose one Gondor formation in your army (excluding Warriors of the Dead, Riders of the Dead of the Court of the Dead King). That formation gains the Spiritbane special rule.",
+  "uncertain": [
+   "Text reads 'Riders of the Dead of the Court of the Dead King' as printed (looks like 'of', possibly intended 'or'); scan is small."
+  ]
+ },
+ {
+  "kind": "Fortune",
+  "army": "Gondor",
+  "title": "The Valour of Númenor",
+  "page": 16,
+  "points": "75 points",
+  "text": "Intervention. Use this Fortune at the beginning of any Fight phase. Nominate one of your Gondor infantry or cavalry formations. For the remainder of the turn, the nominated formation will strike at the same time as cavalry (if it is infantry) or as monsters (if it is cavalry)."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Gondor",
+  "title": "Barded Warhorses",
+  "page": 16,
+  "points": "75 points",
+  "text": "Persistent effect. Choose one formation of either Minas Tirith Knights or Knights of Dol Amroth in your army. That formation's Defence characteristic is increased by 1."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Gondor",
+  "title": "Swan Banner of Dol Amroth",
+  "page": 16,
+  "points": "75 points",
+  "text": "Persistent effect. Choose one formation of either Foot Knights of Dol Amroth or Knights of Dol Amroth in your army that has a Banner Bearer. That banner is now an Army Banner for the remainder of the game. In addition, if Prince Imrahil of Dol Amroth is in the same company as this banner, his Inspiring Leader special rule will affect all friendly formations of Men within 18\"."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Gondor",
+  "title": "Stand, Men of the West!",
+  "page": 16,
+  "points": "75 points",
+  "text": "Intervention. Use this fortune immediately after one of your formations of Men loses a fight. That formation is automatically steadfast."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Gondor",
+  "title": "Siege Captain",
+  "page": 16,
+  "points": "50 points",
+  "text": "Intervention. Use this Fortune at the beginning of the Shoot phase. Nominate one of your Gondor formations with the Artillery special rule. For the remainder of that turn, the nominated formation adds +1 to any rolls on the Artillery table (including the Avenger Bolt Thrower table)."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Gondor",
+  "title": "Hidden Weapons Cache",
+  "page": 16,
+  "points": "25 points",
+  "text": "Persistent effect. Before forces are deployed on the board, nominate a single building or ruin. Any unit (friend of foe) that occupies this feature counts as having bows, shields and two-handed weapons in addition to its normal equipment. Be sure to tell your opponent which weapon the formation will be using in a fight.",
+  "uncertain": [
+   "'(friend of foe)' transcribed as printed (apparent typo for 'friend or foe')."
+  ]
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Kingdom of Rohan",
+  "title": "Théoden's Guard",
+  "page": 19,
+  "points": "75 points + models",
+  "composition": [
+   "Théoden, King of Rohan",
+   "0-1 Déorwine, Captain of the Royal Guard",
+   "The King's Guard (3+ companies)*",
+   "1-3 Royal Knights formations (3+ companies) OR 1-3 Rohan Royal Guard formations (3+ companies)*"
+  ],
+  "rules": [
+   {
+    "name": "For the King!",
+    "text": "As long as they are within 12\" of Théoden, all cavalry formations in this battlehost benefit from the Earth-shaking Charge rule on a roll of 4+ rather than 6."
+   },
+   {
+    "name": "Fear no Darkness!",
+    "text": "As long as they are within 12\" of Théoden, all formations in this battlehost ignore any negative modifiers to their Courage value."
+   }
+  ],
+  "otherText": [
+   {
+    "heading": "*",
+    "text": "*Note that this battlehost can consist of either cavalry or infantry, but not both. The King's Guard must include Gamling with the Royal Standard of Rohan"
+   }
+  ],
+  "statLines": [],
+  "uncertain": [
+   "Composition list is small, skewed and partly in the page gutter: 'Déorwine' (accent) and the exact position of the two asterisks are best readings."
+  ]
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Kingdom of Rohan",
+  "title": "Warriors of the Westfold",
+  "page": 20,
+  "points": "50 points + models",
+  "composition": [
+   "Grimbold's Helmingas (3+ companies)",
+   "0-1 Erkenbrand, Captain of the Westfold",
+   "2-4 Oathsworn Militia formations (3+ companies)",
+   "1-2 Oathsworn Bowmen formations (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "Grim Determination",
+    "text": "As long as they are within 12\" of Grimbold, all formations in this battlehost re-roll their Panic test if they roll an Onset of Dismay result."
+   },
+   {
+    "name": "Bitter Hatred",
+    "text": "All formations in this battlehost re-roll To Hit rolls of a 1 when fighting in close combat against any formation from the Fortress of Isengard faction."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Kingdom of Rohan",
+  "title": "Riders of the Westfold",
+  "page": 21,
+  "points": "75 points + models",
+  "composition": [
+   "Erkenbrand's Riders OR Erkenbrand, Captain of the Westfold",
+   "3-6 Riders of Rohan Éoreds (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "Lord of the Westfold",
+    "text": "As long as they are within 12\" of Erkenbrand, all formations in this battlehost re-roll failed Terror tests."
+   },
+   {
+    "name": "The Valour of Helm the Hammerhand",
+    "text": "As long as they are within 12\" of Erkenbrand, all formations in this battlehost strike at the same time as monsters."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Kingdom of Rohan",
+  "title": "Éomer's Knights",
+  "page": 22,
+  "points": "25 points + models",
+  "composition": [
+   "Éomer, Marshal of the Riddermark",
+   "0-1 Gandalf the White",
+   "4-6 Riders of Rohan Éoreds (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "Run them Through",
+    "text": "As long as they are within 12\" of Éomer when he calls a Heroic Charge, all formations in this battlehost also count as having called a Heroic Charge."
+   },
+   {
+    "name": "Light of Battle",
+    "text": "If Gandalf is included in this battlehost, then he gains the Light of Battle rule. As long as they are within 12\" of Gandalf, all formations in this battlehost will never lose their charge bonus for charging pike-armed enemy formations."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Note",
+  "army": "The Kingdom of Rohan",
+  "title": "Rohan Fortunes",
+  "page": 23,
+  "text": "These are additional Fortunes that you can select as long as your army contains one or more battlehosts from the Kingdom of Rohan."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Kingdom of Rohan",
+  "title": "Horns of the Rohirrim",
+  "page": 23,
+  "points": "125 points",
+  "text": "Intervention. Use this Fortune at the beginning of any Priority phase. Until the beginning of your following turn, all friendly Rohan formations with a Hornblower cause Terror."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Kingdom of Rohan",
+  "title": "Now for Wrath, Now for Ruin!",
+  "page": 23,
+  "points": "75 points",
+  "text": "Intervention. Use this Fortune immediately before rolling for the charge distance of one of your Rohan cavalry formations. That roll is automatically a 6 – unstoppable charge!"
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Kingdom of Rohan",
+  "title": "An End Worthy of Song",
+  "page": 23,
+  "points": "50 points",
+  "text": "Intervention. Use this Fortune when one of your Rohan Heroes is slain in a Heroic Duel, just before removing the model. All friendly Heroes within 12\" of the dying model immediately gain a point of Might. This can even raise a Hero's Might above his starting value!"
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Kingdom of Rohan",
+  "title": "Legendary Throw",
+  "page": 23,
+  "points": "50 points",
+  "text": "Intervention. Use this Fortune during one of your Shoot phases. Pick a single enemy monster within 6\" of one of your Rohan Heroes. Roll a dice, on a 2+ the throw strikes true and wounds the creature – immediately roll on the Hard to Kill! table (or equivalent), and apply the result to the monster."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Kingdom of Rohan",
+  "title": "The Strength of the Mearas",
+  "page": 23,
+  "points": "50 points",
+  "text": "Persistent effect. Choose one Rohan cavalry formation in your army – their Strength is now increased by 1."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Kingdom of Rohan",
+  "title": "Bring it Down!",
+  "page": 23,
+  "points": "25 points",
+  "text": "Persistent effect. Choose a single Common Rohan infantry or cavalry formation in your army. This formation re-rolls any To Hit rolls of a 1 when fighting against monsters."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Kingdom of Rohan",
+  "title": "Defensive Stakes",
+  "page": 23,
+  "points": "25 points",
+  "text": "Persistent effect. Before forces are deployed on the board, nominate a single defensible terrain feature that is either a building or ruins. Any formation (friend or foe!) occupying the terrain feature counts as being armed with pikes in addition to their normal equipment."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Kingdom of Rohan",
+  "title": "Headstrong Young Ones",
+  "page": 23,
+  "points": "25 points",
+  "text": "Persistent effect. Choose one Common Rohan cavalry formation in your army. Every time this formation rolls an unstoppable charge result, its companies get D6 extra attacks rather than D3."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Kingdom of Rohan",
+  "title": "Lord of Horses",
+  "page": 23,
+  "points": "25 points",
+  "text": "Persistent effect. While Gandalf the White is with a formation of Rohan cavalry, that formation automatically passes their At the Double! tests."
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Elven Kingdoms",
+  "title": "Thranduil's Host",
+  "page": 25,
+  "points": "75 points + models",
+  "composition": [
+   "Thranduil, King of Mirkwood",
+   "0-1 Legolas, Prince of Mirkwood",
+   "1-2 Mirkwood Sentinels formations",
+   "3-6 Wood Elf Warbands (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "Woodland Stalkers",
+    "text": "All formations in this battlehost can use the Ambushers special rule, but can only do so in woods or forests."
+   },
+   {
+    "name": "Tree Folk",
+    "text": "All formations in this battlehost receive an additional +1 to their Defence bonus when occupying a defensible terrain feature that is either woods or forests."
+   },
+   {
+    "name": "Thranduil's Nobles",
+    "text": "Thranduil is accompanied by the noblest warriors of his realm. As long as they are within 12\" of Thranduil, all formations in this battlehost re-roll failed Courage tests."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Elven Kingdoms",
+  "title": "Lothlórien Warhost",
+  "page": 26,
+  "points": "75 points + models",
+  "composition": [
+   "Galadriel, Lady of Lothlórien OR Galadriel, Protectress of Lothlórien",
+   "Celeborn, Lord of Lothlórien",
+   "3-4 Galadhrim Regiments (3+ companies)",
+   "1-2 Galadhrim Knight Regiments (3+ companies)",
+   "1-2 Galadhrim Archer Regiments (3+ companies)",
+   "0-1 Guardians of Caras Galadhon",
+   "0-2 Guards of the Galadhrim Court"
+  ],
+  "rules": [
+   {
+    "name": "More than Songs and Arrows Protect Us",
+    "text": "Whenever a Hero from the Lothlórien Warhost attempts a Will of Iron roll, he may add +1 to the result if he is within 12\" of Galadriel."
+   },
+   {
+    "name": "The King and Queen of Lothlórien",
+    "text": "If Celeborn and Galadriel are in the same company and their formation makes a successful charge, the enemy must take the ensuing Terror test on three dice, discarding the highest result."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Elven Kingdoms",
+  "title": "Rivendell Guardians",
+  "page": 27,
+  "points": "50 points + models",
+  "composition": [
+   "Elrond",
+   "Rivendell Guard",
+   "1-2 High Elf Archer Regiments (3+ companies)",
+   "1-4 High Elf Regiments (3+ companies)",
+   "Gildor's Household (3+ companies)",
+   "0-2 High Elf Cohorts"
+  ],
+  "rules": [
+   {
+    "name": "Tangado haid!",
+    "text": "With a cry, Elrond orders his warriors to hold their positions and slay the Orcs. As long as they are within 12\" of Elrond, all formations in this battlehost re-roll any To Hit rolls of a 1 against Orcs. In addition, as long as Elrond is alive, formations of Orc infantry do not receive any bonus dice for charging against formations from this battlehost."
+   },
+   {
+    "name": "The Wisdom of Rivendell",
+    "text": "If Elrond and Erestor are in the same company in the Priority phase, and the roll-off to determine priority results in a draw (after any other modifiers), do not re-roll the dice – the Good side is assumed to have won the result instead."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Elven Kingdoms",
+  "title": "Haldir's Archers",
+  "page": 28,
+  "points": "50 points + models",
+  "composition": [
+   "Haldir's Elves OR Haldir, Guardian of Lórien",
+   "0-1 Legolas, Prince of Mirkwood",
+   "2-4 Galadhrim Archer Regiments (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "An Alliance of Elves and Men",
+    "text": "The sight of Elves fighting alongside them raises the hearts of Men. Haldir has the Inspiring Leader (Elves and Men) ability."
+   },
+   {
+    "name": "Shoot Where their Armour is Weakest",
+    "text": "As long as they are within 12\" of either Haldir or Legolas in the Shoot phase, all formations in this battlehost re-roll failed To Hit rolls against Uruk-hai."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Note",
+  "army": "Elven Kingdoms",
+  "title": "Elven Kingdoms Fortunes",
+  "page": 29,
+  "text": "These are additional Fortunes that you can select as long as your army contains one or more battlehosts from the Elven Kingdoms."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Elven Kingdoms",
+  "title": "Star-glass",
+  "page": 29,
+  "points": "125 points",
+  "text": "Persistent effect. Choose one Elf Hero or Epic Hero in your army – this is the bearer of the Star-glass. Enemy formations wishing to charge a formation containing this Hero must re-roll any successful Terror tests. In addition, such is the blinding light of the Star-glass that enemy Heroes (including Epic Heroes and Monstrous Heroes) that fight in a Heroic Duel against the bearer suffer a -1 penalty to their Fight value."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Elven Kingdoms",
+  "title": "The Standard of Lothórien",
+  "page": 29,
+  "points": "75 points",
+  "text": "Persistent effect. Choose one formation of Elves in your army that has a Banner Bearer. That banner is now an Army Banner for the remainder of the game. In addition, if either Galadriel (Lady of Lothlórien or Protectress of Lothlórien) or Celeborn is in the same company as this banner then they gain the Inspiring Leader (Elves) special rule.",
+  "uncertain": [
+   "Title appears printed as 'The Standard of Lothórien' (missing second 'l'); transcribed as printed, the body text uses 'Lothlórien'."
+  ]
+ },
+ {
+  "kind": "Fortune",
+  "army": "Elven Kingdoms",
+  "title": "Enchanted Stone",
+  "page": 29,
+  "points": "50 points",
+  "text": "Intervention. Use this Fate after an enemy formation with the Ambushers special rule deploys within 24\" of any of your formations of Elves. Select one of your longbow-equipped units that is within range and line of sight of the ambushing unit. The nominated unit may immediately shoot the ambushers – this is an additional, but out-of-sequence, round of shooting and does not prevent the formation shooting again in the Shoot phase. In addition, such is the surprise of the ambushers at being caught that they receive no Defence bonus from the terrain against these attacks.",
+  "uncertain": [
+   "Text says 'Use this Fate' as printed (on a Fortunes page)."
+  ]
+ },
+ {
+  "kind": "Fortune",
+  "army": "Elven Kingdoms",
+  "title": "Galadhrim Cloaks",
+  "page": 29,
+  "points": "50 points",
+  "text": "Persistent effect. Choose one Elvish formation in your army. That formation now counts as having enchanted cloaks. Formations that already have enchanted cloaks gain the Ambushers special rule."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Elven Kingdoms",
+  "title": "Spiderbane Weapons",
+  "page": 29,
+  "points": "25 points",
+  "text": "Persistent effect. Choose one formation of Elves in your army. That formation gains the Spiderbane special rule."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Elven Kingdoms",
+  "title": "Sacred Haven",
+  "page": 29,
+  "points": "25 points",
+  "text": "Persistent effect. Before forces are deployed on the board, nominate a single building, ruin or forest. Enemy formations must pass a Courage test to move through or occupy this terrain feature."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Elven Kingdoms",
+  "title": "The Mirror of Galadriel",
+  "page": 29,
+  "points": "25 points",
+  "text": "Intervention. Use this Fortune at the beginning of any Priority phase in which players need to roll-off to determine priority. The player using this Fortune rolls two dice and selects the highest when determining who has the priority during this turn."
+ },
+ {
+  "kind": "Fortune",
+  "army": "Elven Kingdoms",
+  "title": "Wisdom of the Firstborn",
+  "page": 29,
+  "points": "25 points",
+  "text": "Intervention. Use this Fortune in the Move phase before any of your spellcasters uses a magical power. Select one of your Elvish spellcasters. For the remainder of that turn that spellcaster may re-roll any failed Focus rolls."
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Dwarf Holds",
+  "title": "The Host of Erebor",
+  "page": 31,
+  "points": "75 points + models",
+  "composition": [
+   "Dáin Ironfoot",
+   "0-1 King's Champion",
+   "Múrin's Guard",
+   "2-4 Dwarf Warrior Kinbands (3+ Companies)",
+   "1-2 Dwarf Archer Kinbands (3+ Companies)",
+   "0-2 Khazad Guard Kinbands"
+  ],
+  "rules": [
+   {
+    "name": "King Under the Mountain",
+    "text": "Dáin is a fearless and wise king, and he has led his people justly for many long years. As long as they are within 12\" of Dáin, all formations in this battlehost re-roll failed Terror tests. In addition, Dáin's Courage can never be modified (up or down)."
+   },
+   {
+    "name": "My Thought is my Own to Spend",
+    "text": "Dáin is stubborn, even for a Dwarf, and he does not easily bend to the will of others. Dáin can spend Might points to resist a spell cast on his own formation, or any Host of Erebor formation within 12\". Furthermore, Dáin adds +1 to any Will of Iron roll that he makes."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Dwarf Holds",
+  "title": "Drár's Wardens",
+  "page": 32,
+  "points": "50 points + models",
+  "composition": [
+   "Drár's Hunters (3+ companies)",
+   "2-4 Dwarf Ranger Kinbands (3+ companies)",
+   "1-2 Iron Guard Kinbands"
+  ],
+  "rules": [
+   {
+    "name": "Dwarves Too Can Go Swiftly",
+    "text": "All formations in this battlehost have a Movement value of 6 and the Pathfinders (Master) ability. In addition, as long as they are within 12\" of Drár, all formations in this battlehost will automatically pass their At the Double! tests."
+   },
+   {
+    "name": "Dwarves Make Light of Burdens",
+    "text": "The Dwarves who guard the east-west road are able to march swiftly, unencumbered by even great burdens. As long as they are within 12\" of Drár at the start of the Move phase, all formations in this battlehost can make a full move and still fire their bows in the Shoot phase."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Note",
+  "army": "The Dwarf Holds",
+  "title": "Dwarf Holds Fortunes",
+  "page": 33,
+  "text": "These are additional Fortunes that you can select as long as your army contains one or more battlehosts from the Dwarf Holds."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Dwarf Holds",
+  "title": "Baruk-Khazad!",
+  "page": 33,
+  "points": "75 points",
+  "text": "Persistent Effect. Choose one Dwarf formation in your army, that formation receives +1 to all rolls to hit throughout the game."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Dwarf Holds",
+  "title": "Khazad Ai-menu!",
+  "page": 33,
+  "points": "75 points",
+  "text": "Intervention. Use this fortune immediately before rolling the charge distance of one of your Dwarf formations. That roll is automatically a 6 – unstoppable charge!",
+  "uncertain": [
+   "Title read as 'Khazad Ai-menu!' (small type; no diacritics visible)."
+  ]
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Dwarf Holds",
+  "title": "The Gleaming Horn",
+  "page": 33,
+  "points": "75 points",
+  "text": "Intervention. Use this at the start of the Charge phase. Nominate a Dwarf Hero in your army. All friendly Dwarf units within 12\" of that Hero cause Terror until the end of the turn."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Dwarf Holds",
+  "title": "Dwarven Stonework",
+  "page": 33,
+  "points": "50 points",
+  "text": "Persistent effect. Before forces are deployed on the board, nominate a single defensible terrain feature that is either a building or a ruin. That feature's Defence bonus increases by 4. This Fortune cannot be combined with the Forgotten Fortifications Fortune from the War of The Ring rulebook."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Dwarf Holds",
+  "title": "Gold-lust",
+  "page": 33,
+  "points": "50 points",
+  "text": "Persistent effect. Nominate one Dwarf formation in your army. That formation gains the Indomitable special rule."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Dwarf Holds",
+  "title": "Master Craftsmen",
+  "page": 33,
+  "points": "50 points",
+  "text": "Intervention. Use this fortune before you fire one of your Dwarf Ballista formations. You may re-roll any dice when rolling on the Ballista table, and when determining how many hits have been caused."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Dwarf Holds",
+  "title": "Sworn Foe",
+  "page": 33,
+  "points": "50 points",
+  "text": "Persistent Effect. Choose an enemy Hero at the start of the game. Any Dwarf Hero can issue a Heroic Duel against the target without having to spend a Might point."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Dwarf Holds",
+  "title": "Long Memories",
+  "page": 33,
+  "points": "25 points",
+  "text": "Intervention. Use this Fortune at the beginning of any Priority phase. For that phase, you may roll two dice when rolling for priority, discarding the lowest result."
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Forgotten Kingdoms",
+  "title": "Last March of the Ents",
+  "page": 35,
+  "points": "75 points + models",
+  "composition": [
+   "Treebeard",
+   "3-9 Ents",
+   "0-1 Quickbeam",
+   "0-1 Beechbone"
+  ],
+  "rules": [
+   {
+    "name": "To Isengard with Doom we Come!",
+    "text": "All Ents from this battlehost re-roll To Hit rolls of a 1 when in close combat with formations from the Fortress of Isengard faction."
+   },
+   {
+    "name": "Ra-hoom-rah!",
+    "text": "As long as they are within 12\" of Treebeard, all Ents in this battlehost can re-roll the dice to determine how far they charge."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Forgotten Kingdoms",
+  "title": "The Muster of the Shire",
+  "page": 36,
+  "points": "25 points + models",
+  "composition": [
+   "0-1 Gandalf the Grey",
+   "0-1 Peregrin Took, Guard of the Citadel",
+   "0-1 Meriadoc, Esquire of Rohan",
+   "2-4 Hobbit Militia formations (3+ Companies)",
+   "1-2 Hobbit Archer Militia formations (3+ Companies)"
+  ],
+  "rules": [
+   {
+    "name": "At the Head of the Host.",
+    "text": "Each formation in the Muster of the Shire will have one of the following special rules to represent the temperament of the family that is leading the formation. Choose which special rule applies to each formation at the start of the game, before either force is deployed."
+   },
+   {
+    "name": "Tookish Enthusiasm.",
+    "parent": "At the Head of the Host.",
+    "text": "All Tookish formations led by a Civic Leader re-roll failed Terror tests."
+   },
+   {
+    "name": "Bull-headed Brandybucks.",
+    "parent": "At the Head of the Host.",
+    "text": "All Brandybucks formations led by a Civic Leader count as having Banner Bearers."
+   },
+   {
+    "name": "Bold as a Baggins.",
+    "parent": "At the Head of the Host.",
+    "text": "All Civic Leaders in a Baggins formation are Courage 5 and have the Inspiring Leader (Hobbits) special rule."
+   },
+   {
+    "name": "Proudfoot by Name, Lightfoot by Nature.",
+    "parent": "At the Head of the Host.",
+    "text": "All Proudfoot formations led by a Civic Leader have Movement 6 and the Pathfinder (Woodland) special rule."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": [
+   "The four family rules are printed as dash-bulleted sub-rules under 'At the Head of the Host.'; they are given as separate rules entries with a 'parent' key."
+  ]
+ },
+ {
+  "kind": "Note",
+  "army": "The Forgotten Kingdoms",
+  "title": "Forgotten Kingdoms Fortunes",
+  "page": 37,
+  "text": "These are additional Fortunes that you can select as long as your army contains one or more battlehosts from the Forgotten Kingdoms."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Forgotten Kingdoms",
+  "title": "Wizards Ought to Know Better",
+  "page": 37,
+  "points": "100 points",
+  "text": "Persistent effect. All of your Forgotten Kingdoms Heroes may add +1 to their Will of Iron rolls."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Forgotten Kingdoms",
+  "title": "Your Staff is Broken",
+  "page": 37,
+  "points": "75 points",
+  "text": "Intervention. Use this Fortune in the Move phase and nominate one of your spellcasters. Instead of casting any spells that turn he may attempt to break the staff (stave, totem, sorcerous crown, etc.) of a single enemy Wizard. Nominate any enemy spellcaster within 18\" of one of your spellcasters. Both players roll a D6 and add the respective Mastery levels of their spellcasters. If your opponent's score is greater then nothing happens. Otherwise, the enemy spellcaster's Mastery level is immediately reduced by D3. If this takes the Mastery level to 0 or less, he may no longer cast any spells during the game."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Forgotten Kingdoms",
+  "title": "Entwash",
+  "page": 37,
+  "points": "75 points",
+  "text": "Persistent effect. Choose one Ent in your army to have imbibed a bowl of Entwash. The model can now attempt to move At the Double! even though it is not a Hero. In addition the Ent now replaces its Hard to Kill! special rule with the Very Hard to Kill! special rule."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Forgotten Kingdoms",
+  "title": "Ancient Knowledge",
+  "page": 37,
+  "points": "50 points",
+  "text": "Persistent effect. Choose one Forgotten Kingdoms Epic Hero in your army. Whilst that model is still alive you may re-roll any Priority rolls of a 1."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Forgotten Kingdoms",
+  "title": "Go Back to the Abyss",
+  "page": 37,
+  "points": "50 points",
+  "text": "Intervention. Use this Fortune when one of your Forgotten Kingdoms spellcasters is involved in a Fight against an enemy Spirit formation (including any enemy formations led by a Spirit). The spellcaster and his formation have the Spiritbane ability until the end of the turn."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Forgotten Kingdoms",
+  "title": "Wrathful Woodland",
+  "page": 37,
+  "points": "25 points",
+  "text": "Intervention. Use this Fortune at the start of any phase. Nominate a single woodland defensible terrain feature. Any formation occupying that terrain feature immediately suffers D6+4 Strength 10 hits."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Forgotten Kingdoms",
+  "title": "Plucky Courage",
+  "page": 37,
+  "points": "25 points",
+  "text": "Intervention. Use this Fortune at the beginning of any Fight phase. For the rest of the turn one of your Hobbit formations is assumed to automatically pass any Courage tests it is required to take."
+ },
+ {
+  "kind": "Fortune",
+  "army": "The Forgotten Kingdoms",
+  "title": "Split Stone",
+  "page": 37,
+  "points": "25 points",
+  "text": "Intervention. Use this Fortune after one of your Ents charges an enemy formation occupying a defensible terrain feature that is either a building or ruins. The enemy formation immediately suffers D6+4 Strength 8 hits. After hits have been resolved, the Defence bonus the terrain feature offers is permanently reduced by 1."
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Mordor",
+  "title": "Gorgoroth Orc Horde",
+  "page": 39,
+  "points": "75 points + models",
+  "composition": [
+   "1 Mordor Orc Warband (12-18 companies).*"
+  ],
+  "rules": [
+   {
+    "name": "The Eye of the Master is upon Us.",
+    "text": "Whenever you roll a 3 or less for priority, the gaze of Sauron is upon the Gorgoroth Orc Horde until the end of the turn – place a counter next to the formation as a reminder. Whilst fighting under the gaze of Sauron, the Gorgoroth Orc Horde re-rolls any failed Courage tests."
+   },
+   {
+    "name": "Might Makes Right!",
+    "text": "If the Captain is ever slain (by any means) the next biggest and meanest Orc will step up to take charge of the Horde, probably after thieving his best bits of armour and nosh in the process. Replace the Captain with a suitable rank and file Orc – he is now the formation's Captain and will have D3 Might points. Note that it's possible for a Gorgoroth Orc Horde to get through several Captains over the course of the game."
+   },
+   {
+    "name": "Mob Weaponry",
+    "text": "Their are so many Orcs in the Gorgoroth Horde and so many different weapons that they always seem to have the right tool for the job. The Orcs in this battlehost count as being armed with hand weapons, two-handed weapons, shields and bows. Players may wish to represent their Gorgoroth Orc companies with a variety of differently armed Orcs."
+   }
+  ],
+  "otherText": [
+   {
+    "heading": "*",
+    "text": "*Note that this battlehost is but a single massive formation – one that is even bigger than you would normally be allowed to field! This formation must include both a Captain and a Taskmaster."
+   }
+  ],
+  "statLines": [],
+  "uncertain": [
+   "'Their are so many Orcs' in Mob Weaponry is transcribed as printed."
+  ]
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Mordor",
+  "title": "The Fortress of Barad-dûr",
+  "page": 40,
+  "points": "100 points + models",
+  "composition": [
+   "The Mouth of Sauron",
+   "Black Guard of Barad-dûr",
+   "1-2 Morgul Knight Regiments (3+ companies)",
+   "1-2 Morannon Orc Warbands (3+ companies)",
+   "1-2 Mordor Orc Warbands (6+ companies)",
+   "0-2 Black Númenórean Regiments"
+  ],
+  "rules": [
+   {
+    "name": "The Will of Sauron",
+    "text": "As long as they are within 12\" of the Mouth of Sauron, roll a D6 for each point of Might used (for whatever reason) by a Hero from this battlehost, including the Mouth of Sauron himself. For each roll of a 5 or 6, that Hero regains one of the used points of Might."
+   },
+   {
+    "name": "Do Not Fail the Eye",
+    "text": "All formations in this battlehost are steadfast on a roll of 5 or 6, rather than 6."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Mordor",
+  "title": "The Black Legion of Mordor",
+  "page": 41,
+  "points": "75 points + models",
+  "composition": [
+   "1 Mordor Troll Chieftain",
+   "3-6 Morannon Orc Warbands (3+ companies)",
+   "3-6 Mordor Trolls"
+  ],
+  "rules": [
+   {
+    "name": "The Dark Lord's Chosen",
+    "text": "All formations in this battlehost re-roll To Hit rolls of a 1 in combat during any turn in which they successfully charged an enemy formation."
+   },
+   {
+    "name": "Commanding Bellow",
+    "text": "As long as they are within 12\" of the Mordor Troll Chieftain, all infantry formations in this battlehost will automatically pass their At the Double! rolls and all Mordor Trolls can re-roll the dice to determine how far they charge."
+   },
+   {
+    "name": "Yer Skull fer a Trophy!",
+    "text": "The Troll Chieftains of the Black Legion are amongst the most ferocious of their kind and live for the slaughter of enemy Heroes – especially those from Gondor. The Mordor Troll Chieftain can re-roll results of 1 when rolling on the Heroic Duel table."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Mordor",
+  "title": "Gothmog's Morannon Orcs",
+  "page": 42,
+  "points": "50 points + models",
+  "composition": [
+   "Gothmog, Castellan of Minas Morgul",
+   "4-8 Morannon Orc Warbands (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "City Rats",
+    "text": "All formations in this battlehost have the Pathfinder (Mountains) special rule to represent their sure-footedness. In addition, all formations in this battlehost gain an additional +1 to their Defence value when occupying a terrain feature that is either ruins or a building."
+   },
+   {
+    "name": "Hunters of Men",
+    "text": "As long as they are within 12\" of Gothmog, all formations in this battlehost are automatically steadfast if beaten in close combat by Men."
+   },
+   {
+    "name": "Kill All in your Path",
+    "text": "As long as they are within 12\" of Gothmog when he calls a Heroic Fight, all formations in this battlehost also count as having called a Heroic Fight."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Mordor",
+  "title": "Mordor Siege Lords",
+  "page": 43,
+  "points": "75 points + models",
+  "composition": [
+   "Gothmog, Castellan of Minas Morgul AND/OR Grishnákh's Trackers",
+   "1-3 Mordor Orc Warband (3+ companies)",
+   "0-2 Siege Bow Batteries",
+   "1-2 War Catapult Batteries*",
+   "0-6 Mordor Trolls*"
+  ],
+  "rules": [
+   {
+    "name": "Flaming Ammunition",
+    "text": "As long as they are within 12\" of either Gothmog or Grishnákh at the beginning of the Shoot phase, Siege Bows and War Catapults in this battlehost shoot flaming ammunition. Enemy formations do not receive a Defence bonus for occupying a defensible terrain feature against flaming ammunition attacks."
+   },
+   {
+    "name": "Troll Loaders",
+    "text": "If a Mordor Troll from this battlehost is in base contact with a War Catapult in the Shoot phase, he may act as a loader, increasing the efficiency of the war engine – the War Catapult may roll two dice and pick the highest result when rolling on the Artillery table. If it does so, the Mordor Troll may not use its own throwing weapons or charge that turn – its rather limited attention is solely focused on the the task of loading rocks into the catapult."
+   }
+  ],
+  "otherText": [
+   {
+    "heading": "*",
+    "text": "You may not include more Mordor Trolls than War Catapults in this battlehost."
+   }
+  ],
+  "statLines": [],
+  "uncertain": [
+   "Troll Loaders: 'on the the task' is a doubled word as printed.",
+   "Composition bullet reads '1-3 Mordor Orc Warband' (singular) as printed."
+  ]
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Mordor",
+  "title": "The Hunters of Cirith Ungol",
+  "page": 44,
+  "points": "25 points + models",
+  "composition": [
+   "Shagrat's Tower Guard (3 companies)",
+   "1-3 Mordor Uruk-hai Warbands (3+ companies)",
+   "1-3 Mordor Orc Warbands (6+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "Discipline Through Fear and Brutality",
+    "text": "As long as they are within 12\" of Shagrat, all formations in this battlehost count as having a Taskmaster in their formation and can re-roll any Terror or Panic tests they are required to take. However, if Shagrat is slain, the animosity between the Orcs and Black Uruks will no longer be contained and they may start brawling. At the start of every Priority phase following Shagrat's death, roll a D6 for each formation in this battlehost. On a roll of 1 it has been attacked by rivals and the formation immediately suffers D3 casualties."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Mordor",
+  "title": "Morgul Rat Warband",
+  "page": 45,
+  "points": "50 points + models",
+  "composition": [
+   "Gorbag's Morgul Rats (3 companies)",
+   "2-4 Mordor Orc Warbands (3+ companies)",
+   "1-2 Orc Tracker Warbands (2+ companies)",
+   "1-2 Morgul Stalker Warbands"
+  ],
+  "rules": [
+   {
+    "name": "Skulk in the Shadows",
+    "text": "All formations in this battlehost have the Ambushers special rule. In addition, if arriving as reinforcements, this battlehost can re-roll any dice roll that determines when and where it will arrive."
+   },
+   {
+    "name": "A Knife in the Back",
+    "text": "All Morgul Rat Warband formations have the Prowlers special rule. In addition, as long as they are within 12\" of Gorbag, all formations in this battlehost can re-roll any Terror test required to charge an enemy in the flank or rear."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Mordor",
+  "title": "The Knights of Morgul",
+  "page": 46,
+  "points": "75 points + models",
+  "composition": [
+   "The Dark Marshal AND/OR The Mouth of Sauron",
+   "4-8 Morgul Knight Regiments (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "Cruelty and Malice",
+    "text": "Enemy formations that lose a fight against a formation from this battlehost will suffer an Onset of Dismay result on a roll of a 1 or 2, instead of just a 1."
+   },
+   {
+    "name": "Ordered as Shadows",
+    "text": "As long as they are within 12\" of either the Dark Marshal or the Mouth of Sauron, all formations in this battlehost are Stalwart and automatically pass their At the Double! rolls."
+   },
+   {
+    "name": "Devastating Charge",
+    "text": "As long as they are within 12\" of the Dark Marshal, formations in this battlehost make Earth-shaking Charges on a roll of a 5 or 6, instead of a 6."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Mordor",
+  "title": "The Nazgûl",
+  "page": 47,
+  "points": "100 points + models",
+  "composition": [
+   "4-9 Winged Nazgûl"
+  ],
+  "rules": [
+   {
+    "name": "The King of the Wraith Host",
+    "text": "If fielded as part of this battlehost, the Witch-king of Angmar is Very Hard to Kill! In addition, as long as they are within 12\" of the Witch-king, all Winged Nazgûl in this battlehost are Very Hard to Kill!"
+   },
+   {
+    "name": "Terror Unbound",
+    "text": "If an enemy formation is charged by two or more Winged Nazgûl, the resulting Terror test must be made on three dice rather than two, discarding the highest dice roll."
+   },
+   {
+    "name": "Wraiths on Wings",
+    "text": "If a Winged Nazgûl makes a swoop attack on an enemy formation that already suffered a swoop attack earlier in the same phase, then he inflicts an additional D3 Strength 6 hits on the enemy formation. This bonus is cumulative, so if three Nazgûl perform a swoop attack on the same unit, then the first will inflict D3 hits, the second will inflict 2D3 hits and the third will inflict 3D3 hits."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Note",
+  "army": "Mordor",
+  "title": "Mordor Fates",
+  "page": 48,
+  "text": "These are additional Fates that you can select as long as your army contains one or more battlehosts from Mordor."
+ },
+ {
+  "kind": "Fate",
+  "army": "Mordor",
+  "title": "Death! Death! Death!",
+  "page": 48,
+  "points": "75 points",
+  "text": "Intervention. Use this Fate at the beginning of any Fight phase and nominate a single one of your Mordor infantry or cavalry formations. For the duration of that turn, that formation re-rolls all failed To Hit rolls in close combat and should they win a combat they will inflict an extra D6 automatic hits on the enemy, such is the carnage they unleash upon their hated foes."
+ },
+ {
+  "kind": "Fate",
+  "army": "Mordor",
+  "title": "Despoilers of Cities",
+  "page": 48,
+  "points": "50 points",
+  "text": "Persistent effect. Before forces are deployed on the board, nominate a single defensible terrain feature that is either a building or ruins. That feature's Capacity decreases by D3."
+ },
+ {
+  "kind": "Fate",
+  "army": "Mordor",
+  "title": "Doom and Despair",
+  "page": 48,
+  "points": "50 points",
+  "text": "Intervention. Use this Fate immediately before one of your Mordor formations causes an enemy to take a Terror test – that test is failed automatically."
+ },
+ {
+  "kind": "Fate",
+  "army": "Mordor",
+  "title": "Enamoured of Evil Knowledge",
+  "page": 48,
+  "points": "50 points",
+  "text": "Intervention. Use this Fate immediately after an enemy spellcaster fails a Focus roll to cast a spell. You may immediately cast a single spell known by the Wizard (even if it has already been cast that turn), exactly as if he was one of your models."
+ },
+ {
+  "kind": "Fate",
+  "army": "Mordor",
+  "title": "The Eye of Sauron",
+  "page": 48,
+  "points": "50 points",
+  "text": "Persistent effect. To represent the Eye of Sauron, place a marker (the size of a small coin) anywhere on the board after forces have deployed but before the game begins. This marker can be moved by the Evil player by up to 18\" in each Movement phase. All friendly Mordor formations within 6\" of the Eye of Sauron have +1 Courage."
+ },
+ {
+  "kind": "Fate",
+  "army": "Mordor",
+  "title": "Morgul-spells",
+  "page": 48,
+  "points": "50 points",
+  "text": "Persistent effect. Choose one Mordor Shaman or Black Uruk Shaman in your army. That spellcaster's Mastery is increased to 2 but, if the spellcaster should ever fail a Focus roll, his formation suffers D3 Strength 6 hits."
+ },
+ {
+  "kind": "Fate",
+  "army": "Mordor",
+  "title": "Severed Heads",
+  "page": 48,
+  "points": "25 points",
+  "text": "Intervention. Use this Fate at the beginning of the Shoot phase and nominate one of your Mordor War Catapult Battery formations. Any enemy formations that suffer one or more hits from that formation in the Shoot phase must pass a Courage test or they will immediately become disordered."
+ },
+ {
+  "kind": "Fate",
+  "army": "Mordor",
+  "title": "Blasted Stronghold",
+  "page": 48,
+  "points": "25 points",
+  "text": "Persistent effect. Before forces are deployed on the board, nominate a single defensible terrain feature that is either a building or ruins. Good formations that occupy the terrain feature suffer -1 to their Courage. If a friendly Mordor formation occupies the feature they gain +1 to their Fight value."
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Fortress of Isengard",
+  "title": "The Fighting Uruk-hai",
+  "page": 51,
+  "points": "75 points + models",
+  "composition": [
+   "Saruman the White Hand",
+   "2-4 Uruk-hai Phalanxes (3+ companies)",
+   "2-4 Uruk-hai Warbands (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "You Do Not Know Pain",
+    "text": "Roll a D6 each time a formation from this battlehost suffers a hit whilst within 12\" of Saruman. On a roll of a 6 the wounded Uruk-hai fights on regardless of his injuries – the hit is prevented and the formation does not suffer a casualty."
+   },
+   {
+    "name": "You Do Not Know Fear",
+    "text": "As long as they are within 12\" of Saruman, all formations in this battlehost re-roll failed Terror tests."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Fortress of Isengard",
+  "title": "The Scouts of Saruman",
+  "page": 52,
+  "points": "25 points + models",
+  "composition": [
+   "Lurtz",
+   "4-6 Uruk-hai Scout Warbands (3+ companies)",
+   "0-1 Uglúk's Raiders",
+   "0-1 Mauhúr's Marauders"
+  ],
+  "rules": [
+   {
+    "name": "Some Evil Gives Speed to These Creatures",
+    "text": "All Scouts of Saruman formations have a Move value of 8. In addition, as long as they are within 12\" of Lurtz when he calls a Heroic Move action, all formations in this battlehost also counts as having called a Heroic Move."
+   },
+   {
+    "name": "Hunt Them down",
+    "text": "As long as they are within 12\" of Lurtz, all formations in this battlehost automatically pass their At the Double! tests."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": [
+   "'also counts as having called a Heroic Move' (sic, 'counts') as printed."
+  ]
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Fortress of Isengard",
+  "title": "Uglúk's Scouts",
+  "page": 53,
+  "points": "50 points + models",
+  "composition": [
+   "Uglúk's Raiders (3 companies)",
+   "Grishnákh's Trackers (2+ companies)",
+   "Mauhúr's Marauders (3 companies)",
+   "1-3 Uruk-hai Scout Warbands (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "Meat's Back on the Menu",
+    "text": "At the start of any Move phase, provided Grishákh's Trackers are within 12\" of Uglúk, you can choose to have Uglúk execute Orcs to feed his band of warriors. If you choose to do so, remove D6 Orc figures from Grishákh's Trackers as casualties (chosen by the owning player). For the remainder of that turn, all formations in this battlehost within 12\" of Uglúk receive +1 to their Move and Strength values."
+   },
+   {
+    "name": "Alive and Unspoilt",
+    "text": "During deployment, place a token in any two Uruk-hai formations from this battlehost (Uruk-hai carrying Hobbits are ideal). Anyone attempting to shoot these Uruk-hai must place his shot with unerring accuracy lest they hit a Hobbit! To represent the marksmanship needed, both formations with these tokens count as having a Defence of 10 against enemy shooting attacks."
+   },
+   {
+    "name": "Mauhúr's Arrived",
+    "text": "Mauhúr is tasked with clearing the way for Uglúk, ambushing passing patrols that might discover the Uruk-hai. When fighting as part of Uglúk's Scouts, Mauhúr's Marauders gain the Ambushers special rule."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": [
+   "Meat's Back on the Menu: the rule text appears to print 'Grishákh's Trackers' (no 'n') twice, while the composition list prints 'Grishnákh's Trackers'; transcribed as read, low-resolution scan."
+  ]
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Fortress of Isengard",
+  "title": "The Warg Riders of Isengard",
+  "page": 54,
+  "points": "75 points + models",
+  "composition": [
+   "Sharku's Hunters (3+ companies)",
+   "2-4 Warg Rider Warbands (6 companies)"
+  ],
+  "rules": [
+   {
+    "name": "Surprise Attack",
+    "text": "As long as they are within 12\" of Sharku at the beginning of the Fight phase, all formations in this battlehost that made a successful charge into the rear or flanks of an enemy count as making an Unstoppable Charge, regardless of the charge distance they actually rolled."
+   },
+   {
+    "name": "Howling with Wolf Voices",
+    "text": "All formations in this battlehost cause Terror on any turn in which they make a successful charge."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Fortress of Isengard",
+  "title": "Uruk-hai Siege Warriors",
+  "page": 55,
+  "points": "75 points + models",
+  "composition": [
+   "Vraskû's Talons (3 companies)",
+   "1-3 Uruk-hai Sappers formations",
+   "1-3 Uruk-hai Berserkers formations",
+   "1-2 Isengard Assault Ballista formations",
+   "1-2 Uruk-hai Warbands (3+ companies)*",
+   "1-2 Isengard Battering Rams*"
+  ],
+  "rules": [
+   {
+    "name": "Breach their Defences",
+    "text": "As long as they are within 12\" of Vraskû, all formations in this battlehost add +1 to their Fight value when attacking a formation occupying a defensible terrain feature."
+   },
+   {
+    "name": "Siege Lords",
+    "text": "Instead of firing normally, an Isengard Assault Ballista that is part of this battlehost may launch a grapple and hoist siege ladders. You may only choose to do so if your target is an enemy occupying a defensible terrain feature that is a building or a ruin. If you choose to fire in this way then any hits inflicted will be resolved at a Strength of 5 but, provided the Assault Ballista did not miss, any infantry that charge the same target that turn will count as having the Siege Ladders Fate (see page 57)."
+   }
+  ],
+  "otherText": [
+   {
+    "heading": "*",
+    "text": "You must take an Isengard Battering Ram for each Uruk-hai Warband in this battlehost."
+   }
+  ],
+  "statLines": [],
+  "uncertain": [
+   "Accent on Vraskû: read as circumflex (û) in the composition list, rule text and captions; the background paragraph looks like an acute (ú) in places. Low-resolution scan."
+  ]
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Fortress of Isengard",
+  "title": "Wolfsbane's Warriors",
+  "page": 56,
+  "points": "75 points + models",
+  "composition": [
+   "Thrydan Wolfsbane",
+   "3-6 Dunlending Huscarls formations (2+ companies)",
+   "1-2 Wild Men of Dunland formations (3+ companies)",
+   "0-2 Dunlending Horsemen formations"
+  ],
+  "rules": [
+   {
+    "name": "Reckless Hatred",
+    "text": "As long as they are within 12\" of Thrydan Wolfsbane, all formations in this battlehost re-roll any To Hit rolls of a 1 against enemy formations from the Rohan faction."
+   },
+   {
+    "name": "Wolf Charge",
+    "text": "As long as they are within 12\" of Thrydan Wolfsbane at the beginning of the Fight phase, all formations in this battlehost that made a successful charge that turn count as making an unstoppable charge, regardless of the charge distance they actually rolled."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Note",
+  "army": "The Fortress of Isengard",
+  "title": "Isengard Fates",
+  "page": 57,
+  "text": "These are additional Fates that you can select as long as your army contains one or more battlehosts from the Fortress of Isengard."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Fortress of Isengard",
+  "title": "Burning Brands",
+  "page": 57,
+  "points": "100 points",
+  "text": "Persistent effect. Choose one Isengard formation in your army. Enemy formations do not receive Defence bonuses from a defensible terrain feature if they are fighting a formation with Burning Brands. In addition, a formation equipped with Burning Brands has the Entbane special rule."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Fortress of Isengard",
+  "title": "Isengard Steel",
+  "page": 57,
+  "points": "75 points",
+  "text": "Persistent effect. Choose one formation of Uruk-hai in your army. That formation's Defence is increased by 1. This cannot be combined with the Cursed Armour of Udûn from the War of The Ring rulebook."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Fortress of Isengard",
+  "title": "Banner of the White Hand",
+  "page": 57,
+  "points": "75 points",
+  "text": "Persistent effect. Choose one formation of Uruk-hai in your army that has a Banner Bearer. That banner is now an Army Banner for the remainder of the game. In addition, if Saruman is in the same company as this banner then his Inspiring Leader rule will affect all friendly Uruk-hai formations within 18\"."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Fortress of Isengard",
+  "title": "Staff of Power",
+  "page": 57,
+  "points": "75 points",
+  "text": "Persistent effect. Choose one Uruk-hai or Isengard Shaman in your army. That Shaman's Mastery level is increased to 2."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Fortress of Isengard",
+  "title": "A Feast of Man-flesh",
+  "page": 57,
+  "points": "50 points",
+  "text": "Intervention. Use this Fate at the beginning of any Fight phase. Nominate one of your Uruk-hai formations. For the remainder of that turn the formation gains the Manbane special rule."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Fortress of Isengard",
+  "title": "Siege Ladders",
+  "page": 57,
+  "points": "50 points",
+  "text": "Intervention. Use this Fate just before one of your Isengard infantry formations is about to fight an enemy formation that is occupying a defensible terrain feature that is either a building or ruins. For that turn, all of your supporting attacks will contribute D6 attacks instead of just 1."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Fortress of Isengard",
+  "title": "Ruthless Discipline",
+  "page": 57,
+  "points": "25 points",
+  "text": "Intervention. Use this Fate when one of your Uruk-hai formations fails a Courage test – the formation immediately suffers D3+3 casualties (chosen by the owning player), but the test is now considered to have been passed."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Fortress of Isengard",
+  "title": "Crebain of Dunland",
+  "page": 57,
+  "points": "25 points",
+  "text": "Intervention. Before deployment, nominate a single formation in your opponent's army that has the Ambushers special rule. That formation's Ambushers ability is nullified for the game."
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Misty Mountains",
+  "title": "Goblin Host of Moria",
+  "page": 59,
+  "points": "75 points + models",
+  "composition": [
+   "Durbûrz, Goblin King of Moria OR the Balrog of Morgoth*",
+   "2-6 Moria Goblin Warbands** (6+ companies)",
+   "2-4 Cave Trolls",
+   "0-2 Moria Prowler Warbands"
+  ],
+  "rules": [
+   {
+    "name": "Doom! Doom! Doom!",
+    "text": "The advance of the Moria Goblins is an intimidating prospect, the relentless booming of their drums overwhelming the senses and weighing heavy on the hearts of those who hear it. Enemy formations within 12\" of any Goblin Drum from this warhost gain no benefit for any banners or musicians they might have."
+   },
+   {
+    "name": "Outnumbered",
+    "text": "To fight against the Goblin hordes of the Misty Mountains is an oppressive task, for they seem without number. Once per Priority phase, Durbûrz may expend a Might point to summon additional Goblins to the battle. If Durbûrz does so, immediately place a Moria Goblin Warband formation of D3+1 companies anywhere on the board, but no closer than 12\" to any enemy model."
+   },
+   {
+    "name": "Shadow and Flame",
+    "text": "The Balrog is an ageless horror whose very presence can unman the mightiest hero. To the Goblins that follow him into battle, he is a being of unequalled dread. As long as they are within 12\" of the Balrog, all formations in this warhost (excepting the Balrog itself) are Stalwart and are steadfast on a 5 or 6, rather than a 6."
+   }
+  ],
+  "otherText": [
+   {
+    "heading": "*",
+    "text": "This battlehost may include either Durbûrz OR the Balrog, but not both."
+   },
+   {
+    "heading": "**",
+    "text": "At least one Goblin Warband must contain a Goblin Drum."
+   }
+  ],
+  "statLines": [],
+  "uncertain": [
+   "The composition list on this page is headed 'WARHOST' rather than 'BATTLEHOST', and the rules say 'this warhost', as printed."
+  ]
+ },
+ {
+  "kind": "Battlehost",
+  "army": "The Misty Mountains",
+  "title": "Beasts of the Wild",
+  "page": 60,
+  "points": "50 points + models",
+  "composition": [
+   "Drûzhag the Beastcaller",
+   "1-2 Moria Goblin Warbands (3+ companies)",
+   "3-6 Warg Packs (6+ companies)",
+   "0-2 Cloud of Bats formations",
+   "0-2 Giant Spider Broods",
+   "0-2 Spider Broodling Swarms"
+  ],
+  "rules": [
+   {
+    "name": "The Swiftness of Wolves",
+    "text": "The Beasts of the Wild race towards the foe, spurred on by the twisted vision of Drûzhag. As long as Drûzhag is within 12\" at the beginning of the Move phase, all formations in this warhost will gain +1 to their Move value until the end of the phase."
+   },
+   {
+    "name": "No Ordinary Beasts",
+    "text": "At the beginning of the Fight phase Drûzhag grants a single Beasts of the Wild formation within 12\" (excluding formations of Goblins) supernatural abilities. For the duration of the phase, the chosen formation gains the Spirit Grasp special rule."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": [
+   "The composition list on this page is headed 'WARHOST' rather than 'BATTLEHOST', and the rules say 'this warhost', as printed."
+  ]
+ },
+ {
+  "kind": "Note",
+  "army": "The Misty Mountains",
+  "title": "Misty Mountains Fates",
+  "page": 61,
+  "text": "These are additional Fates that you can select as long as your army contains one or more warhosts from the Misty Mountains."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Misty Mountains",
+  "title": "Warg Swarm",
+  "page": 61,
+  "points": "75 points",
+  "text": "Intervention. Use this Fate at the start of any turn, before rolling for priority. Immediately place a formation of D3+1 Warg Packs anywhere on the board but no closer than 12\" to any enemy model."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Misty Mountains",
+  "title": "Stolen Mithril Coat",
+  "page": 61,
+  "points": "50 points",
+  "text": "Persistent Effect. Choose one Goblin Hero or Epic Hero in your army. That Hero's Resilience is increased by 1."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Misty Mountains",
+  "title": "Ancient Evil",
+  "page": 61,
+  "points": "50 points",
+  "text": "Intervention. Use this when a Balrog of Morgoth attempts a Will of Iron roll. The spell is automatically cancelled and the spellcaster's formation immediately suffers D3 Strength 4 hits."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Misty Mountains",
+  "title": "Dark Skies!",
+  "page": 61,
+  "points": "50 points",
+  "text": "Persistent Effect. While this Fate is in effect, all shooting attacks have their range reduced by 6\" (to a minimum of 6\" – it's dark, but not that dark!). At the end of each turn roll a D6, on the score of a 1 the clouds dissipate and daylight returns as normal."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Misty Mountains",
+  "title": "Secret Tunnels",
+  "page": 61,
+  "points": "50 points",
+  "text": "Persistent Effect. Before forces are deployed on the board, place a counter within 12\" of a single defensible terrain feature that is either a building or ruins. This counter represents the entrance to the terrain feature via the secret tunnels. Provided no enemy formations are within 1\" of the counter, your Goblin formations may enter or leave the terrain feature via the secret tunnel, treating the counter as if it were part of the terrain feature itself. The Death Beyond the Gates rule does not apply if Goblins can leave a terrain feature using secret tunnels (but if they do not take a Courage test they must leave via the secret tunnels). A Goblin formation may not attack an opponent occupying this terrain feature using the tunnels."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Misty Mountains",
+  "title": "Unfair Fight",
+  "page": 61,
+  "points": "25 points",
+  "text": "Intervention. Play this fortune prior to resolving any Heroic Duel involving a Goblin Hero or Epic Hero. All Goblin Heroes and Epic Heroes involved in the fight add their Fight values to the one of the model involved in the duel, and may pool their Might points to work out who wins the duel. Should the Goblin still lose, all the models helping him will suffer the same damage he suffers."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Misty Mountains",
+  "title": "Life is Cheap",
+  "page": 61,
+  "points": "25 points",
+  "text": "Intervention. Use this Fate after a friendly Misty Mountains' formation has failed a Courage test. The formation suffers D3 hits for each point the test was failed by but is then assumed to have passed the Courage test."
+ },
+ {
+  "kind": "Fate",
+  "army": "The Misty Mountains",
+  "title": "Relentless Advance",
+  "page": 61,
+  "points": "25 points",
+  "text": "Persistent Effect. If taken, this Fate affects all friendly Misty Mountains formations in your army. Instead of being driven back by enemy shooting attacks, friendly formations from the Misty Mountains that are not Stalwart will suffer D3 automatic hits."
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Fallen Realms",
+  "title": "Khamûl's Easterlings",
+  "page": 63,
+  "points": "50 points + models",
+  "composition": [
+   "Khamûl, The Easterling",
+   "1-2 Easterling Kataphrakt Cohorts (3+ companies)",
+   "1-2 Easterling Archer Cohorts (3+ companies)",
+   "2-4 Easterling Cohorts (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "Black-hearted Discipline",
+    "text": "As long as they are within 12\" of Khamûl, all formations in this battlehost re-roll failed Terror tests and are steadfast on the roll of a 5 or 6, rather than 6."
+   },
+   {
+    "name": "Phalanx",
+    "text": "All companies in this battlehost that are armed with pikes provide +2 dice when supporting, not +1."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Fallen Realms",
+  "title": "Dalamyr's Corsairs",
+  "page": 64,
+  "points": "25 points + models",
+  "composition": [
+   "Dalamyr, Fleetmaster of Umbar",
+   "3-6 Corsair Raiding Parties (3+ companies)",
+   "1-2 Corsair Arbalesters formations"
+  ],
+  "rules": [
+   {
+    "name": "Reavers",
+    "text": "Corsair Raiding Parties that are part of this battlehost have the Berserk special rule. However, unless the formation is within 12\" of Dalamyr at the beginning of the Fight phase, they suffer a -1 penalty when rolling on the Berserk table. If the result is a 0 the Berserk formation suffers D6 hits resolved at its own Strength +4."
+   },
+   {
+    "name": "The Fleetmaster",
+    "text": "As long as Dalamyr is within 12\", all formations in this battlehost count as having a Taskmaster."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Fallen Realms",
+  "title": "The Army of Umbar",
+  "page": 65,
+  "points": "25 points + models",
+  "composition": [
+   "The Betrayer AND/OR The Knight of Umbar",
+   "1-2 Haradrim Warbands (3+ companies)",
+   "1-2 Haradrim Raider Warbands (3+ companies)",
+   "1-2 Corsair Raiding Parties (3+ companies)",
+   "0-2 Corsair Arbalester formations",
+   "0-2 Black Númenórean Regiments",
+   "0-2 Morgul Knight Regiments"
+  ],
+  "rules": [
+   {
+    "name": "The Shadow of the Nazgûl",
+    "text": "As long as either the Betrayer or the Knight of Umbar are within 12\", all formations in this battlehost gain +1 to their Fight value, and re-roll failed Courage tests. However, if both Ringwraiths are slain, the alliance that binds the various factions together will evaporate. At the start of every Priority phase following the Ringwraiths' deaths, roll a D6 for each formation in this battlehost. On a roll of 1 it has been attacked by their rivals and the formation immediately suffers D3 casualties (not hits!)."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Fallen Realms",
+  "title": "Swords of the Serpent Lord",
+  "page": 66,
+  "points": "25 points + models",
+  "composition": [
+   "Suladân, the Serpent Lord",
+   "1-2 Serpent Guard Warbands (3+ companies)",
+   "1-2 Serpent Rider Warbands (3+ companies)",
+   "1-2 Haradrim Warbands (3+ companies)",
+   "1-2 Haradrim Raiders Warbands (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "Strike Fast, Cut Them Down!",
+    "text": "As long as they are within 12\" of Suladân when he calls a Heroic Fight action, all formations in this battlehost also count as having called a Heroic Fight."
+   },
+   {
+    "name": "The Price of Failure",
+    "text": "Each time they fail a Courage test, Haradrim Warbands and Haradrim Raider Warbands that are part of this battlehost will suffer a number of automatic hits equal to the margin they failed the test by."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Fallen Realms",
+  "title": "The Golden Army of Abrakhân",
+  "page": 67,
+  "points": "75 points + models",
+  "composition": [
+   "Abrakhân Guard",
+   "2-4 Haradrim Warbands (3+ companies)",
+   "1-2 Haradrim Raider Warbands (3+ companies)",
+   "0-2 Khandish Mercenary Warbands",
+   "0-2 Khandish Mercenary Raiders",
+   "0-2 Half Troll Warbands"
+  ],
+  "rules": [
+   {
+    "name": "Treasures Lain in Hoard",
+    "text": "The warriors of the Golden Army are hard-bitten mercenaries who will fight so long as the promise of wealth holds true. As long as the Golden King is within 12\", all formations in this battlehost use his Courage (he is their paymaster, after all). This Courage value cannot be reduced for any reason whilst the Golden King is alive."
+   },
+   {
+    "name": "Golden Promises",
+    "text": "The ruler of Abrakhân has monies enough to bribe his enemies, even in the teeth of battle. All enemy formations that are within 12\" of the Golden King at the start of the Fight phase must pass a Courage test or else be distracted by the handfuls of thick golden coins being flung into the air. Any formation failing such a Courage test is reduced to Fight 1 for the remainder of the phase."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Fallen Realms",
+  "title": "Mahûd Wartribe",
+  "page": 68,
+  "points": "75 points + models",
+  "composition": [
+   "2-4 Mahûd Warbands (2+ companies)*",
+   "1-2 Mahûd Raider Warbands (3+ companies)*",
+   "1 War Mûmak of Harad",
+   "0-2 Half Troll Warbands"
+  ],
+  "rules": [
+   {
+    "name": "Mahûd Mûmak Crew",
+    "text": "The Mahûd Wartribe's War Mûmak is crewed not by Haradrim, but instead by Mahûd Warriors. These crew members replace their bows with blowpipes and count as having a Shoot value of 3+ but otherwise they behave exactly as normal Mûmak Crew. In addition, this War Mûmak counts as having the Mahûd Beastmaster Fate as detailed on page 71. Note that this Fate does not count towards the maximum limit of Fates you may include in your army nor does it prevent you selecting the Mahûd Beastmaster Fate as normal."
+   },
+   {
+    "name": "Mahûd King",
+    "text": "As long as they are within 12\" of the Mahûd King, all formations in this battlehost count as having a Taskmaster and are steadfast on a 5 or 6 instead of a 6. In addition, the Mahûd King counts as an Army Banner, but only to formations in this battlehost."
+   }
+  ],
+  "otherText": [
+   {
+    "heading": "*",
+    "text": "At least one formation in this battlehost must include a Mahûd Chieftain. One Mahûd Chieftain in this battlehost must be nominated to be a Mahûd King."
+   }
+  ],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Fallen Realms",
+  "title": "Mûmak War Herd",
+  "page": 69,
+  "points": "100 points + models",
+  "composition": [
+   "3-6 War Mûmakil of Harad"
+  ],
+  "rules": [
+   {
+    "name": "Overwhelming Charge",
+    "text": "It's almost impossible to get out of the way of a charging War Herd. Instead of moving the War Mûmakil independently in the Move phase, as long as each War Mûmak is within 6\" of another from the same battlehost, you can perform an Overwhelming Charge. If you choose to do so, turn all the War Mûmakil to face the same direction and move them forward 3D6\" (each War Mûmak moves the same distance), re-rolling any failed To Hit rolls suffered by formations that are trampled on."
+   },
+   {
+    "name": "The Ground Trembles",
+    "text": "When a War Herd marches, the ground itself trembles, throwing off the aim of even the best marksman. As long as each War Mûmak is within 6\" of another from the same battlehost, enemy formations within 12\" of any of them count their Shoot value as being 1 worse than it would normally be."
+   },
+   {
+    "name": "Terrifying Advance",
+    "text": "Enemy formations that are within 12\" of at least two War Mûmakil from this battlehost suffer a -1 penalty to their Terror tests. This penalty is increased by 1 for each additional War Mûmak from this battlehost (above the initial two) that is within 12\" of the enemy formation."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Fallen Realms",
+  "title": "The Host of Kârna",
+  "page": 70,
+  "points": "75 points + models",
+  "composition": [
+   "1 Watcher Warband",
+   "3-6 Haradrim Warbands (3+ companies)",
+   "0-2 Haradrim Raider Warbands"
+  ],
+  "rules": [
+   {
+    "name": "Surprise Attack!",
+    "text": "All formations in the Host of Kârna have the Ambushers special rule. In addition, if arriving as reinforcements, this battlehost can re-roll any dice roll that determines when and where it will arrive."
+   },
+   {
+    "name": "Stalk in Silence.",
+    "text": "All formations in the Host of Kârna are treated as wearing enchanted cloaks and have the Pathfinder (Master) special rule."
+   },
+   {
+    "name": "Hunters of Ghosts.",
+    "text": "All formations in the Host of Kârna have the Spiritbane special rule. In addition, as long as they are within 12\" of the Watcher Warband, all formations in the Host of Kârna (including the Watcher Warband) roll an additional D6 when taking a Terror test."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Note",
+  "army": "Fallen Realms",
+  "title": "The Fallen Realms Fates",
+  "page": 71,
+  "text": "These are additional Fates that you can select as long as your army contains one or more battlehosts from the Fallen Realms."
+ },
+ {
+  "kind": "Fate",
+  "army": "Fallen Realms",
+  "title": "Banner of the Serpent Lord",
+  "page": 71,
+  "points": "75 points",
+  "text": "Persistent effect. Choose one formation of Haradrim, Haradrim Raiders, Serpent Guard or Serpent Riders in your army that has a Banner Bearer. That banner is now an Army Banner for the remainder of the game. In addition, if Suladân is in the same formation as this banner then his Inspiring Leader rule will affect all formations of Men from the Fallen Realms army list."
+ },
+ {
+  "kind": "Fate",
+  "army": "Fallen Realms",
+  "title": "Poisoned Weapons",
+  "page": 71,
+  "points": "75 points",
+  "text": "Persistent effect. Choose one Fallen Realms formation in your army that does not already have the Poisoned Weapons special rule. That formation now gains the Poisoned Weapons special rule and may re-roll any failed To Hit rolls of a '1' with close combat and shooting attacks."
+ },
+ {
+  "kind": "Fate",
+  "army": "Fallen Realms",
+  "title": "Black Scorpion Venom",
+  "page": 71,
+  "points": "50 points",
+  "text": "Persistent effect. Choose one Fallen Realms Hero in your army to have coated their dagger in Black Scorpion Venom. Each hit caused by this Hero in a Heroic Duel will cause a casualty, regardless of his foe's Resilience."
+ },
+ {
+  "kind": "Fate",
+  "army": "Fallen Realms",
+  "title": "Fear and Doubt",
+  "page": 71,
+  "points": "50 points",
+  "text": "Intervention. Use this Fate just before an enemy formation of Men makes a Courage test. Roll a D6 – on a 2 or more that test is automatically failed."
+ },
+ {
+  "kind": "Fate",
+  "army": "Fallen Realms",
+  "title": "Mahûd Beastmaster",
+  "page": 71,
+  "points": "50 points",
+  "text": "Persistent effect. Choose one War Mûmak of Harad in your army to have a Mahûd Beastmaster – he replaces one of the crew members. This War Mûmak, and all other War Mûmakil within 12\", count as having a Hornblower. The Mahûd Beastmaster is treated as a normal crew member (with an identical profile) in all other respects."
+ },
+ {
+  "kind": "Fate",
+  "army": "Fallen Realms",
+  "title": "Tusk Weapons",
+  "page": 71,
+  "points": "50 points",
+  "text": "Persistent effect. Choose one War Mûmak of Harad in your army to have tusk weapons. This War Mûmak inflicts D3+1 hits per company instead of D3 per company when making a Stomp and Gore! attack against an enemy formation."
+ },
+ {
+  "kind": "Fate",
+  "army": "Fallen Realms",
+  "title": "Warrior Pride",
+  "page": 71,
+  "points": "50 points",
+  "text": "Persistent effect. Nominate one formation of Fallen Realms infantry or cavalry in your army. This formation is now Indomitable. In addition, during any combat in which a Hero or Epic Hero within the formation fights in a Heroic Duel, the formation will automatically be steadfast if beaten in combat."
+ },
+ {
+  "kind": "Fate",
+  "army": "Fallen Realms",
+  "title": "Unhallowed Halls",
+  "page": 71,
+  "points": "25 points",
+  "text": "Persistent effect. Before forces are deployed on the board, nominate a single defensible terrain feature that is either a building or ruins. Any formation (friend or foe) occupying this terrain feature gains the Terror special rule. At the end of every turn, however, any such formation must take a Courage test. For every point the test is failed by, the formation suffers a casualty (not a hit!) as the spirits vent their anger."
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Angmar",
+  "title": "The Hordes of Angmar",
+  "page": 73,
+  "points": "75 points + models",
+  "composition": [
+   "The Witch-king of Angmar",
+   "2-4 Angmar Orc Warbands (3+ companies)",
+   "2-4 Carn Dûm Warbands (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "Rule Through Fear",
+    "text": "As long as they are within 12\" of the Witch-king, all formations from the Hordes of Angmar are Stalwart and re-roll failed Courage tests."
+   },
+   {
+    "name": "Do Not Fail Me!",
+    "text": "As long as they are within 12\" of the Witch-king, all formations from the Hordes of Angmar add +1 to any Panic rolls they must take."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Angmar",
+  "title": "Spirit Legions of Angmar",
+  "page": 74,
+  "points": "75 points + models",
+  "composition": [
+   "The Dwimmerlaik AND/OR the Tainted",
+   "2-4 Spectral Hosts",
+   "1-2 Ghostly Legions (3+ companies)",
+   "2-4 Shades",
+   "0-2 Court of Fallen Kings",
+   "0-2 Ghostly Riders",
+   "0-1 Werewolves"
+  ],
+  "rules": [
+   {
+    "name": "Ethereal Forms",
+    "text": "In the the presence of the Dwimmerlaik even enchanted Elven blades lose their power. As long as they are within 12\" of the Dwimmerlaik, all formations from this battlehost add +1 to their Defence value."
+   },
+   {
+    "name": "Chill Touch",
+    "text": "In the presence of the Tainted the Ghosts' merest touch is enough to freeze their opponent's blood. As long as they are within 12\" of the Tainted, all formations from this battlehost add +1 to their Strength value."
+   },
+   {
+    "name": "An Army of Ghosts",
+    "text": "As long as they are within 12\" of either the Dwimmerlaik or the Tainted, formations from this battlehost are exempt from a Shade's Chill Miasma special rule."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": [
+   "Ethereal Forms: 'In the the presence' is a doubled word as printed."
+  ]
+ },
+ {
+  "kind": "Battlehost",
+  "army": "Angmar",
+  "title": "Buhrdûr's Warband",
+  "page": 75,
+  "points": "75 points + models",
+  "composition": [
+   "Buhrdûr",
+   "3-6 Cave Trolls",
+   "1-2 Angmar Orc Warbands (3+ companies)",
+   "1-2 Warg Packs (6+ companies)",
+   "1-2 Moria Goblin Warbands (3+ companies)"
+  ],
+  "rules": [
+   {
+    "name": "Pack Leader",
+    "text": "As long as they are within 12\" of Buhrdûr, all formations in this battlehost can use Buhrdûr's Courage value for any Courage tests they are required to make."
+   },
+   {
+    "name": "It's a Trap!",
+    "text": "All Buhrdûr's Warband formations have the Prowlers and Ambushers special rule. In addition, if arriving from reinforcements, this battlehost can re-roll any dice roll that determines when and where it will arrive."
+   }
+  ],
+  "otherText": [],
+  "statLines": [],
+  "uncertain": []
+ },
+ {
+  "kind": "Note",
+  "army": "Angmar",
+  "title": "Angmar Fates",
+  "page": 76,
+  "text": "These are additional Fates that you can select as long as your army contains one or more battlehosts from Angmar."
+ },
+ {
+  "kind": "Fate",
+  "army": "Angmar",
+  "title": "Die Now and Curse in Vain",
+  "page": 76,
+  "points": "75 points",
+  "text": "Intervention. Use this Fate at the beginning of any Fight phase and choose one Angmar Hero in your army. For the remainder of the turn, each close combat hit inflicted by that Hero or his company will cause a casualty, regardless of the foe's Resilience."
+ },
+ {
+  "kind": "Fate",
+  "army": "Angmar",
+  "title": "Banner of Angmar",
+  "page": 76,
+  "points": "75 points",
+  "text": "Persistent effect. Choose one Angmar formation in your army that has a Banner Bearer. That banner is now an Army Banner for the remainder of the game. In addition, whilst the Banner Bearer is alive, his formation gains the Terror special rule."
+ },
+ {
+  "kind": "Fate",
+  "army": "Angmar",
+  "title": "Barrow Blades",
+  "page": 76,
+  "points": "50 points",
+  "text": "Persistent effect. Nominate one Angmar infantry formation in your army that is not Spirits. That formation gains the Spirit Grasp rule."
+ },
+ {
+  "kind": "Fate",
+  "army": "Angmar",
+  "title": "No Man May Kill Me",
+  "page": 76,
+  "points": "50 points",
+  "text": "Persistent effect. Nominate one Ringwraith in your army. Roll a D6 each time a hit is inflicted on this Ringwraith as the result of a Heroic Duel. If the score is a 4 or more the hit is prevented."
+ },
+ {
+  "kind": "Fate",
+  "army": "Angmar",
+  "title": "Corpse Candles",
+  "page": 76,
+  "points": "25 points",
+  "text": "Intervention. Use this Fate at the beginning of any Move phase and nominate a single enemy formation. That formation must immediately take a Courage test. If the test is passed nothing happens. If the test is failed the formation succumbs to the lure of the Corpse Candles and your opponent cannot move the formation this phase, but you can, treating it as if it were one of your own. You cannot make a Heroic Move or move At the Double! with this formation and Epic Heroes cannot join or leave it during the Move phase – they are far too distracted by the pretty lights."
+ },
+ {
+  "kind": "Fate",
+  "army": "Angmar",
+  "title": "The Dead Shall Rise",
+  "page": 76,
+  "points": "25 points",
+  "text": "Intervention. Use this Fate at the start of any Fight phase and nominate one of your infantry Spirit formations. Roll a D6 for each casualty the formation inflicts in close combat that turn – on the roll of a 5 or 6 the Spirit formation replenishes a single casualty it suffered earlier in the battle as the bodies of the recently deceased turn against their former friends. This Fate cannot restore companies that have been removed from the game."
+ },
+ {
+  "kind": "Fate",
+  "army": "Angmar",
+  "title": "Cry of Terror",
+  "page": 76,
+  "points": "25 points",
+  "text": "Intervention. Use this Fate at the beginning of the Shoot phase and nominate a single enemy infantry or cavalry formation that is within 12\" of one of your Spirit formations (or a Ringwraith). The enemy formation must immediately take a Courage test, but on a single D6 only. For every point the test is failed by, the formation suffers a casualty (not a hit!) as several warriors flee or else literally die of fright."
+ },
+ {
+  "kind": "Fate",
+  "army": "Angmar",
+  "title": "Haunted Stronghold",
+  "page": 76,
+  "points": "25 points",
+  "text": "Persistent effect. Before forces are deployed on the board, nominate a single building or ruin. All formations (friend or foe) suffer a -1 to their Courage value whilst they occupy the Haunted Stronghold unless they are Spirits or are joined by an Epic Hero that is a Spirit. In addition, any Good formation that wishes to move through or occupy the feature must first pass a Courage test. If the test is failed, the formation treats the feature as impassable terrain for the duration of that move."
+ }
+]

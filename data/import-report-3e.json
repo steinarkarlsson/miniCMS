@@ -1,0 +1,2842 @@
+{
+  "armyLists": [
+    "Gondor and Arnor",
+    "The Kingdom of Rohan",
+    "The Elven Kingdoms",
+    "The Dwarf Holds",
+    "The Forgotten Kingdoms",
+    "Mordor",
+    "The Fortress of Isengard",
+    "The Misty Mountains",
+    "The Fallen Realms",
+    "Angmar"
+  ],
+  "profiles": [
+    {
+      "id": "profile3e-warrior-of-minas-tirith",
+      "name": "Warrior of Minas Tirith",
+      "category": "Warrior",
+      "pages": "94"
+    },
+    {
+      "id": "profile3e-captain-of-minas-tirith",
+      "name": "Captain of Minas Tirith",
+      "category": "Hero",
+      "pages": "94"
+    },
+    {
+      "id": "profile3e-archer-of-minas-tirith",
+      "name": "Archer of Minas Tirith",
+      "category": "Warrior",
+      "pages": "94"
+    },
+    {
+      "id": "profile3e-knight-of-minas-tirith",
+      "name": "Knight of Minas Tirith",
+      "category": "Warrior",
+      "pages": "94"
+    },
+    {
+      "id": "profile3e-knight-captain",
+      "name": "Knight Captain",
+      "category": "Hero",
+      "pages": "94"
+    },
+    {
+      "id": "profile3e-knight-captain-royal-knights",
+      "name": "Knight Captain (Royal Knights)",
+      "category": "Hero",
+      "pages": "110"
+    },
+    {
+      "id": "profile3e-knight-captain-galadhrim-knight-regiment",
+      "name": "Knight Captain (Galadhrim Knight Regiment)",
+      "category": "Hero",
+      "pages": "122"
+    },
+    {
+      "id": "profile3e-ranger-of-gondor",
+      "name": "Ranger of Gondor",
+      "category": "Warrior",
+      "pages": "95"
+    },
+    {
+      "id": "profile3e-captain-of-rangers",
+      "name": "Captain of Rangers",
+      "category": "Hero",
+      "pages": "95"
+    },
+    {
+      "id": "profile3e-captain-of-rangers-rangers-of-arnor",
+      "name": "Captain of Rangers (Rangers of Arnor)",
+      "category": "Hero",
+      "pages": "96"
+    },
+    {
+      "id": "profile3e-warrior-of-numenor",
+      "name": "Warrior of Númenor",
+      "category": "Warrior",
+      "pages": "95"
+    },
+    {
+      "id": "profile3e-captain-of-numenor",
+      "name": "Captain of Númenor",
+      "category": "Hero",
+      "pages": "95"
+    },
+    {
+      "id": "profile3e-archer-of-numenor",
+      "name": "Archer of Númenor",
+      "category": "Warrior",
+      "pages": "95"
+    },
+    {
+      "id": "profile3e-warrior-of-arnor",
+      "name": "Warrior of Arnor",
+      "category": "Warrior",
+      "pages": "96, 102"
+    },
+    {
+      "id": "profile3e-captain-of-arnor",
+      "name": "Captain of Arnor",
+      "category": "Hero",
+      "pages": "96"
+    },
+    {
+      "id": "profile3e-ranger-of-arnor",
+      "name": "Ranger of Arnor",
+      "category": "Warrior",
+      "pages": "96"
+    },
+    {
+      "id": "profile3e-citadel-guard",
+      "name": "Citadel Guard",
+      "category": "Warrior",
+      "pages": "96, 100"
+    },
+    {
+      "id": "profile3e-guard-captain",
+      "name": "Guard Captain",
+      "category": "Hero",
+      "pages": "96, 98"
+    },
+    {
+      "id": "profile3e-guard-captain-guards-of-the-galadhrim-court",
+      "name": "Guard Captain (Guards of the Galadhrim Court)",
+      "category": "Hero",
+      "pages": "123"
+    },
+    {
+      "id": "profile3e-guard-captain-black-guard-of-barad-dur",
+      "name": "Guard Captain (Black Guard of Barad-dûr)",
+      "category": "Hero",
+      "pages": "157"
+    },
+    {
+      "id": "profile3e-men-at-arms",
+      "name": "Men-at-arms",
+      "category": "Warrior",
+      "pages": "97"
+    },
+    {
+      "id": "profile3e-knight-champion",
+      "name": "Knight Champion",
+      "category": "Hero",
+      "pages": "97"
+    },
+    {
+      "id": "profile3e-knight-champion-cavalry",
+      "name": "Knight Champion (Cavalry)",
+      "category": "Hero",
+      "pages": "97"
+    },
+    {
+      "id": "profile3e-knight-of-dol-amroth",
+      "name": "Knight of Dol Amroth",
+      "category": "Warrior",
+      "pages": "97"
+    },
+    {
+      "id": "profile3e-knight-of-dol-amroth-cavalry",
+      "name": "Knight of Dol Amroth (Cavalry)",
+      "category": "Warrior",
+      "pages": "97"
+    },
+    {
+      "id": "profile3e-fountain-court-guard",
+      "name": "Fountain Court Guard",
+      "category": "Warrior",
+      "pages": "98"
+    },
+    {
+      "id": "profile3e-avenger-bolt-thrower",
+      "name": "Avenger Bolt Thrower",
+      "category": "Warrior",
+      "pages": "98"
+    },
+    {
+      "id": "profile3e-battlecry-trebuchet",
+      "name": "Battlecry Trebuchet",
+      "category": "Warrior",
+      "pages": "98"
+    },
+    {
+      "id": "profile3e-warrior-of-the-dead",
+      "name": "Warrior of the Dead",
+      "category": "Warrior",
+      "pages": "99"
+    },
+    {
+      "id": "profile3e-warrior-of-the-dead-court-of-the-dead-king",
+      "name": "Warrior of the Dead (Court of the Dead King)",
+      "category": "Warrior",
+      "pages": "101"
+    },
+    {
+      "id": "profile3e-captain-of-the-dead",
+      "name": "Captain of the Dead",
+      "category": "Hero",
+      "pages": "99"
+    },
+    {
+      "id": "profile3e-captain-of-the-dead-cavalry",
+      "name": "Captain of the Dead (Cavalry)",
+      "category": "Hero",
+      "pages": "99"
+    },
+    {
+      "id": "profile3e-rider-of-the-dead",
+      "name": "Rider of the Dead",
+      "category": "Warrior",
+      "pages": "99"
+    },
+    {
+      "id": "profile3e-axemen-of-lossarnach",
+      "name": "Axemen of Lossarnach",
+      "category": "Warrior",
+      "pages": "99"
+    },
+    {
+      "id": "profile3e-forlong-the-fat",
+      "name": "Forlong the Fat",
+      "category": "Hero",
+      "character": "Forlong",
+      "pages": "99"
+    },
+    {
+      "id": "profile3e-clansmen-of-lamedon",
+      "name": "Clansmen of Lamedon",
+      "category": "Warrior",
+      "pages": "100"
+    },
+    {
+      "id": "profile3e-angbor-the-fearless",
+      "name": "Angbor the Fearless",
+      "category": "Hero",
+      "character": "Angbor",
+      "pages": "100"
+    },
+    {
+      "id": "profile3e-ranger-of-ithilien",
+      "name": "Ranger of Ithilien",
+      "category": "Warrior",
+      "pages": "100"
+    },
+    {
+      "id": "profile3e-madril",
+      "name": "Madril",
+      "category": "Hero",
+      "character": "Madril",
+      "pages": "100"
+    },
+    {
+      "id": "profile3e-damrod",
+      "name": "Damrod",
+      "category": "Hero",
+      "character": "Damrod",
+      "pages": "100"
+    },
+    {
+      "id": "profile3e-beregond",
+      "name": "Beregond",
+      "category": "Hero",
+      "character": "Beregond",
+      "pages": "100"
+    },
+    {
+      "id": "profile3e-denethor",
+      "name": "Denethor",
+      "category": "Hero",
+      "character": "Denethor",
+      "pages": "100"
+    },
+    {
+      "id": "profile3e-osgiliath-veterans",
+      "name": "Osgiliath Veterans",
+      "category": "Warrior",
+      "pages": "101"
+    },
+    {
+      "id": "profile3e-lieutenant-cirion",
+      "name": "Lieutenant Cirion",
+      "category": "Hero",
+      "character": "Cirion",
+      "pages": "101"
+    },
+    {
+      "id": "profile3e-the-king-of-the-dead",
+      "name": "The King of the Dead",
+      "category": "Hero",
+      "character": "King of the Dead",
+      "pages": "101"
+    },
+    {
+      "id": "profile3e-dunedain",
+      "name": "Dúnedain",
+      "category": "Warrior",
+      "pages": "101"
+    },
+    {
+      "id": "profile3e-arathorn",
+      "name": "Arathorn",
+      "category": "Hero",
+      "character": "Arathorn",
+      "pages": "101"
+    },
+    {
+      "id": "profile3e-ranger-of-the-north",
+      "name": "Ranger of the North",
+      "category": "Warrior",
+      "pages": "102"
+    },
+    {
+      "id": "profile3e-halbarad",
+      "name": "Halbarad",
+      "category": "Hero",
+      "character": "Halbarad",
+      "pages": "102"
+    },
+    {
+      "id": "profile3e-king-arvedui",
+      "name": "King Arvedui",
+      "category": "Hero",
+      "character": "Arvedui",
+      "pages": "102"
+    },
+    {
+      "id": "profile3e-malbeth-the-seer",
+      "name": "Malbeth the Seer",
+      "category": "Hero",
+      "character": "Malbeth",
+      "pages": "102"
+    },
+    {
+      "id": "profile3e-warden-of-the-keys",
+      "name": "Warden of the Keys",
+      "category": "Warrior",
+      "pages": "103"
+    },
+    {
+      "id": "profile3e-hurin",
+      "name": "Húrin",
+      "category": "Hero",
+      "character": "Hurin",
+      "pages": "103"
+    },
+    {
+      "id": "profile3e-blackroot-vale-archer",
+      "name": "Blackroot Vale Archer",
+      "category": "Warrior",
+      "pages": "103"
+    },
+    {
+      "id": "profile3e-duinhir",
+      "name": "Duinhir",
+      "category": "Hero",
+      "character": "Duinhir",
+      "pages": "103"
+    },
+    {
+      "id": "profile3e-boromir",
+      "name": "Boromir",
+      "category": "Hero",
+      "character": "Boromir",
+      "pages": "103"
+    },
+    {
+      "id": "profile3e-aragorn",
+      "name": "Aragorn",
+      "category": "Hero",
+      "character": "Aragorn",
+      "pages": "104"
+    },
+    {
+      "id": "profile3e-faramir",
+      "name": "Faramir",
+      "category": "Hero",
+      "character": "Faramir",
+      "pages": "104"
+    },
+    {
+      "id": "profile3e-peregrin",
+      "name": "Peregrin",
+      "category": "Hero",
+      "character": "Peregrin Took (Pippin)",
+      "pages": "104"
+    },
+    {
+      "id": "profile3e-imrahil",
+      "name": "Imrahil",
+      "category": "Hero",
+      "character": "Imrahil",
+      "pages": "105"
+    },
+    {
+      "id": "profile3e-elendil",
+      "name": "Elendil",
+      "category": "Hero",
+      "character": "Elendil",
+      "pages": "105"
+    },
+    {
+      "id": "profile3e-isildur",
+      "name": "Isildur",
+      "category": "Hero",
+      "character": "Isildur",
+      "pages": "105"
+    },
+    {
+      "id": "profile3e-riders-of-rohan",
+      "name": "Riders of Rohan",
+      "category": "Warrior",
+      "pages": "110"
+    },
+    {
+      "id": "profile3e-captain-of-riders",
+      "name": "Captain of Riders",
+      "category": "Hero",
+      "pages": "110"
+    },
+    {
+      "id": "profile3e-rohan-royal-knights",
+      "name": "Rohan Royal Knights",
+      "category": "Warrior",
+      "pages": "110"
+    },
+    {
+      "id": "profile3e-warriors-of-rohan",
+      "name": "Warriors of Rohan",
+      "category": "Warrior",
+      "pages": "110"
+    },
+    {
+      "id": "profile3e-captain-of-rohan",
+      "name": "Captain of Rohan",
+      "category": "Hero",
+      "pages": "110, 111"
+    },
+    {
+      "id": "profile3e-rohan-bowmen",
+      "name": "Rohan Bowmen",
+      "category": "Warrior",
+      "pages": "111"
+    },
+    {
+      "id": "profile3e-rohan-outriders",
+      "name": "Rohan Outriders",
+      "category": "Warrior",
+      "pages": "111"
+    },
+    {
+      "id": "profile3e-rohan-royal-guard",
+      "name": "Rohan Royal Guard",
+      "category": "Warrior",
+      "pages": "111"
+    },
+    {
+      "id": "profile3e-rohan-guard-captain",
+      "name": "Rohan Guard Captain",
+      "category": "Hero",
+      "pages": "111"
+    },
+    {
+      "id": "profile3e-sons-of-eorl",
+      "name": "Sons of Eorl",
+      "category": "Warrior",
+      "pages": "112"
+    },
+    {
+      "id": "profile3e-marshal-of-rohan",
+      "name": "Marshal of Rohan",
+      "category": "Hero",
+      "pages": "112"
+    },
+    {
+      "id": "profile3e-royal-royal-guard",
+      "name": "Royal Royal Guard",
+      "category": "Warrior",
+      "pages": "112"
+    },
+    {
+      "id": "profile3e-royal-royal-guard-cavalry",
+      "name": "Royal Royal Guard (Cavalry)",
+      "category": "Warrior",
+      "pages": "112"
+    },
+    {
+      "id": "profile3e-gamling",
+      "name": "Gamling",
+      "category": "Hero",
+      "character": "Gamling",
+      "pages": "112"
+    },
+    {
+      "id": "profile3e-gamling-cavalry",
+      "name": "Gamling (Cavalry)",
+      "category": "Hero",
+      "character": "Gamling",
+      "pages": "112"
+    },
+    {
+      "id": "profile3e-hama",
+      "name": "Háma",
+      "category": "Hero",
+      "character": "Hama, Doorward",
+      "pages": "112"
+    },
+    {
+      "id": "profile3e-hama-cavalry",
+      "name": "Háma (Cavalry)",
+      "category": "Hero",
+      "character": "Hama, Doorward",
+      "pages": "112"
+    },
+    {
+      "id": "profile3e-riders-of-westfold",
+      "name": "Riders of Westfold",
+      "category": "Warrior",
+      "pages": "113"
+    },
+    {
+      "id": "profile3e-erkenbrand",
+      "name": "Erkenbrand",
+      "category": "Hero",
+      "character": "Erkenbrand",
+      "pages": "113"
+    },
+    {
+      "id": "profile3e-erkenbrand-captain-of-the-westfold",
+      "name": "Erkenbrand, Captain of the Westfold",
+      "category": "Hero",
+      "character": "Erkenbrand",
+      "pages": "116"
+    },
+    {
+      "id": "profile3e-theodreds-knights",
+      "name": "Théodred's Knights",
+      "category": "Warrior",
+      "pages": "113"
+    },
+    {
+      "id": "profile3e-theodred",
+      "name": "Théodred",
+      "category": "Hero",
+      "character": "Theodred",
+      "pages": "113"
+    },
+    {
+      "id": "profile3e-theodred-prince-of-rohan",
+      "name": "Théodred, Prince of Rohan",
+      "category": "Hero",
+      "character": "Theodred",
+      "pages": "116"
+    },
+    {
+      "id": "profile3e-warrior-of-rohan",
+      "name": "Warrior of Rohan",
+      "category": "Warrior",
+      "pages": "113"
+    },
+    {
+      "id": "profile3e-grimbold",
+      "name": "Grimbold",
+      "category": "Hero",
+      "character": "Grimbold",
+      "pages": "113"
+    },
+    {
+      "id": "profile3e-elfhelms-riders",
+      "name": "Elfhelm's Riders",
+      "category": "Warrior",
+      "pages": "114"
+    },
+    {
+      "id": "profile3e-elfhelm",
+      "name": "Elfhelm",
+      "category": "Hero",
+      "character": "Elfhelm",
+      "pages": "114"
+    },
+    {
+      "id": "profile3e-theoden",
+      "name": "Théoden",
+      "category": "Hero",
+      "character": "Theoden",
+      "pages": "114"
+    },
+    {
+      "id": "profile3e-meriadoc",
+      "name": "Meriadoc",
+      "category": "Hero",
+      "character": "Meriadoc Brandybuck (Merry)",
+      "pages": "114"
+    },
+    {
+      "id": "profile3e-eomer",
+      "name": "Éomer",
+      "category": "Hero",
+      "character": "Eomer",
+      "pages": "115"
+    },
+    {
+      "id": "profile3e-eowyn",
+      "name": "Éowyn",
+      "category": "Hero",
+      "character": "Eowyn",
+      "pages": "115"
+    },
+    {
+      "id": "profile3e-eorl",
+      "name": "Eorl",
+      "category": "Hero",
+      "character": "Eorl",
+      "pages": "115"
+    },
+    {
+      "id": "profile3e-deorwine",
+      "name": "Déorwine",
+      "category": "Hero",
+      "character": "Deorwine",
+      "pages": "116"
+    },
+    {
+      "id": "profile3e-galadhrim-warriors",
+      "name": "Galadhrim Warriors",
+      "category": "Warrior",
+      "pages": "120, 124"
+    },
+    {
+      "id": "profile3e-galadhrim-captain",
+      "name": "Galadhrim Captain",
+      "category": "Hero",
+      "pages": "120"
+    },
+    {
+      "id": "profile3e-elven-stormcaller",
+      "name": "Elven Stormcaller",
+      "category": "Hero",
+      "pages": "120"
+    },
+    {
+      "id": "profile3e-galadhrim-archers",
+      "name": "Galadhrim Archers",
+      "category": "Warrior",
+      "pages": "120"
+    },
+    {
+      "id": "profile3e-wood-elf-warriors",
+      "name": "Wood Elf Warriors",
+      "category": "Warrior",
+      "pages": "121"
+    },
+    {
+      "id": "profile3e-wood-elf-captain",
+      "name": "Wood Elf Captain",
+      "category": "Hero",
+      "pages": "121"
+    },
+    {
+      "id": "profile3e-high-elf-warriors",
+      "name": "High Elf Warriors",
+      "category": "Warrior",
+      "pages": "121"
+    },
+    {
+      "id": "profile3e-high-elf-warriors-high-elf-cohort",
+      "name": "High Elf Warriors (High Elf Cohort)",
+      "category": "Warrior",
+      "pages": "122, 123"
+    },
+    {
+      "id": "profile3e-high-elf-captain",
+      "name": "High Elf Captain",
+      "category": "Hero",
+      "pages": "121"
+    },
+    {
+      "id": "profile3e-high-elf-archers",
+      "name": "High Elf Archers",
+      "category": "Warrior",
+      "pages": "121"
+    },
+    {
+      "id": "profile3e-wood-elf-sentinels",
+      "name": "Wood Elf Sentinels",
+      "category": "Warrior",
+      "pages": "122"
+    },
+    {
+      "id": "profile3e-galadhrim-knights",
+      "name": "Galadhrim Knights",
+      "category": "Warrior",
+      "pages": "122"
+    },
+    {
+      "id": "profile3e-commander",
+      "name": "Commander",
+      "category": "Hero",
+      "pages": "122"
+    },
+    {
+      "id": "profile3e-galadhrim-guard",
+      "name": "Galadhrim Guard",
+      "category": "Warrior",
+      "pages": "123"
+    },
+    {
+      "id": "profile3e-galadhrim-guard-guardians-of-caras-galadhon",
+      "name": "Galadhrim Guard (Guardians of Caras Galadhon)",
+      "category": "Warrior",
+      "pages": "124"
+    },
+    {
+      "id": "profile3e-erestor",
+      "name": "Erestor",
+      "category": "Hero",
+      "character": "Erestor",
+      "pages": "123"
+    },
+    {
+      "id": "profile3e-elves-of-finrod",
+      "name": "Elves of Finrod",
+      "category": "Warrior",
+      "pages": "123"
+    },
+    {
+      "id": "profile3e-gildor-inglorion",
+      "name": "Gildor Inglorion",
+      "category": "Hero",
+      "character": "Gildor Inglorion",
+      "pages": "123"
+    },
+    {
+      "id": "profile3e-glorfindel",
+      "name": "Glorfindel",
+      "category": "Hero",
+      "character": "Glorfindel",
+      "pages": "124"
+    },
+    {
+      "id": "profile3e-haldir",
+      "name": "Haldir",
+      "category": "Hero",
+      "character": "Haldir",
+      "pages": "124"
+    },
+    {
+      "id": "profile3e-haldir-guardian-of-lorien",
+      "name": "Haldir, Guardian of Lórien",
+      "category": "Hero",
+      "character": "Haldir",
+      "pages": "128"
+    },
+    {
+      "id": "profile3e-rumil",
+      "name": "Rúmil",
+      "category": "Hero",
+      "character": "Rumil",
+      "pages": "124"
+    },
+    {
+      "id": "profile3e-galadriel",
+      "name": "Galadriel",
+      "category": "Hero",
+      "character": "Galadriel",
+      "pages": "125"
+    },
+    {
+      "id": "profile3e-galadriel-protectress-of-lothlorien",
+      "name": "Galadriel, Protectress of Lothlórien",
+      "category": "Hero",
+      "character": "Galadriel",
+      "pages": "125"
+    },
+    {
+      "id": "profile3e-celeborn",
+      "name": "Celeborn",
+      "category": "Hero",
+      "character": "Celeborn",
+      "pages": "125"
+    },
+    {
+      "id": "profile3e-thranduil",
+      "name": "Thranduil",
+      "category": "Hero",
+      "character": "Thranduil",
+      "pages": "126"
+    },
+    {
+      "id": "profile3e-elrond",
+      "name": "Elrond",
+      "category": "Hero",
+      "character": "Elrond",
+      "pages": "126"
+    },
+    {
+      "id": "profile3e-legolas",
+      "name": "Legolas",
+      "category": "Hero",
+      "character": "Legolas",
+      "pages": "126"
+    },
+    {
+      "id": "profile3e-cirdan",
+      "name": "Círdan",
+      "category": "Hero",
+      "character": "Cirdan",
+      "pages": "127"
+    },
+    {
+      "id": "profile3e-gil-galad",
+      "name": "Gil-galad",
+      "category": "Hero",
+      "character": "Gil-Galad",
+      "pages": "127"
+    },
+    {
+      "id": "profile3e-arwen",
+      "name": "Arwen",
+      "category": "Hero",
+      "character": "Arwen",
+      "pages": "127"
+    },
+    {
+      "id": "profile3e-elladan",
+      "name": "Elladan",
+      "category": "Hero",
+      "character": "Elladan",
+      "pages": "128"
+    },
+    {
+      "id": "profile3e-elrohir",
+      "name": "Elrohir",
+      "category": "Hero",
+      "character": "Elrohir",
+      "pages": "128"
+    },
+    {
+      "id": "profile3e-dwarf-warriors",
+      "name": "Dwarf Warriors",
+      "category": "Warrior",
+      "pages": "132"
+    },
+    {
+      "id": "profile3e-dwarf-warriors-moria-expeditionaries",
+      "name": "Dwarf Warriors (Moria Expeditionaries)",
+      "category": "Warrior",
+      "pages": "134"
+    },
+    {
+      "id": "profile3e-dwarf-captain",
+      "name": "Dwarf Captain",
+      "category": "Hero",
+      "pages": "132"
+    },
+    {
+      "id": "profile3e-shieldbearer",
+      "name": "Shieldbearer",
+      "category": "Hero",
+      "pages": "132"
+    },
+    {
+      "id": "profile3e-dwarf-archers",
+      "name": "Dwarf Archers",
+      "category": "Warrior",
+      "pages": "132"
+    },
+    {
+      "id": "profile3e-dwarf-rangers",
+      "name": "Dwarf Rangers",
+      "category": "Warrior",
+      "pages": "133, 136"
+    },
+    {
+      "id": "profile3e-dwarf-ranger-captain",
+      "name": "Dwarf Ranger Captain",
+      "category": "Hero",
+      "pages": "133"
+    },
+    {
+      "id": "profile3e-khazad-guard",
+      "name": "Khazâd Guard",
+      "category": "Warrior",
+      "pages": "133, 136"
+    },
+    {
+      "id": "profile3e-captain-of-the-guard",
+      "name": "Captain of the Guard",
+      "category": "Hero",
+      "pages": "133"
+    },
+    {
+      "id": "profile3e-iron-guard",
+      "name": "Iron Guard",
+      "category": "Warrior",
+      "pages": "133"
+    },
+    {
+      "id": "profile3e-ironhelm",
+      "name": "Ironhelm",
+      "category": "Hero",
+      "pages": "133"
+    },
+    {
+      "id": "profile3e-vault-wardens",
+      "name": "Vault Wardens",
+      "category": "Warrior",
+      "pages": "134"
+    },
+    {
+      "id": "profile3e-dwarf-ballista",
+      "name": "Dwarf Ballista",
+      "category": "Warrior",
+      "pages": "134"
+    },
+    {
+      "id": "profile3e-expedition-master",
+      "name": "Expedition Master",
+      "category": "Hero",
+      "pages": "134"
+    },
+    {
+      "id": "profile3e-iron-guard-ancient",
+      "name": "Iron Guard Ancient",
+      "category": "Warrior",
+      "pages": "135"
+    },
+    {
+      "id": "profile3e-ironhelm-ancient",
+      "name": "Ironhelm Ancient",
+      "category": "Hero",
+      "pages": "135"
+    },
+    {
+      "id": "profile3e-ered-luin-rangers",
+      "name": "Ered Luin Rangers",
+      "category": "Warrior",
+      "pages": "135"
+    },
+    {
+      "id": "profile3e-ered-luin-captain",
+      "name": "Ered Luin Captain",
+      "category": "Hero",
+      "pages": "135"
+    },
+    {
+      "id": "profile3e-kings-champion",
+      "name": "King's Champion",
+      "category": "Hero",
+      "pages": "135"
+    },
+    {
+      "id": "profile3e-erebor-guard",
+      "name": "Erebor Guard",
+      "category": "Warrior",
+      "pages": "136"
+    },
+    {
+      "id": "profile3e-murin",
+      "name": "Múrin",
+      "category": "Hero",
+      "character": "Murin",
+      "pages": "136"
+    },
+    {
+      "id": "profile3e-drar",
+      "name": "Drár",
+      "category": "Hero",
+      "character": "Drar",
+      "pages": "136"
+    },
+    {
+      "id": "profile3e-mardin",
+      "name": "Mardin",
+      "category": "Hero",
+      "character": "Mardin",
+      "pages": "136"
+    },
+    {
+      "id": "profile3e-durin",
+      "name": "Durin",
+      "category": "Hero",
+      "character": "Durin",
+      "pages": "136"
+    },
+    {
+      "id": "profile3e-floi",
+      "name": "Flói",
+      "category": "Hero",
+      "character": "Floi Stonehand",
+      "pages": "137"
+    },
+    {
+      "id": "profile3e-balin",
+      "name": "Balin",
+      "category": "Hero",
+      "character": "Balin",
+      "pages": "137"
+    },
+    {
+      "id": "profile3e-dain-ironfoot",
+      "name": "Dáin Ironfoot",
+      "category": "Hero",
+      "character": "Dain",
+      "pages": "138"
+    },
+    {
+      "id": "profile3e-gimli",
+      "name": "Gimli",
+      "category": "Hero",
+      "character": "Gimli",
+      "pages": "138"
+    },
+    {
+      "id": "profile3e-hobbits",
+      "name": "Hobbits",
+      "category": "Warrior",
+      "pages": "142"
+    },
+    {
+      "id": "profile3e-civic-leader",
+      "name": "Civic Leader",
+      "category": "Hero",
+      "pages": "142"
+    },
+    {
+      "id": "profile3e-hobbit-archers",
+      "name": "Hobbit Archers",
+      "category": "Warrior",
+      "pages": "142"
+    },
+    {
+      "id": "profile3e-ent",
+      "name": "Ent",
+      "category": "Warrior",
+      "pages": "142"
+    },
+    {
+      "id": "profile3e-great-eagle",
+      "name": "Great Eagle",
+      "category": "Hero",
+      "pages": "143"
+    },
+    {
+      "id": "profile3e-treebeard",
+      "name": "Treebeard",
+      "category": "Hero",
+      "character": "Treebeard",
+      "pages": "143"
+    },
+    {
+      "id": "profile3e-the-three-hunters",
+      "name": "The Three Hunters",
+      "category": "Hero",
+      "pages": "144"
+    },
+    {
+      "id": "profile3e-quickbeam",
+      "name": "Quickbeam",
+      "category": "Hero",
+      "character": "Quickbeam",
+      "pages": "144"
+    },
+    {
+      "id": "profile3e-beechbone",
+      "name": "Beechbone",
+      "category": "Hero",
+      "character": "Beechbone",
+      "pages": "144"
+    },
+    {
+      "id": "profile3e-tom-bombadil",
+      "name": "Tom Bombadil",
+      "category": "Warrior",
+      "character": "Tom Bombadil",
+      "pages": "145"
+    },
+    {
+      "id": "profile3e-goldberry",
+      "name": "Goldberry",
+      "category": "Warrior",
+      "character": "Goldberry",
+      "pages": "145"
+    },
+    {
+      "id": "profile3e-gwaihir",
+      "name": "Gwaihir",
+      "category": "Hero",
+      "character": "Gwaihir",
+      "pages": "145"
+    },
+    {
+      "id": "profile3e-the-fellowship",
+      "name": "The Fellowship",
+      "category": "Hero",
+      "pages": "146"
+    },
+    {
+      "id": "profile3e-the-white-council",
+      "name": "The White Council",
+      "category": "Hero",
+      "pages": "147"
+    },
+    {
+      "id": "profile3e-beornings",
+      "name": "Beornings",
+      "category": "Warrior",
+      "pages": "148"
+    },
+    {
+      "id": "profile3e-grimbeorn",
+      "name": "Grimbeorn",
+      "category": "Hero",
+      "character": "Grimbeorn",
+      "pages": "148"
+    },
+    {
+      "id": "profile3e-council-of-wizardry",
+      "name": "Council of Wizardry",
+      "category": "Hero",
+      "pages": "148"
+    },
+    {
+      "id": "profile3e-woses-warriors",
+      "name": "Woses Warriors",
+      "category": "Warrior",
+      "pages": "149"
+    },
+    {
+      "id": "profile3e-ghan-buri-ghan",
+      "name": "Ghân-buri-Ghân",
+      "category": "Hero",
+      "character": "Ghan-Buri-Ghan",
+      "pages": "149"
+    },
+    {
+      "id": "profile3e-saruman",
+      "name": "Saruman",
+      "category": "Hero",
+      "character": "Saruman",
+      "pages": "149"
+    },
+    {
+      "id": "profile3e-saruman-the-white-hand",
+      "name": "Saruman the White Hand",
+      "category": "Hero",
+      "character": "Saruman",
+      "pages": "178"
+    },
+    {
+      "id": "profile3e-gandalf",
+      "name": "Gandalf",
+      "category": "Hero",
+      "character": "Gandalf",
+      "pages": "150"
+    },
+    {
+      "id": "profile3e-radagast",
+      "name": "Radagast",
+      "category": "Hero",
+      "character": "Radagast",
+      "pages": "150"
+    },
+    {
+      "id": "profile3e-orc-warriors",
+      "name": "Orc Warriors",
+      "category": "Warrior",
+      "pages": "154, 159, 171, 209"
+    },
+    {
+      "id": "profile3e-orc-captain",
+      "name": "Orc Captain",
+      "category": "Hero",
+      "pages": "154, 171, 209"
+    },
+    {
+      "id": "profile3e-orc-captain-cavalry",
+      "name": "Orc Captain (Cavalry)",
+      "category": "Hero",
+      "pages": "155, 172"
+    },
+    {
+      "id": "profile3e-mordor-shaman",
+      "name": "Mordor Shaman",
+      "category": "Hero",
+      "pages": "154"
+    },
+    {
+      "id": "profile3e-morannon-orc-warriors",
+      "name": "Morannon Orc Warriors",
+      "category": "Warrior",
+      "pages": "154"
+    },
+    {
+      "id": "profile3e-morannon-orc-captain",
+      "name": "Morannon Orc Captain",
+      "category": "Hero",
+      "pages": "154"
+    },
+    {
+      "id": "profile3e-orc-trackers",
+      "name": "Orc Trackers",
+      "category": "Warrior",
+      "pages": "154"
+    },
+    {
+      "id": "profile3e-orc-trackers-grishnakhs-trackers",
+      "name": "Orc Trackers (Grishnákh's Trackers)",
+      "category": "Warrior",
+      "pages": "160"
+    },
+    {
+      "id": "profile3e-warg-riders",
+      "name": "Warg Riders",
+      "category": "Warrior",
+      "pages": "155, 172"
+    },
+    {
+      "id": "profile3e-warg-riders-sharkus-hunters",
+      "name": "Warg Riders (Sharku's Hunters)",
+      "category": "Warrior",
+      "pages": "177"
+    },
+    {
+      "id": "profile3e-uruk-hai-warriors",
+      "name": "Uruk-hai Warriors",
+      "category": "Warrior",
+      "pages": "155, 158"
+    },
+    {
+      "id": "profile3e-uruk-hai-warriors-uruk-hai-phalanx",
+      "name": "Uruk-hai Warriors (Uruk-hai Phalanx)",
+      "category": "Warrior",
+      "pages": "170, 176"
+    },
+    {
+      "id": "profile3e-uruk-hai-warriors-uruk-hai-warband",
+      "name": "Uruk-hai Warriors (Uruk-hai Warband)",
+      "category": "Warrior",
+      "pages": "170"
+    },
+    {
+      "id": "profile3e-uruk-hai-captain",
+      "name": "Uruk-hai Captain",
+      "category": "Hero",
+      "pages": "155, 170"
+    },
+    {
+      "id": "profile3e-black-uruk-shaman",
+      "name": "Black Uruk Shaman",
+      "category": "Hero",
+      "pages": "155, 157"
+    },
+    {
+      "id": "profile3e-morgul-stalkers",
+      "name": "Morgul Stalkers",
+      "category": "Warrior",
+      "pages": "155"
+    },
+    {
+      "id": "profile3e-mordor-troll",
+      "name": "Mordor Troll",
+      "category": "Warrior",
+      "pages": "156"
+    },
+    {
+      "id": "profile3e-mordor-troll-drummer",
+      "name": "Mordor Troll Drummer",
+      "category": "Warrior",
+      "pages": "156"
+    },
+    {
+      "id": "profile3e-mordor-troll-chieftain",
+      "name": "Mordor Troll Chieftain",
+      "category": "Hero",
+      "pages": "156"
+    },
+    {
+      "id": "profile3e-black-guard",
+      "name": "Black Guard",
+      "category": "Warrior",
+      "pages": "157"
+    },
+    {
+      "id": "profile3e-war-catapult",
+      "name": "War Catapult",
+      "category": "Warrior",
+      "pages": "157"
+    },
+    {
+      "id": "profile3e-siege-bow",
+      "name": "Siege Bow",
+      "category": "Warrior",
+      "pages": "158"
+    },
+    {
+      "id": "profile3e-battering-ram",
+      "name": "Battering Ram",
+      "category": "Warrior",
+      "pages": "158"
+    },
+    {
+      "id": "profile3e-battering-ram-isengard-battering-ram",
+      "name": "Battering Ram (Isengard Battering Ram)",
+      "category": "Warrior",
+      "pages": "174"
+    },
+    {
+      "id": "profile3e-shagrat",
+      "name": "Shagrat",
+      "category": "Hero",
+      "character": "Shagrat",
+      "pages": "158"
+    },
+    {
+      "id": "profile3e-castellans",
+      "name": "Castellans",
+      "category": "Warrior",
+      "pages": "159"
+    },
+    {
+      "id": "profile3e-gorbag",
+      "name": "Gorbag",
+      "category": "Hero",
+      "character": "Gorbag",
+      "pages": "159"
+    },
+    {
+      "id": "profile3e-spider-queen-shelob",
+      "name": "Spider Queen (Shelob)",
+      "category": "Hero",
+      "character": "Shelob",
+      "pages": "159"
+    },
+    {
+      "id": "profile3e-spider-queen",
+      "name": "Spider Queen",
+      "category": "Hero",
+      "pages": "184"
+    },
+    {
+      "id": "profile3e-grishnakh",
+      "name": "Grishnákh",
+      "category": "Hero",
+      "character": "Grishnakh",
+      "pages": "160"
+    },
+    {
+      "id": "profile3e-the-necromancer",
+      "name": "The Necromancer",
+      "category": "Hero",
+      "character": "Sauron",
+      "pages": "160"
+    },
+    {
+      "id": "profile3e-ringwraiths",
+      "name": "Ringwraiths",
+      "category": "Warrior",
+      "pages": "161"
+    },
+    {
+      "id": "profile3e-the-witch-king",
+      "name": "The Witch-king",
+      "category": "Hero",
+      "character": "The Witch-King",
+      "pages": "161"
+    },
+    {
+      "id": "profile3e-the-witch-king-winged-nazgul",
+      "name": "The Witch-king (Winged Nazgûl)",
+      "category": "Hero",
+      "character": "The Witch-King",
+      "pages": "162"
+    },
+    {
+      "id": "profile3e-the-witch-king-ringwraith",
+      "name": "The Witch-king (Ringwraith)",
+      "category": "Hero",
+      "character": "The Witch-King",
+      "pages": "163"
+    },
+    {
+      "id": "profile3e-twilight-ringwraiths",
+      "name": "Twilight Ringwraiths",
+      "category": "Warrior",
+      "pages": "161"
+    },
+    {
+      "id": "profile3e-winged-nazgul",
+      "name": "Winged Nazgûl",
+      "category": "Hero",
+      "pages": "162"
+    },
+    {
+      "id": "profile3e-ringwraith",
+      "name": "Ringwraith",
+      "category": "Hero",
+      "pages": "163"
+    },
+    {
+      "id": "profile3e-the-mouth-of-sauron",
+      "name": "The Mouth of Sauron",
+      "category": "Hero",
+      "character": "Mouth of Sauron",
+      "pages": "164"
+    },
+    {
+      "id": "profile3e-gothmog",
+      "name": "Gothmog",
+      "category": "Hero",
+      "character": "Gothmog",
+      "pages": "164"
+    },
+    {
+      "id": "profile3e-kardush",
+      "name": "Kârdush",
+      "category": "Hero",
+      "character": "Kardush",
+      "pages": "164"
+    },
+    {
+      "id": "profile3e-sauron",
+      "name": "Sauron",
+      "category": "Hero",
+      "character": "Sauron",
+      "pages": "165"
+    },
+    {
+      "id": "profile3e-gollum",
+      "name": "Gollum",
+      "category": "Hero",
+      "character": "Gollum",
+      "pages": "165"
+    },
+    {
+      "id": "profile3e-uruk-hai-shaman",
+      "name": "Uruk-hai Shaman",
+      "category": "Hero",
+      "pages": "170"
+    },
+    {
+      "id": "profile3e-uruk-hai-scouts",
+      "name": "Uruk-hai Scouts",
+      "category": "Warrior",
+      "pages": "170, 176"
+    },
+    {
+      "id": "profile3e-uruk-hai-scouts-mauhurs-marauders",
+      "name": "Uruk-hai Scouts (Mauhúr's Marauders)",
+      "category": "Warrior",
+      "pages": "177"
+    },
+    {
+      "id": "profile3e-isengard-shaman",
+      "name": "Isengard Shaman",
+      "category": "Hero",
+      "pages": "171"
+    },
+    {
+      "id": "profile3e-uruk-hai-sappers",
+      "name": "Uruk-hai Sappers",
+      "category": "Warrior",
+      "pages": "171"
+    },
+    {
+      "id": "profile3e-feral-uruk-hai",
+      "name": "Feral Uruk-hai",
+      "category": "Warrior",
+      "pages": "171"
+    },
+    {
+      "id": "profile3e-dunlending-warriors",
+      "name": "Dunlending Warriors",
+      "category": "Warrior",
+      "pages": "172"
+    },
+    {
+      "id": "profile3e-dunlending-chieftain",
+      "name": "Dunlending Chieftain",
+      "category": "Hero",
+      "pages": "172"
+    },
+    {
+      "id": "profile3e-dunlending-chieftain-cavalry",
+      "name": "Dunlending Chieftain (Cavalry)",
+      "category": "Hero",
+      "pages": "175"
+    },
+    {
+      "id": "profile3e-wild-men",
+      "name": "Wild Men",
+      "category": "Warrior",
+      "pages": "172"
+    },
+    {
+      "id": "profile3e-uruk-hai-berserkers",
+      "name": "Uruk-hai Berserkers",
+      "category": "Warrior",
+      "pages": "173"
+    },
+    {
+      "id": "profile3e-ruffians",
+      "name": "Ruffians",
+      "category": "Warrior",
+      "pages": "173"
+    },
+    {
+      "id": "profile3e-isengard-troll",
+      "name": "Isengard Troll",
+      "category": "Warrior",
+      "pages": "173"
+    },
+    {
+      "id": "profile3e-isengard-troll-isengard-troll-captain",
+      "name": "Isengard Troll (Isengard Troll Captain)",
+      "category": "Hero",
+      "pages": "174"
+    },
+    {
+      "id": "profile3e-dunlending-horsemen",
+      "name": "Dunlending Horsemen",
+      "category": "Warrior",
+      "pages": "175"
+    },
+    {
+      "id": "profile3e-assault-ballista",
+      "name": "Assault Ballista",
+      "category": "Warrior",
+      "pages": "175"
+    },
+    {
+      "id": "profile3e-ugluk",
+      "name": "Uglúk",
+      "category": "Hero",
+      "character": "Ugluk",
+      "pages": "176"
+    },
+    {
+      "id": "profile3e-vrashku",
+      "name": "Vrashkû",
+      "category": "Hero",
+      "character": "Vrasku",
+      "pages": "176"
+    },
+    {
+      "id": "profile3e-sharku",
+      "name": "Sharku",
+      "category": "Hero",
+      "character": "Sharku",
+      "pages": "177"
+    },
+    {
+      "id": "profile3e-mauhur",
+      "name": "Mauhúr",
+      "category": "Hero",
+      "character": "Mauhur",
+      "pages": "177"
+    },
+    {
+      "id": "profile3e-thrydan-wolfsbane",
+      "name": "Thrydan Wolfsbane",
+      "category": "Hero",
+      "character": "Thrydan Wolfsbane",
+      "pages": "177"
+    },
+    {
+      "id": "profile3e-lurtz",
+      "name": "Lurtz",
+      "category": "Hero",
+      "character": "Lurtz",
+      "pages": "178"
+    },
+    {
+      "id": "profile3e-grima",
+      "name": "Gríma",
+      "category": "Hero",
+      "character": "Grima Wormtongue",
+      "pages": "178"
+    },
+    {
+      "id": "profile3e-goblin-warriors",
+      "name": "Goblin Warriors",
+      "category": "Warrior",
+      "pages": "182"
+    },
+    {
+      "id": "profile3e-goblin-captain",
+      "name": "Goblin Captain",
+      "category": "Hero",
+      "pages": "182, 183"
+    },
+    {
+      "id": "profile3e-goblin-shaman",
+      "name": "Goblin Shaman",
+      "category": "Hero",
+      "pages": "182, 183, 185"
+    },
+    {
+      "id": "profile3e-wargs",
+      "name": "Wargs",
+      "category": "Warrior",
+      "pages": "182"
+    },
+    {
+      "id": "profile3e-warg-chieftain",
+      "name": "Warg Chieftain",
+      "category": "Hero",
+      "pages": "182"
+    },
+    {
+      "id": "profile3e-giant-spiders",
+      "name": "Giant Spiders",
+      "category": "Warrior",
+      "pages": "183"
+    },
+    {
+      "id": "profile3e-goblin-prowlers",
+      "name": "Goblin Prowlers",
+      "category": "Warrior",
+      "pages": "183"
+    },
+    {
+      "id": "profile3e-bat-swarm",
+      "name": "Bat Swarm",
+      "category": "Warrior",
+      "pages": "183"
+    },
+    {
+      "id": "profile3e-cave-troll",
+      "name": "Cave Troll",
+      "category": "Warrior",
+      "pages": "184"
+    },
+    {
+      "id": "profile3e-stone-giant",
+      "name": "Stone Giant",
+      "category": "Warrior",
+      "pages": "184"
+    },
+    {
+      "id": "profile3e-spider-broodlings",
+      "name": "Spider Broodlings",
+      "category": "Warrior",
+      "pages": "185"
+    },
+    {
+      "id": "profile3e-blackshield",
+      "name": "Blackshield",
+      "category": "Warrior",
+      "pages": "185"
+    },
+    {
+      "id": "profile3e-blackshield-captain",
+      "name": "Blackshield Captain",
+      "category": "Hero",
+      "pages": "185"
+    },
+    {
+      "id": "profile3e-cave-drake",
+      "name": "Cave Drake",
+      "category": "Warrior",
+      "pages": "185"
+    },
+    {
+      "id": "profile3e-dragon",
+      "name": "Dragon",
+      "category": "Hero",
+      "pages": "186"
+    },
+    {
+      "id": "profile3e-the-balrog",
+      "name": "The Balrog",
+      "category": "Hero",
+      "character": "Durin's Bane",
+      "pages": "187"
+    },
+    {
+      "id": "profile3e-durburz",
+      "name": "Durbûrz",
+      "category": "Hero",
+      "character": "Durburz",
+      "pages": "188"
+    },
+    {
+      "id": "profile3e-druzhag",
+      "name": "Drûzhag",
+      "category": "Hero",
+      "character": "Druzhag",
+      "pages": "188"
+    },
+    {
+      "id": "profile3e-haradrim-warriors",
+      "name": "Haradrim Warriors",
+      "category": "Warrior",
+      "pages": "192"
+    },
+    {
+      "id": "profile3e-haradrim-chieftain",
+      "name": "Haradrim Chieftain",
+      "category": "Hero",
+      "pages": "192"
+    },
+    {
+      "id": "profile3e-haradrim-chieftain-cavalry",
+      "name": "Haradrim Chieftain (Cavalry)",
+      "category": "Hero",
+      "pages": "192"
+    },
+    {
+      "id": "profile3e-hasharin",
+      "name": "Hâsharin",
+      "category": "Hero",
+      "pages": "192"
+    },
+    {
+      "id": "profile3e-haradrim-raiders",
+      "name": "Haradrim Raiders",
+      "category": "Warrior",
+      "pages": "192"
+    },
+    {
+      "id": "profile3e-serpent-guards",
+      "name": "Serpent Guards",
+      "category": "Warrior",
+      "pages": "193"
+    },
+    {
+      "id": "profile3e-serpent-guard-chieftain",
+      "name": "Serpent Guard Chieftain",
+      "category": "Hero",
+      "pages": "193"
+    },
+    {
+      "id": "profile3e-serpent-rider",
+      "name": "Serpent Rider",
+      "category": "Warrior",
+      "pages": "193"
+    },
+    {
+      "id": "profile3e-serpent-rider-chieftain",
+      "name": "Serpent Rider Chieftain",
+      "category": "Hero",
+      "pages": "193"
+    },
+    {
+      "id": "profile3e-corsairs-of-umbar",
+      "name": "Corsairs of Umbar",
+      "category": "Warrior",
+      "pages": "193"
+    },
+    {
+      "id": "profile3e-corsairs-of-umbar-corsair-arbalesters",
+      "name": "Corsairs of Umbar (Corsair Arbalesters)",
+      "category": "Warrior",
+      "pages": "197"
+    },
+    {
+      "id": "profile3e-corsair-captain",
+      "name": "Corsair Captain",
+      "category": "Hero",
+      "pages": "193, 197"
+    },
+    {
+      "id": "profile3e-corsair-bosun",
+      "name": "Corsair Bo'sun",
+      "category": "Hero",
+      "pages": "193"
+    },
+    {
+      "id": "profile3e-khandish-mercenaries",
+      "name": "Khandish Mercenaries",
+      "category": "Warrior",
+      "pages": "194"
+    },
+    {
+      "id": "profile3e-khandish-mercenaries-cavalry",
+      "name": "Khandish Mercenaries (Cavalry)",
+      "category": "Warrior",
+      "pages": "194"
+    },
+    {
+      "id": "profile3e-khandish-chieftain",
+      "name": "Khandish Chieftain",
+      "category": "Hero",
+      "pages": "194"
+    },
+    {
+      "id": "profile3e-khandish-chieftain-cavalry",
+      "name": "Khandish Chieftain (Cavalry)",
+      "category": "Hero",
+      "pages": "194"
+    },
+    {
+      "id": "profile3e-easterlings",
+      "name": "Easterlings",
+      "category": "Warrior",
+      "pages": "194"
+    },
+    {
+      "id": "profile3e-easterlings-easterling-archer-cohort",
+      "name": "Easterlings (Easterling Archer Cohort)",
+      "category": "Warrior",
+      "pages": "195"
+    },
+    {
+      "id": "profile3e-easterling-captain",
+      "name": "Easterling Captain",
+      "category": "Hero",
+      "pages": "194"
+    },
+    {
+      "id": "profile3e-easterling-captain-easterling-archer-cohort",
+      "name": "Easterling Captain (Easterling Archer Cohort)",
+      "category": "Hero",
+      "pages": "195"
+    },
+    {
+      "id": "profile3e-dragon-knight",
+      "name": "Dragon Knight",
+      "category": "Hero",
+      "pages": "194"
+    },
+    {
+      "id": "profile3e-dragon-knight-cavalry",
+      "name": "Dragon Knight (Cavalry)",
+      "category": "Hero",
+      "pages": "195"
+    },
+    {
+      "id": "profile3e-easterling-war-priest",
+      "name": "Easterling War Priest",
+      "category": "Hero",
+      "pages": "195"
+    },
+    {
+      "id": "profile3e-easterling-war-priest-cavalry",
+      "name": "Easterling War Priest (Cavalry)",
+      "category": "Hero",
+      "pages": "195"
+    },
+    {
+      "id": "profile3e-easterling-kataphrakts",
+      "name": "Easterling Kataphrakts",
+      "category": "Warrior",
+      "pages": "195"
+    },
+    {
+      "id": "profile3e-captain-of-kataphrakts",
+      "name": "Captain of Kataphrakts",
+      "category": "Hero",
+      "pages": "195"
+    },
+    {
+      "id": "profile3e-watchers-of-karna",
+      "name": "Watchers of Kârna",
+      "category": "Warrior",
+      "pages": "195"
+    },
+    {
+      "id": "profile3e-half-trolls",
+      "name": "Half Trolls",
+      "category": "Warrior",
+      "pages": "196"
+    },
+    {
+      "id": "profile3e-mahud-warriors",
+      "name": "Mahûd Warriors",
+      "category": "Warrior",
+      "pages": "196"
+    },
+    {
+      "id": "profile3e-mahud-warriors-cavalry",
+      "name": "Mahûd Warriors (Cavalry)",
+      "category": "Warrior",
+      "pages": "196"
+    },
+    {
+      "id": "profile3e-mahud-chieftain",
+      "name": "Mahûd Chieftain",
+      "category": "Hero",
+      "pages": "196"
+    },
+    {
+      "id": "profile3e-mahud-chieftain-cavalry",
+      "name": "Mahûd Chieftain (Cavalry)",
+      "category": "Hero",
+      "pages": "196"
+    },
+    {
+      "id": "profile3e-black-numenoreans",
+      "name": "Black Númenóreans",
+      "category": "Warrior",
+      "pages": "197"
+    },
+    {
+      "id": "profile3e-black-marshal",
+      "name": "Black Marshal",
+      "category": "Hero",
+      "pages": "197"
+    },
+    {
+      "id": "profile3e-morgul-knights",
+      "name": "Morgul Knights",
+      "category": "Warrior",
+      "pages": "197"
+    },
+    {
+      "id": "profile3e-knight-commander",
+      "name": "Knight Commander",
+      "category": "Hero",
+      "pages": "197"
+    },
+    {
+      "id": "profile3e-khandish-charioteer",
+      "name": "Khandish Charioteer",
+      "category": "Warrior",
+      "pages": "198"
+    },
+    {
+      "id": "profile3e-khandish-king",
+      "name": "Khandish King",
+      "category": "Hero",
+      "pages": "198"
+    },
+    {
+      "id": "profile3e-mumak",
+      "name": "Mûmak",
+      "category": "Warrior",
+      "pages": "198"
+    },
+    {
+      "id": "profile3e-mumak-crew",
+      "name": "Mûmak Crew",
+      "category": "Warrior",
+      "pages": "198"
+    },
+    {
+      "id": "profile3e-abrakhan-guard",
+      "name": "Abrakhân Guard",
+      "category": "Warrior",
+      "pages": "200"
+    },
+    {
+      "id": "profile3e-the-golden-king",
+      "name": "The Golden King",
+      "category": "Hero",
+      "character": "Golden King of Abrakhan",
+      "pages": "200"
+    },
+    {
+      "id": "profile3e-suladan",
+      "name": "Suladân",
+      "category": "Hero",
+      "character": "Suladan",
+      "pages": "200"
+    },
+    {
+      "id": "profile3e-dalamyr",
+      "name": "Dalamyr",
+      "category": "Hero",
+      "character": "Dalamyr",
+      "pages": "200"
+    },
+    {
+      "id": "profile3e-amdur",
+      "name": "Amdûr",
+      "category": "Hero",
+      "character": "Amdur",
+      "pages": "201"
+    },
+    {
+      "id": "profile3e-queen-beruthiel",
+      "name": "Queen Berúthiel",
+      "category": "Hero",
+      "pages": "201"
+    },
+    {
+      "id": "profile3e-ghosts",
+      "name": "Ghosts",
+      "category": "Warrior",
+      "pages": "208"
+    },
+    {
+      "id": "profile3e-ghostly-captain",
+      "name": "Ghostly Captain",
+      "category": "Hero",
+      "pages": "208"
+    },
+    {
+      "id": "profile3e-ghostly-captain-cavalry",
+      "name": "Ghostly Captain (Cavalry)",
+      "category": "Hero",
+      "pages": "208"
+    },
+    {
+      "id": "profile3e-ghostly-riders",
+      "name": "Ghostly Riders",
+      "category": "Warrior",
+      "pages": "208"
+    },
+    {
+      "id": "profile3e-spectres",
+      "name": "Spectres",
+      "category": "Warrior",
+      "pages": "208"
+    },
+    {
+      "id": "profile3e-barbarians-of-carn-dum",
+      "name": "Barbarians of Carn Dûm",
+      "category": "Warrior",
+      "pages": "209"
+    },
+    {
+      "id": "profile3e-barbarian-chieftain",
+      "name": "Barbarian Chieftain",
+      "category": "Hero",
+      "pages": "209"
+    },
+    {
+      "id": "profile3e-angmar-shaman",
+      "name": "Angmar Shaman",
+      "category": "Hero",
+      "pages": "209"
+    },
+    {
+      "id": "profile3e-barrow-wights",
+      "name": "Barrow-wights",
+      "category": "Warrior",
+      "pages": "209"
+    },
+    {
+      "id": "profile3e-shade",
+      "name": "Shade",
+      "category": "Warrior",
+      "pages": "210"
+    },
+    {
+      "id": "profile3e-werewolves",
+      "name": "Werewolves",
+      "category": "Warrior",
+      "pages": "210"
+    },
+    {
+      "id": "profile3e-buhrdur",
+      "name": "Buhrdûr",
+      "category": "Hero",
+      "character": "Buhrdur",
+      "pages": "210"
+    },
+    {
+      "id": "profile3e-gulavhar",
+      "name": "Gûlavhar",
+      "category": "Hero",
+      "character": "Gulavhar",
+      "pages": "211"
+    }
+  ],
+  "renamedProfiles": [
+    "Knight Captain -> Knight Captain (Royal Knights)",
+    "Knight Captain -> Knight Captain (Galadhrim Knight Regiment)",
+    "Captain of Rangers -> Captain of Rangers (Rangers of Arnor)",
+    "Guard Captain -> Guard Captain (Guards of the Galadhrim Court)",
+    "Guard Captain -> Guard Captain (Black Guard of Barad-dûr)",
+    "Knight Champion -> Knight Champion (Cavalry)",
+    "Knight of Dol Amroth -> Knight of Dol Amroth (Cavalry)",
+    "Warrior of the Dead -> Warrior of the Dead (Court of the Dead King)",
+    "Captain of the Dead -> Captain of the Dead (Cavalry)",
+    "Royal Royal Guard -> Royal Royal Guard (Cavalry)",
+    "Gamling -> Gamling (Cavalry)",
+    "Háma -> Háma (Cavalry)",
+    "Erkenbrand -> Erkenbrand, Captain of the Westfold",
+    "Théodred -> Théodred, Prince of Rohan",
+    "High Elf Warriors -> High Elf Warriors (High Elf Cohort)",
+    "Galadhrim Guard -> Galadhrim Guard (Guardians of Caras Galadhon)",
+    "Haldir -> Haldir, Guardian of Lórien",
+    "Galadriel -> Galadriel, Protectress of Lothlórien",
+    "Dwarf Warriors -> Dwarf Warriors (Moria Expeditionaries)",
+    "Saruman -> Saruman the White Hand",
+    "Orc Captain -> Orc Captain (Cavalry)",
+    "Orc Trackers -> Orc Trackers (Grishnákh's Trackers)",
+    "Warg Riders -> Warg Riders (Sharku's Hunters)",
+    "Uruk-hai Warriors -> Uruk-hai Warriors (Uruk-hai Phalanx)",
+    "Uruk-hai Warriors -> Uruk-hai Warriors (Uruk-hai Warband)",
+    "Battering Ram -> Battering Ram (Isengard Battering Ram)",
+    "Spider Queen -> Spider Queen (Shelob)",
+    "The Witch-king -> The Witch-king (Winged Nazgûl)",
+    "The Witch-king -> The Witch-king (Ringwraith)",
+    "Uruk-hai Scouts -> Uruk-hai Scouts (Mauhúr's Marauders)",
+    "Dunlending Chieftain -> Dunlending Chieftain (Cavalry)",
+    "Isengard Troll -> Isengard Troll (Isengard Troll Captain)",
+    "Haradrim Chieftain -> Haradrim Chieftain (Cavalry)",
+    "Corsairs of Umbar -> Corsairs of Umbar (Corsair Arbalesters)",
+    "Khandish Mercenaries -> Khandish Mercenaries (Cavalry)",
+    "Khandish Chieftain -> Khandish Chieftain (Cavalry)",
+    "Easterlings -> Easterlings (Easterling Archer Cohort)",
+    "Easterling Captain -> Easterling Captain (Easterling Archer Cohort)",
+    "Dragon Knight -> Dragon Knight (Cavalry)",
+    "Easterling War Priest -> Easterling War Priest (Cavalry)",
+    "Mahûd Warriors -> Mahûd Warriors (Cavalry)",
+    "Mahûd Chieftain -> Mahûd Chieftain (Cavalry)",
+    "Ghostly Captain -> Ghostly Captain (Cavalry)"
+  ],
+  "formations": [
+    "gondor-and-arnor: Minas Tirith Warriors",
+    "gondor-and-arnor: Minas Tirith Archers",
+    "gondor-and-arnor: Minas Tirith Knights",
+    "gondor-and-arnor: Rangers of Gondor",
+    "gondor-and-arnor: Númenórean Warriors",
+    "gondor-and-arnor: Númenórean Archers",
+    "gondor-and-arnor: Warriors of Arnor",
+    "gondor-and-arnor: Rangers of Arnor",
+    "gondor-and-arnor: Citadel Guards",
+    "gondor-and-arnor: Men-at-arms of Dol Amroth",
+    "gondor-and-arnor: Foot Knights of Dol Amroth",
+    "gondor-and-arnor: Knights of Dol Amroth",
+    "gondor-and-arnor: Guards of the Fountain Court",
+    "gondor-and-arnor: Avenger Bolt Thrower",
+    "gondor-and-arnor: Battlecry Trebuchet",
+    "gondor-and-arnor: Warriors of the Dead",
+    "gondor-and-arnor: Riders of the Dead",
+    "gondor-and-arnor: The Axemen of Lossarnach",
+    "gondor-and-arnor: Clansmen of Lamedon",
+    "gondor-and-arnor: Rangers of Ithilien",
+    "gondor-and-arnor: Denethor's Guard",
+    "gondor-and-arnor: Osgiliath Veterans",
+    "gondor-and-arnor: Court of the Dead King",
+    "gondor-and-arnor: The Dúnedain of Arnor",
+    "gondor-and-arnor: The Grey Company",
+    "gondor-and-arnor: Royal Guard of Arnor",
+    "gondor-and-arnor: Wardens of the Keys",
+    "gondor-and-arnor: Blackroot Vale Archers",
+    "gondor-and-arnor: Boromir, Captain of the White Tower",
+    "gondor-and-arnor: Aragorn, Isildur's Heir",
+    "gondor-and-arnor: Faramir",
+    "gondor-and-arnor: Peregrin Took, Guard of the Citadel",
+    "gondor-and-arnor: Prince Imrahil of Dol Amroth",
+    "gondor-and-arnor: High King Elendil",
+    "gondor-and-arnor: Isildur",
+    "the-kingdom-of-rohan: Riders of Rohan Éored",
+    "the-kingdom-of-rohan: Royal Knights",
+    "the-kingdom-of-rohan: Oathsworn Militia",
+    "the-kingdom-of-rohan: Oathsworn Bowmen",
+    "the-kingdom-of-rohan: Outrider Éored",
+    "the-kingdom-of-rohan: Rohan Royal Guard",
+    "the-kingdom-of-rohan: The Sons of Eorl",
+    "the-kingdom-of-rohan: The King's Guard",
+    "the-kingdom-of-rohan: Erkenbrand's Riders",
+    "the-kingdom-of-rohan: Théodred's Knights",
+    "the-kingdom-of-rohan: Grimbold's Helmingas",
+    "the-kingdom-of-rohan: Elfhelm's Riders",
+    "the-kingdom-of-rohan: Théoden, King of Rohan",
+    "the-kingdom-of-rohan: Meriadoc, Esquire of Rohan",
+    "the-kingdom-of-rohan: Éomer, Marshal of the Riddermark",
+    "the-kingdom-of-rohan: Éowyn, Shield-maiden of Rohan",
+    "the-kingdom-of-rohan: Eorl the Young",
+    "the-kingdom-of-rohan: Erkenbrand, Captain of the Westfold",
+    "the-kingdom-of-rohan: Théodred, Prince of Rohan",
+    "the-kingdom-of-rohan: Déorwine, Captain of the Royal Guard",
+    "the-elven-kingdoms: Galadhrim Regiment",
+    "the-elven-kingdoms: Galadhrim Archer Regiment",
+    "the-elven-kingdoms: Wood Elf Warband",
+    "the-elven-kingdoms: High Elf Regiment",
+    "the-elven-kingdoms: High Elf Archer Regiment",
+    "the-elven-kingdoms: Mirkwood Sentinels",
+    "the-elven-kingdoms: Galadhrim Knight Regiment",
+    "the-elven-kingdoms: High Elf Cohort",
+    "the-elven-kingdoms: Guards of the Galadhrim Court",
+    "the-elven-kingdoms: Rivendell Guard",
+    "the-elven-kingdoms: Gildor's Household",
+    "the-elven-kingdoms: Glorfindel, Lord of the West",
+    "the-elven-kingdoms: Haldir's Elves",
+    "the-elven-kingdoms: Guardians of Caras Galadhon",
+    "the-elven-kingdoms: Galadriel, Lady of Lothlórien",
+    "the-elven-kingdoms: Galadriel, Protectress of Lothlórien",
+    "the-elven-kingdoms: Celeborn, Lord of Lothlórien",
+    "the-elven-kingdoms: Thranduil, King of Mirkwood",
+    "the-elven-kingdoms: Elrond, Master of Rivendell",
+    "the-elven-kingdoms: Legolas, Prince of Mirkwood",
+    "the-elven-kingdoms: Círdan of the Havens",
+    "the-elven-kingdoms: Gil-galad, High King of the Elves",
+    "the-elven-kingdoms: Arwen Evenstar",
+    "the-elven-kingdoms: Elladan",
+    "the-elven-kingdoms: Elrohir",
+    "the-elven-kingdoms: Haldir, Guardian of Lórien",
+    "the-dwarf-holds: Dwarf Warrior Kinband",
+    "the-dwarf-holds: Dwarf Archer Kinband",
+    "the-dwarf-holds: Dwarf Ranger Kinband",
+    "the-dwarf-holds: Khazâd Guard Kinband",
+    "the-dwarf-holds: Iron Guard Kinband",
+    "the-dwarf-holds: Vault Warden Kinband",
+    "the-dwarf-holds: Dwarf Ballista",
+    "the-dwarf-holds: Moria Expeditionaries",
+    "the-dwarf-holds: Iron Guard Ancients",
+    "the-dwarf-holds: Ered Luin Rangers",
+    "the-dwarf-holds: King's Champion",
+    "the-dwarf-holds: Múrin's Guard",
+    "the-dwarf-holds: Drár's Hunters",
+    "the-dwarf-holds: Durin's Guard",
+    "the-dwarf-holds: Flói Stonehand, Loremaster of Moria",
+    "the-dwarf-holds: Balin, Lord of Moria",
+    "the-dwarf-holds: Dáin Ironfoot, King Under the Mountain",
+    "the-dwarf-holds: Gimli, son of Glóin",
+    "the-forgotten-kingdoms: Hobbit Militia",
+    "the-forgotten-kingdoms: Hobbit Archer Militia",
+    "the-forgotten-kingdoms: Ent",
+    "the-forgotten-kingdoms: Great Eagle",
+    "the-forgotten-kingdoms: Treebeard",
+    "the-forgotten-kingdoms: The Three Hunters",
+    "the-forgotten-kingdoms: Quickbeam",
+    "the-forgotten-kingdoms: Beechbone",
+    "the-forgotten-kingdoms: Tom Bombadil",
+    "the-forgotten-kingdoms: Gwaihir",
+    "the-forgotten-kingdoms: The Fellowship of The Ring",
+    "the-forgotten-kingdoms: The White Council",
+    "the-forgotten-kingdoms: Wardens of the Carrock",
+    "the-forgotten-kingdoms: Council of Wizardry",
+    "the-forgotten-kingdoms: Woses Warband",
+    "the-forgotten-kingdoms: Saruman the White",
+    "the-forgotten-kingdoms: Gandalf the Grey",
+    "the-forgotten-kingdoms: Radagast the Brown",
+    "mordor: Mordor Orc Warband",
+    "mordor: Morannon Orc Warband",
+    "mordor: Orc Tracker Warband",
+    "mordor: Warg Rider Warband",
+    "mordor: Mordor Uruk-hai Warband",
+    "mordor: Morgul Stalker Warband",
+    "mordor: Mordor Troll",
+    "mordor: Mordor Troll Drummer",
+    "mordor: Mordor Troll Chieftain",
+    "mordor: Black Guard of Barad-dûr",
+    "mordor: War Catapult Battery",
+    "mordor: Siege Bow Battery",
+    "mordor: Mordor Battering Ram",
+    "mordor: Shagrat's Tower Guard",
+    "mordor: Castellans of Dol Guldur",
+    "mordor: Gorbag's Morgul Rats",
+    "mordor: Shelob",
+    "mordor: Grishnákh's Trackers",
+    "mordor: The Necromancer of Dol Guldur",
+    "mordor: The Nine are Abroad",
+    "mordor: Twilight Ringwraiths",
+    "mordor: Winged Nazgûl",
+    "mordor: Ringwraith",
+    "mordor: The Mouth of Sauron",
+    "mordor: Gothmog, Castellan of Minas Morgul",
+    "mordor: Kârdush the Firecaller",
+    "mordor: Sauron, the Dark Lord of Mordor",
+    "mordor: Gollum",
+    "the-fortress-of-isengard: Uruk-hai Phalanx",
+    "the-fortress-of-isengard: Uruk-hai Warband",
+    "the-fortress-of-isengard: Uruk-hai Scout Warband",
+    "the-fortress-of-isengard: Isengard Orc Warband",
+    "the-fortress-of-isengard: Uruk-hai Sappers",
+    "the-fortress-of-isengard: Feral Uruk-hai Warband",
+    "the-fortress-of-isengard: Warg Rider Warband",
+    "the-fortress-of-isengard: Dunlending Huscarls",
+    "the-fortress-of-isengard: Wild Men of Dunland",
+    "the-fortress-of-isengard: Uruk-hai Berserker Warband",
+    "the-fortress-of-isengard: Sharkey's Ruffians",
+    "the-fortress-of-isengard: Isengard Troll",
+    "the-fortress-of-isengard: Isengard Troll Captain",
+    "the-fortress-of-isengard: Isengard Battering Ram",
+    "the-fortress-of-isengard: Dunlending Horsemen",
+    "the-fortress-of-isengard: Isengard Assault Ballista",
+    "the-fortress-of-isengard: Uglúk's Raiders",
+    "the-fortress-of-isengard: Vrashkû's Talons",
+    "the-fortress-of-isengard: Sharku's Hunters",
+    "the-fortress-of-isengard: Mauhúr's Marauders",
+    "the-fortress-of-isengard: Thrydan Wolfsbane",
+    "the-fortress-of-isengard: Saruman the White Hand",
+    "the-fortress-of-isengard: Lurtz",
+    "the-fortress-of-isengard: Gríma Wormtongue",
+    "the-misty-mountains: Moria Goblin Warband",
+    "the-misty-mountains: Warg Pack",
+    "the-misty-mountains: Giant Spider Brood",
+    "the-misty-mountains: Moria Prowler Warband",
+    "the-misty-mountains: Cloud of Bats",
+    "the-misty-mountains: Spider Queen",
+    "the-misty-mountains: Cave Troll",
+    "the-misty-mountains: Stone Giant",
+    "the-misty-mountains: Spider Broodling Swarm",
+    "the-misty-mountains: Gundabad Blackshields",
+    "the-misty-mountains: Cave Drake",
+    "the-misty-mountains: Dragon of Ancient Times",
+    "the-misty-mountains: The Balrog of Morgoth",
+    "the-misty-mountains: Durbûrz, Goblin King of Moria",
+    "the-misty-mountains: Drûzhag the Beastcaller",
+    "the-fallen-realms: Haradrim Warband",
+    "the-fallen-realms: Haradrim Raider Warband",
+    "the-fallen-realms: Serpent Guard Warband",
+    "the-fallen-realms: Serpent Rider Warband",
+    "the-fallen-realms: Corsair Raiding Party",
+    "the-fallen-realms: Khandish Mercenary Warband",
+    "the-fallen-realms: Khandish Mercenary Raiders",
+    "the-fallen-realms: Easterling Cohort",
+    "the-fallen-realms: Easterling Archer Cohort",
+    "the-fallen-realms: Easterling Kataphrakt Cohort",
+    "the-fallen-realms: Watcher Warband",
+    "the-fallen-realms: Half Troll Warband",
+    "the-fallen-realms: Mahûd Warband",
+    "the-fallen-realms: Mahûd Raider Warband",
+    "the-fallen-realms: Corsair Arbalesters",
+    "the-fallen-realms: Black Númenórean Regiment",
+    "the-fallen-realms: Morgul Knight Regiment",
+    "the-fallen-realms: Khandish Charioteer",
+    "the-fallen-realms: War Mûmak of Harad",
+    "the-fallen-realms: Abrakhân Guard",
+    "the-fallen-realms: Suladân, the Serpent Lord",
+    "the-fallen-realms: Dalamyr, Fleetmaster of Umbar",
+    "the-fallen-realms: Amdûr, Lord of Blades",
+    "the-fallen-realms: Queen Berúthiel",
+    "angmar: Ghostly Legion",
+    "angmar: Ghostly Riders",
+    "angmar: Spectral Host",
+    "angmar: Carn Dûm Warband",
+    "angmar: Angmar Orc Warband",
+    "angmar: Court of Fallen Kings",
+    "angmar: Shade",
+    "angmar: Werewolf Pack",
+    "angmar: Buhrdûr",
+    "angmar: Gûlavhar, the Terror of Arnor"
+  ],
+  "battlehosts": [
+    {
+      "name": "Faramir's Knights",
+      "parent": "armylist3e-gondor-and-arnor",
+      "formations": [
+        "formation3e-gondor-and-arnor-faramir",
+        "formation3e-gondor-and-arnor-minas-tirith-knights"
+      ]
+    },
+    {
+      "name": "The Defenders of Minas Tirith",
+      "parent": "armylist3e-gondor-and-arnor",
+      "formations": [
+        "formation3e-the-forgotten-kingdoms-gandalf-the-grey",
+        "formation3e-gondor-and-arnor-peregrin-took-guard-of-the-citadel",
+        "formation3e-gondor-and-arnor-minas-tirith-warriors",
+        "formation3e-gondor-and-arnor-minas-tirith-archers",
+        "formation3e-gondor-and-arnor-battlecry-trebuchet"
+      ]
+    },
+    {
+      "name": "The Ecthelion Guard",
+      "parent": "armylist3e-gondor-and-arnor",
+      "formations": [
+        "formation3e-gondor-and-arnor-denethors-guard",
+        "formation3e-gondor-and-arnor-boromir-captain-of-the-white-tower",
+        "formation3e-gondor-and-arnor-faramir",
+        "formation3e-gondor-and-arnor-guards-of-the-fountain-court",
+        "formation3e-gondor-and-arnor-minas-tirith-warriors",
+        "formation3e-gondor-and-arnor-citadel-guards"
+      ]
+    },
+    {
+      "name": "Faramir's Rangers",
+      "parent": "armylist3e-gondor-and-arnor",
+      "formations": [
+        "formation3e-gondor-and-arnor-faramir",
+        "formation3e-gondor-and-arnor-rangers-of-ithilien",
+        "formation3e-gondor-and-arnor-rangers-of-gondor"
+      ]
+    },
+    {
+      "name": "The Garrison of Osgiliath",
+      "parent": "armylist3e-gondor-and-arnor",
+      "formations": [
+        "formation3e-gondor-and-arnor-boromir-captain-of-the-white-tower",
+        "formation3e-gondor-and-arnor-osgiliath-veterans",
+        "formation3e-gondor-and-arnor-minas-tirith-warriors",
+        "formation3e-gondor-and-arnor-rangers-of-gondor",
+        "formation3e-gondor-and-arnor-citadel-guards"
+      ]
+    },
+    {
+      "name": "Swanhost of Dol Amroth",
+      "parent": "armylist3e-gondor-and-arnor",
+      "formations": [
+        "formation3e-gondor-and-arnor-prince-imrahil-of-dol-amroth",
+        "formation3e-gondor-and-arnor-knights-of-dol-amroth",
+        "formation3e-gondor-and-arnor-foot-knights-of-dol-amroth",
+        "formation3e-gondor-and-arnor-men-at-arms-of-dol-amroth"
+      ]
+    },
+    {
+      "name": "The Fiefdoms of Gondor",
+      "parent": "armylist3e-gondor-and-arnor",
+      "formations": [
+        "formation3e-gondor-and-arnor-the-axemen-of-lossarnach",
+        "formation3e-gondor-and-arnor-clansmen-of-lamedon",
+        "formation3e-gondor-and-arnor-rangers-of-gondor",
+        "formation3e-gondor-and-arnor-minas-tirith-warriors",
+        "formation3e-gondor-and-arnor-blackroot-vale-archers",
+        "formation3e-gondor-and-arnor-wardens-of-the-keys"
+      ]
+    },
+    {
+      "name": "Army of the Dead",
+      "parent": "armylist3e-gondor-and-arnor",
+      "formations": [
+        "formation3e-gondor-and-arnor-court-of-the-dead-king",
+        "formation3e-gondor-and-arnor-warriors-of-the-dead",
+        "formation3e-gondor-and-arnor-riders-of-the-dead"
+      ]
+    },
+    {
+      "name": "The Return of The King",
+      "parent": "armylist3e-gondor-and-arnor",
+      "formations": [
+        "formation3e-the-forgotten-kingdoms-the-three-hunters",
+        "formation3e-gondor-and-arnor-aragorn-isildurs-heir",
+        "formation3e-the-dwarf-holds-gimli-son-of-gloin",
+        "formation3e-the-elven-kingdoms-legolas-prince-of-mirkwood",
+        "formation3e-the-elven-kingdoms-elladan",
+        "formation3e-the-elven-kingdoms-elrohir",
+        "formation3e-gondor-and-arnor-the-grey-company",
+        "formation3e-gondor-and-arnor-clansmen-of-lamedon"
+      ]
+    },
+    {
+      "name": "Théoden's Guard",
+      "parent": "armylist3e-the-kingdom-of-rohan",
+      "formations": [
+        "formation3e-the-kingdom-of-rohan-theoden-king-of-rohan",
+        "formation3e-the-kingdom-of-rohan-deorwine-captain-of-the-royal-guard",
+        "formation3e-the-kingdom-of-rohan-the-kings-guard",
+        "formation3e-the-kingdom-of-rohan-royal-knights",
+        "formation3e-the-kingdom-of-rohan-rohan-royal-guard"
+      ]
+    },
+    {
+      "name": "Warriors of the Westfold",
+      "parent": "armylist3e-the-kingdom-of-rohan",
+      "formations": [
+        "formation3e-the-kingdom-of-rohan-grimbolds-helmingas",
+        "formation3e-the-kingdom-of-rohan-erkenbrand-captain-of-the-westfold",
+        "formation3e-the-kingdom-of-rohan-oathsworn-militia",
+        "formation3e-the-kingdom-of-rohan-oathsworn-bowmen"
+      ]
+    },
+    {
+      "name": "Riders of the Westfold",
+      "parent": "armylist3e-the-kingdom-of-rohan",
+      "formations": [
+        "formation3e-the-kingdom-of-rohan-erkenbrands-riders",
+        "formation3e-the-kingdom-of-rohan-erkenbrand-captain-of-the-westfold",
+        "formation3e-the-kingdom-of-rohan-riders-of-rohan-eored"
+      ]
+    },
+    {
+      "name": "Éomer's Knights",
+      "parent": "armylist3e-the-kingdom-of-rohan",
+      "formations": [
+        "formation3e-the-kingdom-of-rohan-eomer-marshal-of-the-riddermark",
+        "formation3e-the-forgotten-kingdoms-gandalf-the-grey",
+        "formation3e-the-kingdom-of-rohan-riders-of-rohan-eored"
+      ]
+    },
+    {
+      "name": "Thranduil's Host",
+      "parent": "armylist3e-the-elven-kingdoms",
+      "formations": [
+        "formation3e-the-elven-kingdoms-thranduil-king-of-mirkwood",
+        "formation3e-the-elven-kingdoms-legolas-prince-of-mirkwood",
+        "formation3e-the-elven-kingdoms-mirkwood-sentinels",
+        "formation3e-the-elven-kingdoms-wood-elf-warband"
+      ]
+    },
+    {
+      "name": "Lothlórien Warhost",
+      "parent": "armylist3e-the-elven-kingdoms",
+      "formations": [
+        "formation3e-the-elven-kingdoms-galadriel-lady-of-lothlorien",
+        "formation3e-the-elven-kingdoms-galadriel-protectress-of-lothlorien",
+        "formation3e-the-elven-kingdoms-celeborn-lord-of-lothlorien",
+        "formation3e-the-elven-kingdoms-galadhrim-regiment",
+        "formation3e-the-elven-kingdoms-galadhrim-knight-regiment",
+        "formation3e-the-elven-kingdoms-galadhrim-archer-regiment",
+        "formation3e-the-elven-kingdoms-guardians-of-caras-galadhon",
+        "formation3e-the-elven-kingdoms-guards-of-the-galadhrim-court"
+      ]
+    },
+    {
+      "name": "Rivendell Guardians",
+      "parent": "armylist3e-the-elven-kingdoms",
+      "formations": [
+        "formation3e-the-elven-kingdoms-elrond-master-of-rivendell",
+        "formation3e-the-elven-kingdoms-rivendell-guard",
+        "formation3e-the-elven-kingdoms-high-elf-archer-regiment",
+        "formation3e-the-elven-kingdoms-high-elf-regiment",
+        "formation3e-the-elven-kingdoms-gildors-household",
+        "formation3e-the-elven-kingdoms-high-elf-cohort"
+      ]
+    },
+    {
+      "name": "Haldir's Archers",
+      "parent": "armylist3e-the-elven-kingdoms",
+      "formations": [
+        "formation3e-the-elven-kingdoms-haldirs-elves",
+        "formation3e-the-elven-kingdoms-haldir-guardian-of-lorien",
+        "formation3e-the-elven-kingdoms-legolas-prince-of-mirkwood",
+        "formation3e-the-elven-kingdoms-galadhrim-archer-regiment"
+      ]
+    },
+    {
+      "name": "The Host of Erebor",
+      "parent": "armylist3e-the-dwarf-holds",
+      "formations": [
+        "formation3e-the-dwarf-holds-dain-ironfoot-king-under-the-mountain",
+        "formation3e-the-dwarf-holds-kings-champion",
+        "formation3e-the-dwarf-holds-murins-guard",
+        "formation3e-the-dwarf-holds-dwarf-warrior-kinband",
+        "formation3e-the-dwarf-holds-dwarf-archer-kinband",
+        "formation3e-the-dwarf-holds-khazad-guard-kinband"
+      ]
+    },
+    {
+      "name": "Drár's Wardens",
+      "parent": "armylist3e-the-dwarf-holds",
+      "formations": [
+        "formation3e-the-dwarf-holds-drars-hunters",
+        "formation3e-the-dwarf-holds-dwarf-ranger-kinband",
+        "formation3e-the-dwarf-holds-iron-guard-kinband"
+      ]
+    },
+    {
+      "name": "Last March of the Ents",
+      "parent": "armylist3e-the-forgotten-kingdoms",
+      "formations": [
+        "formation3e-the-forgotten-kingdoms-treebeard",
+        "formation3e-the-forgotten-kingdoms-ent",
+        "formation3e-the-forgotten-kingdoms-quickbeam",
+        "formation3e-the-forgotten-kingdoms-beechbone"
+      ]
+    },
+    {
+      "name": "The Muster of the Shire",
+      "parent": "armylist3e-the-forgotten-kingdoms",
+      "formations": [
+        "formation3e-the-forgotten-kingdoms-gandalf-the-grey",
+        "formation3e-gondor-and-arnor-peregrin-took-guard-of-the-citadel",
+        "formation3e-the-kingdom-of-rohan-meriadoc-esquire-of-rohan",
+        "formation3e-the-forgotten-kingdoms-hobbit-militia",
+        "formation3e-the-forgotten-kingdoms-hobbit-archer-militia"
+      ]
+    },
+    {
+      "name": "Gorgoroth Orc Horde",
+      "parent": "armylist3e-mordor",
+      "formations": [
+        "formation3e-mordor-mordor-orc-warband"
+      ]
+    },
+    {
+      "name": "The Fortress of Barad-dûr",
+      "parent": "armylist3e-mordor",
+      "formations": [
+        "formation3e-mordor-the-mouth-of-sauron",
+        "formation3e-mordor-black-guard-of-barad-dur",
+        "formation3e-the-fallen-realms-morgul-knight-regiment",
+        "formation3e-mordor-morannon-orc-warband",
+        "formation3e-mordor-mordor-orc-warband",
+        "formation3e-the-fallen-realms-black-numenorean-regiment"
+      ]
+    },
+    {
+      "name": "The Black Legion of Mordor",
+      "parent": "armylist3e-mordor",
+      "formations": [
+        "formation3e-mordor-mordor-troll-chieftain",
+        "formation3e-mordor-morannon-orc-warband",
+        "formation3e-mordor-mordor-troll"
+      ]
+    },
+    {
+      "name": "Gothmog's Morannon Orcs",
+      "parent": "armylist3e-mordor",
+      "formations": [
+        "formation3e-mordor-gothmog-castellan-of-minas-morgul",
+        "formation3e-mordor-morannon-orc-warband"
+      ]
+    },
+    {
+      "name": "Mordor Siege Lords",
+      "parent": "armylist3e-mordor",
+      "formations": [
+        "formation3e-mordor-gothmog-castellan-of-minas-morgul",
+        "formation3e-mordor-grishnakhs-trackers",
+        "formation3e-mordor-mordor-orc-warband",
+        "formation3e-mordor-siege-bow-battery",
+        "formation3e-mordor-war-catapult-battery",
+        "formation3e-mordor-mordor-troll"
+      ]
+    },
+    {
+      "name": "The Hunters of Cirith Ungol",
+      "parent": "armylist3e-mordor",
+      "formations": [
+        "formation3e-mordor-shagrats-tower-guard",
+        "formation3e-mordor-mordor-uruk-hai-warband",
+        "formation3e-mordor-mordor-orc-warband"
+      ]
+    },
+    {
+      "name": "Morgul Rat Warband",
+      "parent": "armylist3e-mordor",
+      "formations": [
+        "formation3e-mordor-gorbags-morgul-rats",
+        "formation3e-mordor-mordor-orc-warband",
+        "formation3e-mordor-orc-tracker-warband",
+        "formation3e-mordor-morgul-stalker-warband"
+      ]
+    },
+    {
+      "name": "The Knights of Morgul",
+      "parent": "armylist3e-mordor",
+      "formations": [
+        "formation3e-mordor-ringwraith",
+        "formation3e-mordor-the-mouth-of-sauron",
+        "formation3e-the-fallen-realms-morgul-knight-regiment"
+      ]
+    },
+    {
+      "name": "The Nazgûl",
+      "parent": "armylist3e-mordor",
+      "formations": [
+        "formation3e-mordor-winged-nazgul"
+      ]
+    },
+    {
+      "name": "The Fighting Uruk-hai",
+      "parent": "armylist3e-the-fortress-of-isengard",
+      "formations": [
+        "formation3e-the-fortress-of-isengard-saruman-the-white-hand",
+        "formation3e-the-fortress-of-isengard-uruk-hai-phalanx",
+        "formation3e-the-fortress-of-isengard-uruk-hai-warband"
+      ]
+    },
+    {
+      "name": "The Scouts of Saruman",
+      "parent": "armylist3e-the-fortress-of-isengard",
+      "formations": [
+        "formation3e-the-fortress-of-isengard-lurtz",
+        "formation3e-the-fortress-of-isengard-uruk-hai-scout-warband",
+        "formation3e-the-fortress-of-isengard-ugluks-raiders",
+        "formation3e-the-fortress-of-isengard-mauhurs-marauders"
+      ]
+    },
+    {
+      "name": "Uglúk's Scouts",
+      "parent": "armylist3e-the-fortress-of-isengard",
+      "formations": [
+        "formation3e-the-fortress-of-isengard-ugluks-raiders",
+        "formation3e-mordor-grishnakhs-trackers",
+        "formation3e-the-fortress-of-isengard-mauhurs-marauders",
+        "formation3e-the-fortress-of-isengard-uruk-hai-scout-warband"
+      ]
+    },
+    {
+      "name": "The Warg Riders of Isengard",
+      "parent": "armylist3e-the-fortress-of-isengard",
+      "formations": [
+        "formation3e-the-fortress-of-isengard-sharkus-hunters",
+        "formation3e-the-fortress-of-isengard-warg-rider-warband"
+      ]
+    },
+    {
+      "name": "Uruk-hai Siege Warriors",
+      "parent": "armylist3e-the-fortress-of-isengard",
+      "formations": [
+        "formation3e-the-fortress-of-isengard-vrashkus-talons",
+        "formation3e-the-fortress-of-isengard-uruk-hai-sappers",
+        "formation3e-the-fortress-of-isengard-uruk-hai-berserker-warband",
+        "formation3e-the-fortress-of-isengard-isengard-assault-ballista",
+        "formation3e-the-fortress-of-isengard-uruk-hai-warband",
+        "formation3e-the-fortress-of-isengard-isengard-battering-ram"
+      ]
+    },
+    {
+      "name": "Wolfsbane's Warriors",
+      "parent": "armylist3e-the-fortress-of-isengard",
+      "formations": [
+        "formation3e-the-fortress-of-isengard-thrydan-wolfsbane",
+        "formation3e-the-fortress-of-isengard-dunlending-huscarls",
+        "formation3e-the-fortress-of-isengard-wild-men-of-dunland",
+        "formation3e-the-fortress-of-isengard-dunlending-horsemen"
+      ]
+    },
+    {
+      "name": "Goblin Host of Moria",
+      "parent": "armylist3e-the-misty-mountains",
+      "formations": [
+        "formation3e-the-misty-mountains-durburz-goblin-king-of-moria",
+        "formation3e-the-misty-mountains-the-balrog-of-morgoth",
+        "formation3e-the-misty-mountains-moria-goblin-warband",
+        "formation3e-the-misty-mountains-cave-troll",
+        "formation3e-the-misty-mountains-moria-prowler-warband"
+      ]
+    },
+    {
+      "name": "Beasts of the Wild",
+      "parent": "armylist3e-the-misty-mountains",
+      "formations": [
+        "formation3e-the-misty-mountains-druzhag-the-beastcaller",
+        "formation3e-the-misty-mountains-moria-goblin-warband",
+        "formation3e-the-misty-mountains-warg-pack",
+        "formation3e-the-misty-mountains-cloud-of-bats",
+        "formation3e-the-misty-mountains-giant-spider-brood",
+        "formation3e-the-misty-mountains-spider-broodling-swarm"
+      ]
+    },
+    {
+      "name": "Khamûl's Easterlings",
+      "parent": "armylist3e-the-fallen-realms",
+      "formations": [
+        "formation3e-mordor-ringwraith",
+        "formation3e-the-fallen-realms-easterling-kataphrakt-cohort",
+        "formation3e-the-fallen-realms-easterling-archer-cohort",
+        "formation3e-the-fallen-realms-easterling-cohort"
+      ]
+    },
+    {
+      "name": "Dalamyr's Corsairs",
+      "parent": "armylist3e-the-fallen-realms",
+      "formations": [
+        "formation3e-the-fallen-realms-dalamyr-fleetmaster-of-umbar",
+        "formation3e-the-fallen-realms-corsair-raiding-party",
+        "formation3e-the-fallen-realms-corsair-arbalesters"
+      ]
+    },
+    {
+      "name": "The Army of Umbar",
+      "parent": "armylist3e-the-fallen-realms",
+      "formations": [
+        "formation3e-mordor-ringwraith",
+        "formation3e-the-fallen-realms-haradrim-warband",
+        "formation3e-the-fallen-realms-haradrim-raider-warband",
+        "formation3e-the-fallen-realms-corsair-raiding-party",
+        "formation3e-the-fallen-realms-corsair-arbalesters",
+        "formation3e-the-fallen-realms-black-numenorean-regiment",
+        "formation3e-the-fallen-realms-morgul-knight-regiment"
+      ]
+    },
+    {
+      "name": "Swords of the Serpent Lord",
+      "parent": "armylist3e-the-fallen-realms",
+      "formations": [
+        "formation3e-the-fallen-realms-suladan-the-serpent-lord",
+        "formation3e-the-fallen-realms-serpent-guard-warband",
+        "formation3e-the-fallen-realms-serpent-rider-warband",
+        "formation3e-the-fallen-realms-haradrim-warband",
+        "formation3e-the-fallen-realms-haradrim-raider-warband"
+      ]
+    },
+    {
+      "name": "The Golden Army of Abrakhân",
+      "parent": "armylist3e-the-fallen-realms",
+      "formations": [
+        "formation3e-the-fallen-realms-abrakhan-guard",
+        "formation3e-the-fallen-realms-haradrim-warband",
+        "formation3e-the-fallen-realms-haradrim-raider-warband",
+        "formation3e-the-fallen-realms-khandish-mercenary-warband",
+        "formation3e-the-fallen-realms-khandish-mercenary-raiders",
+        "formation3e-the-fallen-realms-half-troll-warband"
+      ]
+    },
+    {
+      "name": "Mahûd Wartribe",
+      "parent": "armylist3e-the-fallen-realms",
+      "formations": [
+        "formation3e-the-fallen-realms-mahud-warband",
+        "formation3e-the-fallen-realms-mahud-raider-warband",
+        "formation3e-the-fallen-realms-war-mumak-of-harad",
+        "formation3e-the-fallen-realms-half-troll-warband"
+      ]
+    },
+    {
+      "name": "Mûmak War Herd",
+      "parent": "armylist3e-the-fallen-realms",
+      "formations": [
+        "formation3e-the-fallen-realms-war-mumak-of-harad"
+      ]
+    },
+    {
+      "name": "The Host of Kârna",
+      "parent": "armylist3e-the-fallen-realms",
+      "formations": [
+        "formation3e-the-fallen-realms-watcher-warband",
+        "formation3e-the-fallen-realms-haradrim-warband",
+        "formation3e-the-fallen-realms-haradrim-raider-warband"
+      ]
+    },
+    {
+      "name": "The Hordes of Angmar",
+      "parent": "armylist3e-angmar",
+      "formations": [
+        "formation3e-mordor-ringwraith",
+        "formation3e-angmar-angmar-orc-warband",
+        "formation3e-angmar-carn-dum-warband"
+      ]
+    },
+    {
+      "name": "Spirit Legions of Angmar",
+      "parent": "armylist3e-angmar",
+      "formations": [
+        "formation3e-mordor-ringwraith",
+        "formation3e-angmar-spectral-host",
+        "formation3e-angmar-ghostly-legion",
+        "formation3e-angmar-shade",
+        "formation3e-angmar-court-of-fallen-kings",
+        "formation3e-angmar-ghostly-riders",
+        "formation3e-angmar-werewolf-pack"
+      ]
+    },
+    {
+      "name": "Buhrdûr's Warband",
+      "parent": "armylist3e-angmar",
+      "formations": [
+        "formation3e-angmar-buhrdur",
+        "formation3e-the-misty-mountains-cave-troll",
+        "formation3e-angmar-angmar-orc-warband",
+        "formation3e-the-misty-mountains-warg-pack",
+        "formation3e-the-misty-mountains-moria-goblin-warband"
+      ]
+    }
+  ],
+  "unresolvedComposition": [],
+  "statsKeptAsText": [
+    "Tom Bombadil: M, F kept as text in notes",
+    "Goldberry: F kept as text in notes",
+    "The Fellowship: S kept as text in notes",
+    "Spider Broodlings: D kept as text in notes",
+    "Mûmak: A kept as text in notes"
+  ],
+  "notImported": {
+    "notes": [
+      "There are Nine... (p163)",
+      "The Shadow of the Nazgûl (p201)",
+      "The Shadow of the Nazgûl (p211)"
+    ],
+    "fortunesAndFates": 81
+  }
+}

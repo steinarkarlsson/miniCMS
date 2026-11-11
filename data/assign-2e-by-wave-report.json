@@ -1,0 +1,898 @@
+{
+  "dryRun": true,
+  "range": {
+    "from": "2001-01-01",
+    "to": "2009-01-01"
+  },
+  "figures": 849,
+  "alreadyHave2e": 757,
+  "assigned": 0,
+  "adjusted": 0,
+  "notPlayable": 9,
+  "documentsPatched": 0,
+  "held": 0,
+  "ambiguous": 0,
+  "unmatched": 68,
+  "reviewExisting": 32,
+  "assignedByWave": {},
+  "unmatchedByWave": {
+    "The Two Towers (2002)": 2,
+    "Siege of Gondor (2003)": 1,
+    "The Scouring of the Shire (2005)": 2,
+    "General Releases (2005)": 2,
+    "Mines of Moria (2005)": 4,
+    "Legions of Middle-Earth (2006)": 25,
+    "Khazad-Dûm (2007)": 28,
+    "Gondor in Flames (2007)": 4
+  },
+  "adjustedDetail": [],
+  "notPlayableDetail": [
+    "Frodo (Barrow-Downs)",
+    "Merry (Barrow-Downs)",
+    "Pippin (Barrow-Downs)",
+    "Sam (Barrow-Downs)",
+    "Frodo (Orc Armour)",
+    "Frodo (Shelob)",
+    "Sam (Orc Armour)",
+    "Gimli on Dead Uruk-Hai",
+    "Final Fate of the Witch-King"
+  ],
+  "heldDetail": [],
+  "ambiguousDetail": [],
+  "unmatchedDetail": [
+    {
+      "figure": "Háma (BGIME)",
+      "wave": "The Two Towers (2002)",
+      "otherEditions": [
+        "6e: Hama, Captain of Rohan",
+        "5e: Hama, Captain of Rohan"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Battering Ram",
+      "wave": "The Two Towers (2002)",
+      "otherEditions": []
+    },
+    {
+      "figure": "Uruk-Hai Ballista",
+      "wave": "Siege of Gondor (2003)",
+      "otherEditions": [
+        "5e: Isengard Assault Ballista",
+        "6e: Isengard Assault Ballista"
+      ]
+    },
+    {
+      "figure": "Golfimbul Mounted",
+      "wave": "The Scouring of the Shire (2005)",
+      "otherEditions": [
+        "6e: Golfimbul, Orc Captain",
+        "5e: Golfimbul, Orc Chieftain",
+        "1e: Golfimbul"
+      ]
+    },
+    {
+      "figure": "Golfimbul on Foot",
+      "wave": "The Scouring of the Shire (2005)",
+      "otherEditions": [
+        "6e: Golfimbul, Orc Captain",
+        "5e: Golfimbul, Orc Chieftain",
+        "1e: Golfimbul"
+      ]
+    },
+    {
+      "figure": "Bill the Pony",
+      "wave": "General Releases (2005)",
+      "otherEditions": [
+        "6e: Bill the Pony",
+        "5e: Bill the Pony"
+      ]
+    },
+    {
+      "figure": "Bill the Pony",
+      "wave": "General Releases (2005)",
+      "otherEditions": [
+        "6e: Bill the Pony",
+        "5e: Bill the Pony"
+      ]
+    },
+    {
+      "figure": "Gildor",
+      "wave": "Mines of Moria (2005)",
+      "otherEditions": [
+        "6e: Gildor Inglorion",
+        "5e: Gildor Inglorion"
+      ]
+    },
+    {
+      "figure": "Watcher in the Water Tentacle 1",
+      "wave": "Mines of Moria (2005)",
+      "otherEditions": []
+    },
+    {
+      "figure": "Watcher in the Water Tentacle 2",
+      "wave": "Mines of Moria (2005)",
+      "otherEditions": []
+    },
+    {
+      "figure": "Watcher in the Water Tentacle 3",
+      "wave": "Mines of Moria (2005)",
+      "otherEditions": []
+    },
+    {
+      "figure": "Dunlending Banner Bearer",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "5e: Dunlending Warrior",
+        "6e: Dunlending Warrior"
+      ]
+    },
+    {
+      "figure": "Dunlending Chieftain",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Dunlending Chieftain",
+        "5e: Dunlending Chieftain"
+      ]
+    },
+    {
+      "figure": "Dunlending Warrior 1",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Dunlending Warrior",
+        "5e: Dunlending Warrior"
+      ]
+    },
+    {
+      "figure": "Dunlending Warrior 2",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Dunlending Warrior",
+        "5e: Dunlending Warrior"
+      ]
+    },
+    {
+      "figure": "Dunlending Warrior 3",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Dunlending Warrior",
+        "5e: Dunlending Warrior"
+      ]
+    },
+    {
+      "figure": "Dunlending Warrior 4",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Dunlending Warrior",
+        "5e: Dunlending Warrior"
+      ]
+    },
+    {
+      "figure": "Dunlending Warrior 5",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Dunlending Warrior",
+        "5e: Dunlending Warrior"
+      ]
+    },
+    {
+      "figure": "Dunlending Warrior 6",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Dunlending Warrior",
+        "5e: Dunlending Warrior"
+      ]
+    },
+    {
+      "figure": "Ent",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Ent",
+        "5e: Ent"
+      ]
+    },
+    {
+      "figure": "Erkenbrand Mounted",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Erkenbrand, Captain of Rohan",
+        "5e: Erkenbrand, Captain of Rohan"
+      ]
+    },
+    {
+      "figure": "Erkenbrand on Foot",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Erkenbrand, Captain of Rohan",
+        "5e: Erkenbrand, Captain of Rohan"
+      ]
+    },
+    {
+      "figure": "Feral Uruk-Hai 1",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Feral Uruk-hai",
+        "5e: Feral Uruk-hai"
+      ]
+    },
+    {
+      "figure": "Feral Uruk-Hai 2",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Feral Uruk-hai",
+        "5e: Feral Uruk-hai"
+      ]
+    },
+    {
+      "figure": "Feral Uruk-Hai 3",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Feral Uruk-hai",
+        "5e: Feral Uruk-hai"
+      ]
+    },
+    {
+      "figure": "Háma (Defenders)",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Hama, Captain of Rohan",
+        "5e: Hama, Captain of Rohan"
+      ]
+    },
+    {
+      "figure": "Isengard Troll",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Isengard Troll",
+        "5e: Isengard Troll"
+      ]
+    },
+    {
+      "figure": "Rohan Outrider Mounted 1",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Rohan Outrider",
+        "5e: Rohan Outrider"
+      ]
+    },
+    {
+      "figure": "Rohan Outrider Mounted 2",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Rohan Outrider",
+        "5e: Rohan Outrider"
+      ]
+    },
+    {
+      "figure": "Rohan Outrider Mounted 3",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Rohan Outrider",
+        "5e: Rohan Outrider"
+      ]
+    },
+    {
+      "figure": "Rohan Outrider on Foot 1",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Rohan Outrider",
+        "5e: Rohan Outrider"
+      ]
+    },
+    {
+      "figure": "Rohan Outrider on Foot 2",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Rohan Outrider",
+        "5e: Rohan Outrider"
+      ]
+    },
+    {
+      "figure": "Théodred Mounted",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Theodred, Prince of Rohan",
+        "5e: Théodred, Heir of Rohan"
+      ]
+    },
+    {
+      "figure": "Théodred on Foot",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Theodred, Prince of Rohan",
+        "5e: Théodred, Heir of Rohan"
+      ]
+    },
+    {
+      "figure": "Uglúk",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Ugluk, Uruk-hai Scout Captain",
+        "5e: Ugluk"
+      ]
+    },
+    {
+      "figure": "Vraskú",
+      "wave": "Legions of Middle-Earth (2006)",
+      "otherEditions": [
+        "6e: Vraskû",
+        "5e: Vrasku"
+      ]
+    },
+    {
+      "figure": "Dragon",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dragon",
+        "5e: Dragon"
+      ]
+    },
+    {
+      "figure": "Durin",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Durin, King of Khazad-dum",
+        "5e: Durin, King of Khazad-Dum"
+      ]
+    },
+    {
+      "figure": "Dwarf Ballista",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "5e: Dwarf Ballista"
+      ]
+    },
+    {
+      "figure": "Dwarf Ballista Crew 1",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Siege Crew"
+      ]
+    },
+    {
+      "figure": "Dwarf Ballista Crew 2",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Siege Crew"
+      ]
+    },
+    {
+      "figure": "Dwarf Ranger 1",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Ranger",
+        "5e: Dwarf Ranger"
+      ]
+    },
+    {
+      "figure": "Dwarf Ranger 10",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Ranger",
+        "5e: Dwarf Ranger"
+      ]
+    },
+    {
+      "figure": "Dwarf Ranger 11",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Ranger",
+        "5e: Dwarf Ranger"
+      ]
+    },
+    {
+      "figure": "Dwarf Ranger 12",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Ranger",
+        "5e: Dwarf Ranger"
+      ]
+    },
+    {
+      "figure": "Dwarf Ranger 2",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Ranger",
+        "5e: Dwarf Ranger"
+      ]
+    },
+    {
+      "figure": "Dwarf Ranger 3",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Ranger",
+        "5e: Dwarf Ranger"
+      ]
+    },
+    {
+      "figure": "Dwarf Ranger 4",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Ranger",
+        "5e: Dwarf Ranger"
+      ]
+    },
+    {
+      "figure": "Dwarf Ranger 5",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Ranger",
+        "5e: Dwarf Ranger"
+      ]
+    },
+    {
+      "figure": "Dwarf Ranger 6",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Ranger",
+        "5e: Dwarf Ranger"
+      ]
+    },
+    {
+      "figure": "Dwarf Ranger 7",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Ranger",
+        "5e: Dwarf Ranger"
+      ]
+    },
+    {
+      "figure": "Dwarf Ranger 8",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Ranger",
+        "5e: Dwarf Ranger"
+      ]
+    },
+    {
+      "figure": "Dwarf Ranger 9",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Dwarf Ranger",
+        "5e: Dwarf Ranger"
+      ]
+    },
+    {
+      "figure": "Goblin Prowler 1",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Moria Goblin Prowler",
+        "5e: Moria Goblin Prowlers"
+      ]
+    },
+    {
+      "figure": "Goblin Prowler 2",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Moria Goblin Prowler",
+        "5e: Moria Goblin Prowlers"
+      ]
+    },
+    {
+      "figure": "Goblin Prowler 3",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Moria Goblin Prowler",
+        "5e: Moria Goblin Prowlers"
+      ]
+    },
+    {
+      "figure": "Iron Guard 1",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Iron Guard",
+        "5e: Iron Guard"
+      ]
+    },
+    {
+      "figure": "Iron Guard 2",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Iron Guard",
+        "5e: Iron Guard"
+      ]
+    },
+    {
+      "figure": "Iron Guard 3",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Iron Guard",
+        "5e: Iron Guard"
+      ]
+    },
+    {
+      "figure": "Mardin",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "6e: Mardin, the King's Ward",
+        "5e: Mardin"
+      ]
+    },
+    {
+      "figure": "Vault Warden Crew 1",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "5e: Vault Warden Team",
+        "6e: Vault Warden Team"
+      ]
+    },
+    {
+      "figure": "Vault Warden Crew 2",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "5e: Vault Warden Team",
+        "6e: Vault Warden Team"
+      ]
+    },
+    {
+      "figure": "Vault Warden Crew 3",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "5e: Vault Warden Team",
+        "6e: Vault Warden Team"
+      ]
+    },
+    {
+      "figure": "Vault Warden Crew 4",
+      "wave": "Khazad-Dûm (2007)",
+      "otherEditions": [
+        "5e: Vault Warden Team",
+        "6e: Vault Warden Team"
+      ]
+    },
+    {
+      "figure": "Ghán-Buri-Ghán",
+      "wave": "Gondor in Flames (2007)",
+      "otherEditions": [
+        "6e: Ghan-buri-Ghan",
+        "5e: Ghan-Buri-Ghan"
+      ]
+    },
+    {
+      "figure": "Wildman of Drúadan 1",
+      "wave": "Gondor in Flames (2007)",
+      "otherEditions": [
+        "6e: Woses Warrior",
+        "5e: Woses Warriors"
+      ]
+    },
+    {
+      "figure": "Wildman of Drúadan 2",
+      "wave": "Gondor in Flames (2007)",
+      "otherEditions": [
+        "5e: Woses Warriors",
+        "6e: Woses Warrior"
+      ]
+    },
+    {
+      "figure": "Wildman of Drúadan 3",
+      "wave": "Gondor in Flames (2007)",
+      "otherEditions": [
+        "5e: Woses Warriors",
+        "6e: Woses Warrior"
+      ]
+    }
+  ],
+  "reviewExistingDetail": [
+    {
+      "figure": "Lorien Archer 1",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Elf Warrior"
+      ],
+      "otherEditionsSuggest": [
+        "Wood Elf Warrior"
+      ]
+    },
+    {
+      "figure": "Lorien Archer 2",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Elf Warrior"
+      ],
+      "otherEditionsSuggest": [
+        "Wood Elf Warrior"
+      ]
+    },
+    {
+      "figure": "Lorien Archer 3",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Elf Warrior"
+      ],
+      "otherEditionsSuggest": [
+        "Wood Elf Warrior"
+      ]
+    },
+    {
+      "figure": "Lorien Archer 4",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Elf Warrior"
+      ],
+      "otherEditionsSuggest": [
+        "Wood Elf Warrior"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Bowman 1",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Uruk-hai Scout"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Bowman 2",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Uruk-hai Scout"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Bowman 3",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Uruk-hai Scout"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Bowman 4",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Uruk-hai Scout"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Warrior 1",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Uruk-hai Scout"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Warrior 2",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Uruk-hai Scout"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Warrior 3",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Uruk-hai Scout"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Warrior 4",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Uruk-hai Scout"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai with Merry",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Uruk-hai Scout"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai with Pippin",
+      "wave": "The Fellowship of the Ring (2001)",
+      "has": [
+        "Uruk-hai Scout"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Galadhrim Warrior with Banner",
+      "wave": "The Two Towers (2002)",
+      "has": [
+        "Elf Warrior"
+      ],
+      "otherEditionsSuggest": [
+        "Wood Elf Warrior"
+      ]
+    },
+    {
+      "figure": "Haldir's Elf with Bow 1",
+      "wave": "The Two Towers (2002)",
+      "has": [
+        "Elf Warrior"
+      ],
+      "otherEditionsSuggest": [
+        "Wood Elf Warrior"
+      ]
+    },
+    {
+      "figure": "Haldir's Elf with Bow 2",
+      "wave": "The Two Towers (2002)",
+      "has": [
+        "Elf Warrior"
+      ],
+      "otherEditionsSuggest": [
+        "Wood Elf Warrior"
+      ]
+    },
+    {
+      "figure": "Haldir's Elf with Bow 3",
+      "wave": "The Two Towers (2002)",
+      "has": [
+        "Elf Warrior"
+      ],
+      "otherEditionsSuggest": [
+        "Wood Elf Warrior"
+      ]
+    },
+    {
+      "figure": "Haldir's Elf with Sword 1",
+      "wave": "The Two Towers (2002)",
+      "has": [
+        "Elf Warrior"
+      ],
+      "otherEditionsSuggest": [
+        "Wood Elf Warrior"
+      ]
+    },
+    {
+      "figure": "Haldir's Elf with Sword 2",
+      "wave": "The Two Towers (2002)",
+      "has": [
+        "Elf Warrior"
+      ],
+      "otherEditionsSuggest": [
+        "Wood Elf Warrior"
+      ]
+    },
+    {
+      "figure": "Haldir's Elf with Sword 3",
+      "wave": "The Two Towers (2002)",
+      "has": [
+        "Elf Warrior"
+      ],
+      "otherEditionsSuggest": [
+        "Wood Elf Warrior"
+      ]
+    },
+    {
+      "figure": "Glorfindel Mounted",
+      "wave": "Shadow & Flame (2003)",
+      "has": [
+        "Glorfindel"
+      ],
+      "otherEditionsSuggest": [
+        "Glorfindel, Lord of the West"
+      ]
+    },
+    {
+      "figure": "Glorfindel on Foot",
+      "wave": "Shadow & Flame (2003)",
+      "has": [
+        "Glorfindel"
+      ],
+      "otherEditionsSuggest": [
+        "Glorfindel, Lord of the West"
+      ]
+    },
+    {
+      "figure": "King Elessar Mounted",
+      "wave": "The Return of the King (2003)",
+      "has": [
+        "Aragorn, King Elessar"
+      ],
+      "otherEditionsSuggest": [
+        "Strider / Aragorn"
+      ]
+    },
+    {
+      "figure": "Mordor Uruk-Hai 1",
+      "wave": "The Return of the King (2003)",
+      "has": [
+        "Mordor Uruk-hai"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Mordor Uruk-Hai 2",
+      "wave": "The Return of the King (2003)",
+      "has": [
+        "Mordor Uruk-hai"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Mordor Uruk-Hai 3",
+      "wave": "The Return of the King (2003)",
+      "has": [
+        "Mordor Uruk-hai"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Mordor Uruk-Hai 4",
+      "wave": "The Return of the King (2003)",
+      "has": [
+        "Mordor Uruk-hai"
+      ],
+      "otherEditionsSuggest": [
+        "Uruk-hai Warrior"
+      ]
+    },
+    {
+      "figure": "Haradrim King Mounted",
+      "wave": "The Battle of Pelennor Fields (2004)",
+      "has": [
+        "Haradrim King"
+      ],
+      "otherEditionsSuggest": [
+        "Haradrim Chieftain"
+      ]
+    },
+    {
+      "figure": "Haradrim King on Foot",
+      "wave": "The Battle of Pelennor Fields (2004)",
+      "has": [
+        "Haradrim King"
+      ],
+      "otherEditionsSuggest": [
+        "Haradrim Chieftain"
+      ]
+    },
+    {
+      "figure": "Samwise Gamgee",
+      "wave": "The Scouring of the Shire (2005)",
+      "has": [
+        "Samwise the Brave"
+      ],
+      "otherEditionsSuggest": [
+        "Samwise Gamgee"
+      ]
+    },
+    {
+      "figure": "Shagrat with Shield",
+      "wave": "Mordor (2008)",
+      "has": [
+        "Shagrat, War Leader of Cirith Ungol"
+      ],
+      "otherEditionsSuggest": [
+        "Shagrat, Captain of Cirith Ungol"
+      ]
+    }
+  ],
+  "assignedDetail": []
+}

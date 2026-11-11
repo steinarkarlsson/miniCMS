@@ -33,6 +33,18 @@ export const armyListEntry = defineType({
   },
 })
 
+/** A named special rule of a battlehost. */
+export const armyListRule = defineType({
+  name: 'armyListRule',
+  title: 'Rule',
+  type: 'object',
+  fields: [
+    defineField({name: 'name', title: 'Name', type: 'string'}),
+    defineField({name: 'text', title: 'Text', type: 'text', rows: 4}),
+  ],
+  preview: {select: {title: 'name', subtitle: 'text'}},
+})
+
 type Entry = {profile?: Reference}
 
 export default defineType({
@@ -97,6 +109,42 @@ export default defineType({
       to: [{type: 'armyList'}],
       description: 'The standard list this is a variant of',
       hidden: ({document}) => document?.type === 'standard',
+    }),
+    defineField({
+      name: 'points',
+      title: 'Points',
+      type: 'string',
+      description: 'Cost of the battlehost itself, as printed, e.g. "50 points + models"',
+      hidden: ({document}) => document?.type !== 'battlehost',
+    }),
+    defineField({
+      name: 'composition',
+      title: 'Composition',
+      type: 'array',
+      of: [{type: 'string'}],
+      description: 'The battlehost list as printed, one line per bullet',
+      hidden: ({document}) => document?.type !== 'battlehost',
+    }),
+    defineField({
+      name: 'formations',
+      title: 'Formations',
+      type: 'array',
+      of: [{type: 'reference', to: [{type: 'formation'}]}],
+      description: "Formations of the parent army list that this battlehost is built from",
+      hidden: ({document}) => document?.type !== 'battlehost',
+    }),
+    defineField({
+      name: 'rules',
+      title: 'Special Rules',
+      type: 'array',
+      of: [{type: 'armyListRule'}],
+      hidden: ({document}) => document?.type !== 'battlehost',
+    }),
+    defineField({
+      name: 'sources',
+      title: 'Sources',
+      type: 'array',
+      of: [{type: 'profileSource'}],
     }),
     defineField({
       name: 'entries',

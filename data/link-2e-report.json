@@ -1,0 +1,5146 @@
+{
+  "dryRun": false,
+  "figuresWith1e": 431,
+  "linked": 422,
+  "profilesAdded": 427,
+  "ambiguous": 0,
+  "unmatched": 9,
+  "skippedAlreadyHave2e": 0,
+  "rules": {
+    "renamed": 78,
+    "exact": 291,
+    "split": 51,
+    "split-default": 7
+  },
+  "warnings": [
+    {
+      "figure": "Uruk-Hai with Pippin",
+      "laterEditionsSuggest": [
+        "Peregrin Took"
+      ],
+      "chosen": [
+        "Uruk-hai Scout"
+      ]
+    }
+  ],
+  "ambiguousDetail": [],
+  "unmatchedDetail": [
+    {
+      "figure": "Warrior of the Dead 5",
+      "from": "The Army of the Dead"
+    },
+    {
+      "figure": "Warrior of the Dead 6",
+      "from": "The Army of the Dead"
+    },
+    {
+      "figure": "Warrior of the Dead 3",
+      "from": "The Army of the Dead"
+    },
+    {
+      "figure": "King of the Dead",
+      "from": "The King of the Dead"
+    },
+    {
+      "figure": "Warrior of the Dead 2",
+      "from": "The Army of the Dead"
+    },
+    {
+      "figure": "Golfimbul on Foot",
+      "from": "Golfimbul"
+    },
+    {
+      "figure": "Warrior of the Dead 4",
+      "from": "The Army of the Dead"
+    },
+    {
+      "figure": "Golfimbul Mounted",
+      "from": "Golfimbul"
+    },
+    {
+      "figure": "Warrior of the Dead 1",
+      "from": "The Army of the Dead"
+    }
+  ],
+  "linkedDetail": [
+    {
+      "figure": "Wildman of Dunland 3",
+      "from": [
+        "Wild Man of Dunland"
+      ],
+      "to": [
+        "Wild Men of Dunland"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Goblin Spearman 3",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Rohan 9",
+      "from": [
+        "Warrior of Rohan"
+      ],
+      "to": [
+        "Warrior of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Shaman",
+      "from": [
+        "Uruk-Hai Shaman"
+      ],
+      "to": [
+        "Uruk-hai Shaman"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ringwraith on Fell Beast",
+      "from": [
+        "The Ringwraiths"
+      ],
+      "to": [
+        "The Ringwraiths"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Mordor Uruk-Hai 4",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Mordor Uruk-hai"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Gil-Galad",
+      "from": [
+        "Gil-Galad"
+      ],
+      "to": [
+        "Gil-Galad"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Lurtz (Amon Hen)",
+      "from": [
+        "Lurtz"
+      ],
+      "to": [
+        "Lurtz, Uruk-hai Captain"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Sharku on Foot",
+      "from": [
+        "Sharku, Warg Rider Captain"
+      ],
+      "to": [
+        "Sharku, Warg Rider Captain"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Peregrin Took, Guard of the Citadel",
+      "from": [
+        "Peregrin Took, Guard of the Citadel"
+      ],
+      "to": [
+        "Peregrin, Guard of the Citadel"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Goblin Spearman 4",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Théoden (Warg Attack)",
+      "from": [
+        "Theoden, King of Rohan"
+      ],
+      "to": [
+        "Théoden, King of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "King Elessar Mounted",
+      "from": [
+        "Aragorn - Strider"
+      ],
+      "to": [
+        "Aragorn, King Elessar"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 12",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Mumak Mahud",
+      "from": [
+        "Mahûd Chieftain"
+      ],
+      "to": [
+        "Mahûd Chieftain"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Warrior 3",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Scout"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Boromir Captain of the White Tower with Banner",
+      "from": [
+        "Boromir, Captain of the White Tower"
+      ],
+      "to": [
+        "Boromir, Captain of the White Tower"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Mordor Siege Crew 2",
+      "from": [
+        "Orc Crewman"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Warrior of Rohan 4",
+      "from": [
+        "Warrior of Rohan"
+      ],
+      "to": [
+        "Warrior of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gondor Siege Crew 1",
+      "from": [
+        "Gondor Crewman"
+      ],
+      "to": [
+        "Gondor Crewman"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Beregond",
+      "from": [
+        "Beregond of Gondor"
+      ],
+      "to": [
+        "Beregond of Gondor"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Minas Tirith 1",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ranger of the North 2",
+      "from": [
+        "Ranger of the North"
+      ],
+      "to": [
+        "Ranger of the North"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Samwise Gamgee",
+      "from": [
+        "Samwise Gamgee"
+      ],
+      "to": [
+        "Samwise Gamgee"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gimli (Fellowship)",
+      "from": [
+        "Gimli"
+      ],
+      "to": [
+        "Gimli, Son of Glóin"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Mounted Ringwraith 3",
+      "from": [
+        "The Ringwraiths"
+      ],
+      "to": [
+        "The Ringwraiths"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Minas Tirith 2",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Merry (Fellowship)",
+      "from": [
+        "Meriadoc Brandybuck"
+      ],
+      "to": [
+        "Meriadoc Brandybuck"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gandalf (Khazad-Dum)",
+      "from": [
+        "Gandalf the Grey "
+      ],
+      "to": [
+        "Gandalf the Grey"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Galadriel (FotR)",
+      "from": [
+        "Galadriel"
+      ],
+      "to": [
+        "Galadrier"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 3",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Easterling Captain",
+      "from": [
+        "Easterling Captain"
+      ],
+      "to": [
+        "Easterling Captain"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Easterling Banner Bearer",
+      "from": [
+        "Easterling Warrior"
+      ],
+      "to": [
+        "Easterling Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Haradrim Raider 1",
+      "from": [
+        "Haradrim Raider"
+      ],
+      "to": [
+        "Haradrim Raider"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Aragorn (Weathertop)",
+      "from": [
+        "Aragorn - Strider"
+      ],
+      "to": [
+        "Strider / Aragorn"
+      ],
+      "rules": [
+        "split-default"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 6",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Haldir's Elf with Sword 1",
+      "from": [
+        "Wood Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Rider of Rohan 2",
+      "from": [
+        "Rider of Rohan"
+      ],
+      "to": [
+        "Rider of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Éowyn (West)",
+      "from": [
+        "Eowyn, Shield Maiden of Rohan"
+      ],
+      "to": [
+        "Éowyn, Shield Maiden of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Knight of Dol Amroth 2",
+      "from": [
+        "Knight of Dol Amroth"
+      ],
+      "to": [
+        "Knight of Dol Amroth"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 7",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Boromir (Fellowship)",
+      "from": [
+        "Boromir of Gondor"
+      ],
+      "to": [
+        "Boromir of Gondor"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Legolas (Fellowship)",
+      "from": [
+        "Legolas"
+      ],
+      "to": [
+        "Legolas"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 8",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Fang",
+      "from": [
+        "Grip, Fang and Wolf"
+      ],
+      "to": [
+        "Fang"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Warrior of Harad 6",
+      "from": [
+        "Haradrim Warrior"
+      ],
+      "to": [
+        "Haradrim Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Merry (Fall of Witch-King)",
+      "from": [
+        "Meriadoc Brandybuck, Knight of the Mark",
+        "Meriadoc Brandybuck"
+      ],
+      "to": [
+        "Meriadoc, Knight of the Mark",
+        "Meriadoc Brandybuck"
+      ],
+      "rules": [
+        "renamed",
+        "exact"
+      ]
+    },
+    {
+      "figure": "Haldir's Elf with Bow 3",
+      "from": [
+        "Wood Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Hobbit Militia 2",
+      "from": [
+        "Hobbit Militia"
+      ],
+      "to": [
+        "Hobbit Militia"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Bowman 4",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Meriadoc Brandybuck, Knight of the Mark",
+      "from": [
+        "Meriadoc Brandybuck, Knight of the Mark"
+      ],
+      "to": [
+        "Meriadoc, Knight of the Mark"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 2",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Faramir Mounted",
+      "from": [
+        "Faramir, Captain of Gondor"
+      ],
+      "to": [
+        "Faramir, Captain of Gondor"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ranger of the North 5",
+      "from": [
+        "Ranger of the North"
+      ],
+      "to": [
+        "Ranger of the North"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Minas Tirith 4",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "King of Men 1",
+      "from": [
+        "King of Men"
+      ],
+      "to": [
+        "King of Men"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ranger of the North 1",
+      "from": [
+        "Ranger of the North"
+      ],
+      "to": [
+        "Ranger of the North"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Moria Armoured Goblin Archer 1",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Théoden (Helms Deep)",
+      "from": [
+        "Theoden, King of Rohan"
+      ],
+      "to": [
+        "Théoden, King of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 10",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Berserker 3",
+      "from": [
+        "Uruk-hai Berserker"
+      ],
+      "to": [
+        "Uruk-hai Berserker"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Goblin Warrior 4",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Hobbit Shirriff 3",
+      "from": [
+        "Hobbit Shirriff"
+      ],
+      "to": [
+        "Shirriffs"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "High Elf Archer 1",
+      "from": [
+        "High Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Easterling Warrior 3",
+      "from": [
+        "Easterling Warrior"
+      ],
+      "to": [
+        "Easterling Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Númenor Spearman 3",
+      "from": [
+        "Warrior of Gondor"
+      ],
+      "to": [
+        "Warrior of Númenor"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Citadel Guard Spearman 1",
+      "from": [
+        "Citadel Guard"
+      ],
+      "to": [
+        "Citadel Guard"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Hasharin 1",
+      "from": [
+        "Hâsharin"
+      ],
+      "to": [
+        "Hâsharin"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Bowman 3",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Bullroarer Took Mounted",
+      "from": [
+        "Bandobras Took"
+      ],
+      "to": [
+        "Bandobras Took, The Bullroarer"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 11",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Rohan 5",
+      "from": [
+        "Warrior of Rohan"
+      ],
+      "to": [
+        "Warrior of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Frodo (Fell Beast)",
+      "from": [
+        "Frodo Baggins"
+      ],
+      "to": [
+        "Frodo Baggins"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Harad 8",
+      "from": [
+        "Haradrim Warrior"
+      ],
+      "to": [
+        "Haradrim Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Grishnákh (Two Towers)",
+      "from": [
+        "Grishnakh, Orc Captain"
+      ],
+      "to": [
+        "Grishnákh"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Warrior of Rohan 11",
+      "from": [
+        "Warrior of Rohan"
+      ],
+      "to": [
+        "Warrior of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Saruman (Two Towers)",
+      "from": [
+        "Saruman"
+      ],
+      "to": [
+        "Saruman"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Moria Armoured Goblin Warrior 1",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Wildman of Dunland 4",
+      "from": [
+        "Wild Man of Dunland"
+      ],
+      "to": [
+        "Wild Men of Dunland"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Morannon Orc 1",
+      "from": [
+        "Morannon Orc"
+      ],
+      "to": [
+        "Morannon Orc"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 7",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Siege Berserker",
+      "from": [
+        "Uruk-hai Berserker (Demolition Team)"
+      ],
+      "to": [
+        "Uruk-hai Berserker (Demolition Team)"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Crossbow 3",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Númenor Bowman 1",
+      "from": [
+        "Warrior of Gondor"
+      ],
+      "to": [
+        "Warrior of Númenor"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Mordor Catapult Troll",
+      "from": [
+        "Mordor Troll (Catapult)"
+      ],
+      "to": [
+        "Mordor Troll"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Warg Rider 2",
+      "from": [
+        "Warg Rider"
+      ],
+      "to": [
+        "Warg Rider"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Twilight Ringwraith 2",
+      "from": [
+        "The Ringwraiths"
+      ],
+      "to": [
+        "The Ringwraiths"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Bowman 2",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Minas Tirith Captain 1",
+      "from": [
+        "Captain of Men"
+      ],
+      "to": [
+        "Captain of Minas Tirith"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Rohan Royal Guard Mounted 3",
+      "from": [
+        "Rohan Royal Guard"
+      ],
+      "to": [
+        "Rohan Royal Guard"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 5",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Rider of Rohan 3",
+      "from": [
+        "Rider of Rohan"
+      ],
+      "to": [
+        "Rider of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ithilien Ranger 4",
+      "from": [
+        "Ranger of Gondor"
+      ],
+      "to": [
+        "Ranger of Gondor"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Sharkey",
+      "from": [
+        "Sharkey"
+      ],
+      "to": [
+        "Sharkey"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Hobbit Shirriff 2",
+      "from": [
+        "Hobbit Shirriff"
+      ],
+      "to": [
+        "Shirriffs"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Lurtz with Shield",
+      "from": [
+        "Lurtz"
+      ],
+      "to": [
+        "Lurtz, Uruk-hai Captain"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Aragorn (Amon Hen)",
+      "from": [
+        "Aragorn - Strider"
+      ],
+      "to": [
+        "Strider / Aragorn"
+      ],
+      "rules": [
+        "split-default"
+      ]
+    },
+    {
+      "figure": "Hobbit Shirriff 1",
+      "from": [
+        "Hobbit Shirriff"
+      ],
+      "to": [
+        "Shirriffs"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 12",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Goblin Archer 4",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Aragorn (Fellowship)",
+      "from": [
+        "Aragorn - Strider"
+      ],
+      "to": [
+        "Strider / Aragorn"
+      ],
+      "rules": [
+        "split-default"
+      ]
+    },
+    {
+      "figure": "Lorien Archer 2",
+      "from": [
+        "Wood Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Mumak Champion",
+      "from": [
+        "Haradrim Chieftain"
+      ],
+      "to": [
+        "Haradrim Chieftain"
+      ],
+      "rules": [
+        "split-default"
+      ]
+    },
+    {
+      "figure": "Dwarf Warrior 1",
+      "from": [
+        "Dwarf Warrior"
+      ],
+      "to": [
+        "Dwarf Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Mounted Ringwraith 1 ",
+      "from": [
+        "The Ringwraiths"
+      ],
+      "to": [
+        "The Ringwraiths"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Glorfindel Mounted",
+      "from": [
+        "Glorfindel"
+      ],
+      "to": [
+        "Glorfindel"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Legolas and Gimli on Horseback",
+      "from": [
+        "Legolas",
+        "Gimli"
+      ],
+      "to": [
+        "Legolas",
+        "Gimli, Son of Glóin"
+      ],
+      "rules": [
+        "exact",
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Goblin Drummer 1",
+      "from": [
+        "Moria Goblin Drum"
+      ],
+      "to": [
+        "Goblin Drummers"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Haradrim Raider 2",
+      "from": [
+        "Haradrim Raider"
+      ],
+      "to": [
+        "Haradrim Raider"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Easterling Warrior 4",
+      "from": [
+        "Easterling Warrior"
+      ],
+      "to": [
+        "Easterling Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Saruman (Palantir)",
+      "from": [
+        "Saruman"
+      ],
+      "to": [
+        "Saruman"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Sam (Emyn Muil)",
+      "from": [
+        "Sam Gamgee"
+      ],
+      "to": [
+        "Samwise Gamgee"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Númenor Spearman 2",
+      "from": [
+        "Warrior of Gondor"
+      ],
+      "to": [
+        "Warrior of Númenor"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Knight of Minas Tirith Banner Bearer",
+      "from": [
+        "Knights of Minas Tirith"
+      ],
+      "to": [
+        "Knight of Minas Tirith"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Orc Captain 2",
+      "from": [
+        "Orc Captain"
+      ],
+      "to": [
+        "Orc Captain"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "High Elf Spearman 4",
+      "from": [
+        "High Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Warrior of Minas Tirith 5",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Númenor Warrior 3",
+      "from": [
+        "Warrior of Gondor"
+      ],
+      "to": [
+        "Warrior of Númenor"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Haradrim King on Foot",
+      "from": [
+        "Haradrim Chieftain"
+      ],
+      "to": [
+        "Haradrim King"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Prince Imrahil on Foot",
+      "from": [
+        "Prince Imrahil of Dol Amroth"
+      ],
+      "to": [
+        "Prince Imrahil of Dol Amroth"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "High Elf Archer 2",
+      "from": [
+        "High Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Goblin Drummer 2",
+      "from": [
+        "Moria Goblin Drum"
+      ],
+      "to": [
+        "Goblin Drummers"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Arwen Evenstar",
+      "from": [
+        "Arwen Evenstar"
+      ],
+      "to": [
+        "Arwen Evenstar"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Harad 7",
+      "from": [
+        "Haradrim Warrior"
+      ],
+      "to": [
+        "Haradrim Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Paladin Took",
+      "from": [
+        "Paladin Took"
+      ],
+      "to": [
+        "Paladin Took"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gondor Avenger Bolt Thrower Captain",
+      "from": [
+        "Gondor Crewman"
+      ],
+      "to": [
+        "Gondor Crewman"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "High Elf Warrior 2",
+      "from": [
+        "High Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Warrior 8",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Goblin Spearman 2",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Minas Tirith 8",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Tom Bombadil",
+      "from": [
+        "Tom Bombadil"
+      ],
+      "to": [
+        "Tom Bombadil"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Mordor Siege Crew 3",
+      "from": [
+        "Orc Crewman"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Warrior 3",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 14",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Bowman 4",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Scout"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Berserker 4",
+      "from": [
+        "Uruk-hai Berserker"
+      ],
+      "to": [
+        "Uruk-hai Berserker"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Éomer Mounted (Two Towers)",
+      "from": [
+        "Eomer, Captain of Rohan"
+      ],
+      "to": [
+        "Éomer, Marshal of the Riddermark"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Ithilien Ranger 1",
+      "from": [
+        "Ranger of Gondor"
+      ],
+      "to": [
+        "Ranger of Gondor"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Shelob",
+      "from": [
+        "Shelob"
+      ],
+      "to": [
+        "Shelob"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Aragorn (West)",
+      "from": [
+        "Aragorn - Strider"
+      ],
+      "to": [
+        "Strider / Aragorn"
+      ],
+      "rules": [
+        "split-default"
+      ]
+    },
+    {
+      "figure": "Warrior of Minas Tirith 11",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 2",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Farmer Maggot",
+      "from": [
+        "Farmer Maggot"
+      ],
+      "to": [
+        "Farmer Maggot"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Wildman of Dunland 1",
+      "from": [
+        "Wild Man of Dunland"
+      ],
+      "to": [
+        "Wild Men of Dunland"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Warrior of Harad 3",
+      "from": [
+        "Haradrim Warrior"
+      ],
+      "to": [
+        "Haradrim Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gamling Mounted with Royal Standard",
+      "from": [
+        "Gamling, Captain of Rohan"
+      ],
+      "to": [
+        "Gamling, Captain of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "High Elf Spearman 3",
+      "from": [
+        "High Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Ballista Crew 2",
+      "from": [
+        "White Hand Uruk-hai"
+      ],
+      "to": [
+        "White Hand Uruk-hai"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Warrior 1",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Glorfindel on Foot",
+      "from": [
+        "Glorfindel"
+      ],
+      "to": [
+        "Glorfindel"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Easterling Warrior 2",
+      "from": [
+        "Easterling Warrior"
+      ],
+      "to": [
+        "Easterling Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ruffian 6",
+      "from": [
+        "Ruffian"
+      ],
+      "to": [
+        "Ruffian"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Minas Tirith 12",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Sam (Fellowship)",
+      "from": [
+        "Sam Gamgee"
+      ],
+      "to": [
+        "Samwise Gamgee"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Legolas (Amon Hen)",
+      "from": [
+        "Legolas"
+      ],
+      "to": [
+        "Legolas"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Éowyn Mounted",
+      "from": [
+        "Eowyn, Shield Maiden of Rohan"
+      ],
+      "to": [
+        "Éowyn, Shield Maiden of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Frodo of the Nine Fingers",
+      "from": [
+        "Frodo of the Nine Fingers"
+      ],
+      "to": [
+        "Frodo of the Nine Fingers"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Harad 4",
+      "from": [
+        "Haradrim Warrior"
+      ],
+      "to": [
+        "Haradrim Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "The Witch-King (Weathertop)",
+      "from": [
+        "Witch King"
+      ],
+      "to": [
+        "The Witch-king of Angmar"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Orc Tracker 2",
+      "from": [
+        "Orc Tracker"
+      ],
+      "to": [
+        "Orc Tracker"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Moria Armoured Goblin Warrior 3",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Shaman 1",
+      "from": [
+        "Orc Shaman"
+      ],
+      "to": [
+        "Orc Shaman"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Dwarf Bowman 3",
+      "from": [
+        "Dwarf Warrior"
+      ],
+      "to": [
+        "Dwarf Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Morannon Orc 3",
+      "from": [
+        "Morannon Orc"
+      ],
+      "to": [
+        "Morannon Orc"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gríma Wormtongue (Two Towers)",
+      "from": [
+        "Grima Wormtongue"
+      ],
+      "to": [
+        "Gríma Wormtongue"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Dwarf Bowman 1",
+      "from": [
+        "Dwarf Warrior"
+      ],
+      "to": [
+        "Dwarf Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Citadel Guard Spearman 2",
+      "from": [
+        "Citadel Guard"
+      ],
+      "to": [
+        "Citadel Guard"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Númenor Warrior 1",
+      "from": [
+        "Warrior of Gondor"
+      ],
+      "to": [
+        "Warrior of Númenor"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Gandalf the White",
+      "from": [
+        "Gandalf the White"
+      ],
+      "to": [
+        "Gandalf the White"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Haldir the Marchwarden",
+      "from": [
+        "Haldir"
+      ],
+      "to": [
+        "Haldir"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Elendil",
+      "from": [
+        "Elendil"
+      ],
+      "to": [
+        "Elendil"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Harad 10",
+      "from": [
+        "Haradrim Warrior"
+      ],
+      "to": [
+        "Haradrim Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Warrior 5",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Gimli (West)",
+      "from": [
+        "Gimli"
+      ],
+      "to": [
+        "Gimli, Son of Glóin"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Knight of Minas Tirith 4",
+      "from": [
+        "Knights of Minas Tirith"
+      ],
+      "to": [
+        "Knight of Minas Tirith"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Guard of the Fountain Court 1",
+      "from": [
+        "Guard of the Fountain Court"
+      ],
+      "to": [
+        "Guard of the Fountain Court"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Warrior 1",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Scout"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 8",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Banner Bearer 2",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Lorien Archer 4",
+      "from": [
+        "Wood Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Citadel Guard Bowman 1",
+      "from": [
+        "Citadel Guard"
+      ],
+      "to": [
+        "Citadel Guard"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 4",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ranger of the North 3",
+      "from": [
+        "Ranger of the North"
+      ],
+      "to": [
+        "Ranger of the North"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Rider of Rohan 5",
+      "from": [
+        "Rider of Rohan"
+      ],
+      "to": [
+        "Rider of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "King of Men 3",
+      "from": [
+        "King of Men"
+      ],
+      "to": [
+        "King of Men"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Goblin King Durbûrz",
+      "from": [
+        "Durbûrz, the Goblin King of Moria"
+      ],
+      "to": [
+        "Durburz, the Goblin King of Moria"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Worm",
+      "from": [
+        "Worm"
+      ],
+      "to": [
+        "Worm"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ruffian 5",
+      "from": [
+        "Ruffian"
+      ],
+      "to": [
+        "Ruffian"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ruffian 4",
+      "from": [
+        "Ruffian"
+      ],
+      "to": [
+        "Ruffian"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Bilbo Baggins (Fellowship)",
+      "from": [
+        "BIlbo Baggins"
+      ],
+      "to": [
+        "Bilbo Baggins"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Isildur on Foot",
+      "from": [
+        "Isildur"
+      ],
+      "to": [
+        "Isildur"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Ballista Crew 1",
+      "from": [
+        "White Hand Uruk-hai"
+      ],
+      "to": [
+        "White Hand Uruk-hai"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Legolas (West)",
+      "from": [
+        "Legolas"
+      ],
+      "to": [
+        "Legolas"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ruffian 1",
+      "from": [
+        "Ruffian"
+      ],
+      "to": [
+        "Ruffian"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Minas Tirith 7",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Rider of Rohan 6",
+      "from": [
+        "Rider of Rohan"
+      ],
+      "to": [
+        "Rider of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Rohan 2",
+      "from": [
+        "Warrior of Rohan"
+      ],
+      "to": [
+        "Warrior of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "High Elf Spearman 1",
+      "from": [
+        "High Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Númenor Bowman 3",
+      "from": [
+        "Warrior of Gondor"
+      ],
+      "to": [
+        "Warrior of Númenor"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Haradrim King Mounted",
+      "from": [
+        "Haradrim Chieftain"
+      ],
+      "to": [
+        "Haradrim King"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Goldberry",
+      "from": [
+        "Goldberry"
+      ],
+      "to": [
+        "Goldberry"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "The Witch-King (Fall of Witch-King)",
+      "from": [
+        "Witch King"
+      ],
+      "to": [
+        "The Witch-king of Angmar"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Siege Engineer 4",
+      "from": [
+        "Uruk-hai Engineer"
+      ],
+      "to": [
+        "Uruk-hai Engineer"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 9",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Warrior 4",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Scout"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Moria Armoured Goblin Archer 4",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Wildman of Dunland 2",
+      "from": [
+        "Wild Man of Dunland"
+      ],
+      "to": [
+        "Wild Men of Dunland"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Gondor Avenger Bolt Thrower Crew 1",
+      "from": [
+        "Gondor Crewman"
+      ],
+      "to": [
+        "Gondor Crewman"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Dwarf Lord Dáin",
+      "from": [
+        "Dain Ironfoot, King of Erebor"
+      ],
+      "to": [
+        "Dáin Ironfoot, King of Erebor"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Númenor Bowman 4",
+      "from": [
+        "Warrior of Gondor"
+      ],
+      "to": [
+        "Warrior of Númenor"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Knight of Minas Tirith 2",
+      "from": [
+        "Knights of Minas Tirith"
+      ],
+      "to": [
+        "Knight of Minas Tirith"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Captain 2",
+      "from": [
+        "Uruk-hai Captain"
+      ],
+      "to": [
+        "Uruk-hai Captain"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Éowyn (Helms Deep)",
+      "from": [
+        "Eowyn, Shield Maiden of Rohan"
+      ],
+      "to": [
+        "Éowyn, Shield Maiden of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai with Merry",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Scout"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Warg 2",
+      "from": [
+        "White Warg"
+      ],
+      "to": [
+        "White/Wild Warg"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Théoden Mounted",
+      "from": [
+        "Theoden, King of Rohan"
+      ],
+      "to": [
+        "Théoden, King of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Hobbit Archer 2",
+      "from": [
+        "Hobbit Archer"
+      ],
+      "to": [
+        "Hobbit Archers"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Gothmog Mounted (Siege)",
+      "from": [
+        "Gothmog, Lieutenant of Morgul"
+      ],
+      "to": [
+        "Gothmog, Lieutenant of Morgul"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Galadhrim Warrior with Banner",
+      "from": [
+        "Wood Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Standard Bearer 1",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Rider of Rohan 4",
+      "from": [
+        "Rider of Rohan"
+      ],
+      "to": [
+        "Rider of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Rohan Royal Guard on Foot 1",
+      "from": [
+        "Rohan Royal Guard"
+      ],
+      "to": [
+        "Rohan Royal Guard"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ringwraith 2",
+      "from": [
+        "The Ringwraiths"
+      ],
+      "to": [
+        "The Ringwraiths"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai with Pippin",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Scout"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Treebeard",
+      "from": [
+        "Treebeard"
+      ],
+      "to": [
+        "Treebeard"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Éomer on Foot (Two Towers)",
+      "from": [
+        "Eomer, Captain of Rohan"
+      ],
+      "to": [
+        "Éomer, Marshal of the Riddermark"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 13",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Twilight Ringwraith 3",
+      "from": [
+        "The Ringwraiths"
+      ],
+      "to": [
+        "The Ringwraiths"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ringwraith 3",
+      "from": [
+        "The Ringwraiths"
+      ],
+      "to": [
+        "The Ringwraiths"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Moria Goblin Shaman 1",
+      "from": [
+        "Moria Goblin Shaman"
+      ],
+      "to": [
+        "Moria Goblin Shaman"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Númenor Bowman 2",
+      "from": [
+        "Warrior of Gondor"
+      ],
+      "to": [
+        "Warrior of Númenor"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Wolf",
+      "from": [
+        "Grip, Fang and Wolf"
+      ],
+      "to": [
+        "Wolf"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Mordor Siege Crew 1",
+      "from": [
+        "Orc Crewman"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Balin",
+      "from": [
+        "Balin"
+      ],
+      "to": [
+        "Balin"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Berserker 1",
+      "from": [
+        "Uruk-hai Berserker"
+      ],
+      "to": [
+        "Uruk-hai Berserker"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 3",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gondor Siege Crew 2",
+      "from": [
+        "Gondor Crewman"
+      ],
+      "to": [
+        "Gondor Crewman"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warg 1",
+      "from": [
+        "White Warg"
+      ],
+      "to": [
+        "White/Wild Warg"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Haldir's Elf with Sword 3",
+      "from": [
+        "Wood Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Gandalf the White (BGIME)",
+      "from": [
+        "Gandalf the White"
+      ],
+      "to": [
+        "Gandalf the White"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warg Rider 3",
+      "from": [
+        "Warg Rider"
+      ],
+      "to": [
+        "Warg Rider"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Banner Bearer 1",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Boromir Mounted",
+      "from": [
+        "Boromir of Gondor"
+      ],
+      "to": [
+        "Boromir of Gondor"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Moria Armoured Goblin Archer 2",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Warrior 7",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Siege Engineer 3",
+      "from": [
+        "Uruk-hai Engineer"
+      ],
+      "to": [
+        "Uruk-hai Engineer"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Dwarf Warrior 3",
+      "from": [
+        "Dwarf Warrior"
+      ],
+      "to": [
+        "Dwarf Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Knight of Dol Amroth on Foot 2",
+      "from": [
+        "Knight of Dol Amroth"
+      ],
+      "to": [
+        "Knight of Dol Amroth"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Bullroarer Took on Foot",
+      "from": [
+        "Bandobras Took"
+      ],
+      "to": [
+        "Bandobras Took, The Bullroarer"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Balrog",
+      "from": [
+        "The Balrog"
+      ],
+      "to": [
+        "The Balrog"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Knight of Dol Amroth on Foot 1",
+      "from": [
+        "Knight of Dol Amroth"
+      ],
+      "to": [
+        "Knight of Dol Amroth"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Goblin Warrior 2",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Rohan 3",
+      "from": [
+        "Warrior of Rohan"
+      ],
+      "to": [
+        "Warrior of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Frodo (Emyn Muil)",
+      "from": [
+        "Frodo Baggins"
+      ],
+      "to": [
+        "Frodo Baggins"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Dwarf Bowman 2",
+      "from": [
+        "Dwarf Warrior"
+      ],
+      "to": [
+        "Dwarf Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Aragorn (Helms Deep)",
+      "from": [
+        "Aragorn - Strider"
+      ],
+      "to": [
+        "Strider / Aragorn"
+      ],
+      "rules": [
+        "split-default"
+      ]
+    },
+    {
+      "figure": "Warrior of Rohan 7",
+      "from": [
+        "Warrior of Rohan"
+      ],
+      "to": [
+        "Warrior of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gollum (Emyn Muil)",
+      "from": [
+        "Gollum"
+      ],
+      "to": [
+        "Gollum/Sméagol"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Warrior of Rohan 12",
+      "from": [
+        "Warrior of Rohan"
+      ],
+      "to": [
+        "Warrior of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Rohan Royal Guard on Foot 3",
+      "from": [
+        "Rohan Royal Guard"
+      ],
+      "to": [
+        "Rohan Royal Guard"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Haldir (Helms Deep)",
+      "from": [
+        "Haldir"
+      ],
+      "to": [
+        "Haldir"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gandalf (Fellowship)",
+      "from": [
+        "Gandalf the Grey "
+      ],
+      "to": [
+        "Gandalf the Grey"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Boromir (Amon Hen)",
+      "from": [
+        "Boromir of Gondor"
+      ],
+      "to": [
+        "Boromir of Gondor"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Faramir (West)",
+      "from": [
+        "Faramir, Captain of Gondor"
+      ],
+      "to": [
+        "Faramir, Captain of Gondor"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Moria Armoured Goblin Warrior 2",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Dwarf King 3",
+      "from": [
+        "Dwarf King"
+      ],
+      "to": [
+        "Dwarf King"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 4",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Shaman 2",
+      "from": [
+        "Orc Shaman"
+      ],
+      "to": [
+        "Orc Shaman"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Harad 2",
+      "from": [
+        "Haradrim Warrior"
+      ],
+      "to": [
+        "Haradrim Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Rohan Royal Guard Mounted 2",
+      "from": [
+        "Rohan Royal Guard"
+      ],
+      "to": [
+        "Rohan Royal Guard"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Frodo (Mount Doom)",
+      "from": [
+        "Frodo Baggins"
+      ],
+      "to": [
+        "Frodo Baggins"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Bowman 3",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Scout"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Gandalf on Shadowfax",
+      "from": [
+        "Gandalf the White"
+      ],
+      "to": [
+        "Gandalf the White"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Harad 5",
+      "from": [
+        "Haradrim Warrior"
+      ],
+      "to": [
+        "Haradrim Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ranger of the North 6",
+      "from": [
+        "Ranger of the North"
+      ],
+      "to": [
+        "Ranger of the North"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Easterling Warrior 1",
+      "from": [
+        "Easterling Warrior"
+      ],
+      "to": [
+        "Easterling Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "King of Men 4",
+      "from": [
+        "King of Men"
+      ],
+      "to": [
+        "King of Men"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gollum (Captured)",
+      "from": [
+        "Gollum"
+      ],
+      "to": [
+        "Gollum/Sméagol"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Hobbit Archer 1",
+      "from": [
+        "Hobbit Archer"
+      ],
+      "to": [
+        "Hobbit Archers"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Knight of Minas Tirith 3",
+      "from": [
+        "Knights of Minas Tirith"
+      ],
+      "to": [
+        "Knight of Minas Tirith"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Merry (Grishnákh)",
+      "from": [
+        "Meriadoc Brandybuck"
+      ],
+      "to": [
+        "Meriadoc Brandybuck"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 6",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Dwarf King 4",
+      "from": [
+        "Dwarf King"
+      ],
+      "to": [
+        "Dwarf King"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 5",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Goblin Archer 3",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Saruman (Orthanc)",
+      "from": [
+        "Saruman"
+      ],
+      "to": [
+        "Saruman"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Goblin Drum",
+      "from": [
+        "Moria Goblin Drum"
+      ],
+      "to": [
+        "Goblin Drummers"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Warrior 10",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Warrior 4",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Ranger of the North 4",
+      "from": [
+        "Ranger of the North"
+      ],
+      "to": [
+        "Ranger of the North"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Grip",
+      "from": [
+        "Grip, Fang and Wolf"
+      ],
+      "to": [
+        "Grip"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Dwarf King 2",
+      "from": [
+        "Dwarf King"
+      ],
+      "to": [
+        "Dwarf King"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Warrior 2",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Scout"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Troll Chieftain",
+      "from": [
+        "Troll Chieftain"
+      ],
+      "to": [
+        "Mordor Troll Chieftain"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "High Elf Spearman 2",
+      "from": [
+        "High Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Siege Engineer 1",
+      "from": [
+        "Uruk-hai Engineer"
+      ],
+      "to": [
+        "Uruk-hai Engineer"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Rohan Royal Guard Mounted 1",
+      "from": [
+        "Rohan Royal Guard"
+      ],
+      "to": [
+        "Rohan Royal Guard"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Minas Tirith Banner Bearer 2",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Citadel Guard Bowman 2",
+      "from": [
+        "Citadel Guard"
+      ],
+      "to": [
+        "Citadel Guard"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ithilien Ranger 3",
+      "from": [
+        "Ranger of Gondor"
+      ],
+      "to": [
+        "Ranger of Gondor"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Númenor Spearman 4",
+      "from": [
+        "Warrior of Gondor"
+      ],
+      "to": [
+        "Warrior of Númenor"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Warrior of Harad 9",
+      "from": [
+        "Haradrim Warrior"
+      ],
+      "to": [
+        "Haradrim Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Legolas (Helms Deep)",
+      "from": [
+        "Legolas"
+      ],
+      "to": [
+        "Legolas"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Prince Imrahil Mounted",
+      "from": [
+        "Prince Imrahil of Dol Amroth"
+      ],
+      "to": [
+        "Prince Imrahil of Dol Amroth"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Faramir (Captured)",
+      "from": [
+        "Faramir, Captain of Gondor"
+      ],
+      "to": [
+        "Faramir, Captain of Gondor"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Shagrat",
+      "from": [
+        "Shagrat, Uruk-hai Captain"
+      ],
+      "to": [
+        "Shagrat, Captain of Cirith Ungol"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Warrior of Harad 11",
+      "from": [
+        "Haradrim Warrior"
+      ],
+      "to": [
+        "Haradrim Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Lobelia Sackville-Baggins",
+      "from": [
+        "Lobelia Sackville-Baggins"
+      ],
+      "to": [
+        "Lobelia Sackville-Baggins"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Knight of Minas Tirith 1",
+      "from": [
+        "Knights of Minas Tirith"
+      ],
+      "to": [
+        "Knight of Minas Tirith"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Hobbit Shirriff 4",
+      "from": [
+        "Hobbit Shirriff"
+      ],
+      "to": [
+        "Shirriffs"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Warrior 6",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Goblin Warrior 3",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gothmog (Siege)",
+      "from": [
+        "Gothmog, Lieutenant of Morgul"
+      ],
+      "to": [
+        "Gothmog, Lieutenant of Morgul"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Hobbit Militia 1",
+      "from": [
+        "Hobbit Militia"
+      ],
+      "to": [
+        "Hobbit Militia"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Berserker 2",
+      "from": [
+        "Uruk-hai Berserker"
+      ],
+      "to": [
+        "Uruk-hai Berserker"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Rohan 1",
+      "from": [
+        "Warrior of Rohan"
+      ],
+      "to": [
+        "Warrior of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Mordor Uruk-Hai 3",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Mordor Uruk-hai"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Gamling (Helms Deep)",
+      "from": [
+        "Gamling, Captain of Rohan"
+      ],
+      "to": [
+        "Gamling, Captain of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Hobbit Militia 4",
+      "from": [
+        "Hobbit Militia"
+      ],
+      "to": [
+        "Hobbit Militia"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Rohan 6",
+      "from": [
+        "Warrior of Rohan"
+      ],
+      "to": [
+        "Warrior of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Hobbit Archer 3",
+      "from": [
+        "Hobbit Archer"
+      ],
+      "to": [
+        "Hobbit Archers"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Warg Rider 1",
+      "from": [
+        "Warg Rider"
+      ],
+      "to": [
+        "Warg Rider"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Warrior 2",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Lorien Archer 1",
+      "from": [
+        "Wood Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Warrior of Harad 1",
+      "from": [
+        "Haradrim Warrior"
+      ],
+      "to": [
+        "Haradrim Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 11",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Rider of Rohan 1",
+      "from": [
+        "Rider of Rohan"
+      ],
+      "to": [
+        "Rider of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "War Mumak",
+      "from": [
+        "Mûmakil of Harad"
+      ],
+      "to": [
+        "Mûmakil of Harad"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Goblin Spearman 1",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Númenor Warrior 4",
+      "from": [
+        "Warrior of Gondor"
+      ],
+      "to": [
+        "Warrior of Númenor"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Númenor Warrior 2",
+      "from": [
+        "Warrior of Gondor"
+      ],
+      "to": [
+        "Warrior of Númenor"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Pippin (Fellowship)",
+      "from": [
+        "Peregrin Took"
+      ],
+      "to": [
+        "Peregrin Took"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 1",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Minas Tirith 9",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Frodo (Fellowship)",
+      "from": [
+        "Frodo Baggins"
+      ],
+      "to": [
+        "Frodo Baggins"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 9",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Merry (West)",
+      "from": [
+        "Meriadoc Brandybuck, Knight of the Mark",
+        "Meriadoc Brandybuck"
+      ],
+      "to": [
+        "Meriadoc, Knight of the Mark",
+        "Meriadoc Brandybuck"
+      ],
+      "rules": [
+        "renamed",
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Bowman 2",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Scout"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Gollum (Mount Doom)",
+      "from": [
+        "Gollum"
+      ],
+      "to": [
+        "Gollum/Sméagol"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Gwaihir (Orthanc)",
+      "from": [
+        "Gwaihir"
+      ],
+      "to": [
+        "Gwaihir"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Captain 1",
+      "from": [
+        "Uruk-hai Captain"
+      ],
+      "to": [
+        "Uruk-hai Captain"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Scout Bowman 1",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Scout"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Twilight Ringwraith 1",
+      "from": [
+        "Witch King"
+      ],
+      "to": [
+        "The Witch-king of Angmar"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Warrior 9",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Warrior of Rohan 8",
+      "from": [
+        "Warrior of Rohan"
+      ],
+      "to": [
+        "Warrior of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Bowman 1",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Warrior 1",
+      "from": [
+        "Orc Warrior"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Sam (Mount Doom)",
+      "from": [
+        "Sam Gamgee"
+      ],
+      "to": [
+        "Samwise Gamgee"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Sauron",
+      "from": [
+        "The Dark Lord Sauron"
+      ],
+      "to": [
+        "The Dark Lord Sauron"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Goblin Archer 2",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Cave Troll with Hammer and Chain",
+      "from": [
+        "Cave Troll"
+      ],
+      "to": [
+        "Cave Troll"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Barrow Wight 1",
+      "from": [
+        "Barrow-wight"
+      ],
+      "to": [
+        "Barrow-Wight"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "King of Men 2",
+      "from": [
+        "King of Men"
+      ],
+      "to": [
+        "King of Men"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Hobbit Militia 3",
+      "from": [
+        "Hobbit Militia"
+      ],
+      "to": [
+        "Hobbit Militia"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Harad 12",
+      "from": [
+        "Haradrim Warrior"
+      ],
+      "to": [
+        "Haradrim Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Éowyn (Fall of Witch-King)",
+      "from": [
+        "Eowyn, Shield Maiden of Rohan"
+      ],
+      "to": [
+        "Éowyn, Shield Maiden of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Knight of Dol Amroth 1",
+      "from": [
+        "Knight of Dol Amroth"
+      ],
+      "to": [
+        "Knight of Dol Amroth"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Númenor Spearman 1",
+      "from": [
+        "Warrior of Gondor"
+      ],
+      "to": [
+        "Warrior of Númenor"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Standard Bearer 2",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Elrond (FotR)",
+      "from": [
+        "Elrond"
+      ],
+      "to": [
+        "Elrond"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Sharku Mounted",
+      "from": [
+        "Sharku, Warg Rider Captain"
+      ],
+      "to": [
+        "Sharku, Warg Rider Captain"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Tracker 1",
+      "from": [
+        "Orc Tracker"
+      ],
+      "to": [
+        "Orc Tracker"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Guard of the Fountain Court 2",
+      "from": [
+        "Guard of the Fountain Court"
+      ],
+      "to": [
+        "Guard of the Fountain Court"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Halbarad with Banner",
+      "from": [
+        "Halbarad Dunadán"
+      ],
+      "to": [
+        "Halbarad Dunádan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ruffian 2",
+      "from": [
+        "Ruffian"
+      ],
+      "to": [
+        "Ruffian"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Mordor Uruk-Hai 1",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Mordor Uruk-hai"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Ruffian 3",
+      "from": [
+        "Ruffian"
+      ],
+      "to": [
+        "Ruffian"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Minas Tirith 10",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Goblin Warrior 1",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "High Elf Warrior 1",
+      "from": [
+        "High Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Mounted Ringwraith 2",
+      "from": [
+        "The Ringwraiths"
+      ],
+      "to": [
+        "The Ringwraiths"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ringwraith 1 ",
+      "from": [
+        "The Ringwraiths"
+      ],
+      "to": [
+        "The Ringwraiths"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Rohan Royal Guard Banner Bearer",
+      "from": [
+        "Rohan Royal Guard"
+      ],
+      "to": [
+        "Rohan Royal Guard"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Minas Tirith 3",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Fredegar Bolger",
+      "from": [
+        "Fredegar Bolger"
+      ],
+      "to": [
+        "Fredegar Bolger"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Warrior of Rohan 10",
+      "from": [
+        "Warrior of Rohan"
+      ],
+      "to": [
+        "Warrior of Rohan"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Barrow Wight 2",
+      "from": [
+        "Barrow-wight"
+      ],
+      "to": [
+        "Barrow-Wight"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Ballista Captain",
+      "from": [
+        "White Hand Uruk-hai"
+      ],
+      "to": [
+        "White Hand Uruk-hai"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Mordor Uruk-Hai 2",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Mordor Uruk-hai"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Gandalf (Orthanc)",
+      "from": [
+        "Gandalf the Grey "
+      ],
+      "to": [
+        "Gandalf the Grey"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Elrohir",
+      "from": [
+        "Elladan and Elrohir"
+      ],
+      "to": [
+        "Elladan and Elrohir"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Tracker 3",
+      "from": [
+        "Orc Tracker"
+      ],
+      "to": [
+        "Orc Tracker"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Celeborn",
+      "from": [
+        "Celeborn"
+      ],
+      "to": [
+        "Celeborn"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Minas Tirith Captain 2",
+      "from": [
+        "Captain of Men"
+      ],
+      "to": [
+        "Captain of Minas Tirith"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Moria Armoured Goblin Warrior 4",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Rohan Royal Guard on Foot 2",
+      "from": [
+        "Rohan Royal Guard"
+      ],
+      "to": [
+        "Rohan Royal Guard"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Pippin (Grishnákh)",
+      "from": [
+        "Peregrin Took"
+      ],
+      "to": [
+        "Peregrin Took"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gorbag",
+      "from": [
+        "Gorbag, Orc Captain"
+      ],
+      "to": [
+        "Gorbag, Orc Captain"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Crossbow 1",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Warrior of Minas Tirith 6",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gandalf the White (West)",
+      "from": [
+        "Gandalf the White"
+      ],
+      "to": [
+        "Gandalf the White"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Cave Troll with Spear",
+      "from": [
+        "Cave Troll"
+      ],
+      "to": [
+        "Cave Troll"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Haradrim Chieftain",
+      "from": [
+        "Haradrim Chieftain"
+      ],
+      "to": [
+        "Haradrim Chieftain"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Haldir's Elf with Bow 1",
+      "from": [
+        "Wood Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Moria Armoured Goblin Archer 3",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Elladan",
+      "from": [
+        "Elladan and Elrohir"
+      ],
+      "to": [
+        "Elladan and Elrohir"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Siege Engineer 2",
+      "from": [
+        "Uruk-hai Engineer"
+      ],
+      "to": [
+        "Uruk-hai Engineer"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Mordor Siege Captain",
+      "from": [
+        "Orc Crewman"
+      ],
+      "to": [
+        "Orc Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Minas Tirith Banner Bearer 1",
+      "from": [
+        "Warrior of Minas Tirith"
+      ],
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Gollum the Ringbearer",
+      "from": [
+        "Gollum"
+      ],
+      "to": [
+        "Gollum/Sméagol"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Gondor Trebuchet Captain",
+      "from": [
+        "Gondor Crewman"
+      ],
+      "to": [
+        "Gondor Crewman"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Hobbit Archer 4",
+      "from": [
+        "Hobbit Archer"
+      ],
+      "to": [
+        "Hobbit Archers"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Dwarf Warrior 2",
+      "from": [
+        "Dwarf Warrior"
+      ],
+      "to": [
+        "Dwarf Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Haldir's Elf with Bow 2",
+      "from": [
+        "Wood Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Lorien Archer 3",
+      "from": [
+        "Wood Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Crossbow 4",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Haldir's Elf with Sword 2",
+      "from": [
+        "Wood Elf Warrior"
+      ],
+      "to": [
+        "Elf Warrior"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Damrod (Captured)",
+      "from": [
+        "Damrod, Captain of the Rangers of Gondor"
+      ],
+      "to": [
+        "Damrod, Ranger of Ithilien"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Dwarf King 1",
+      "from": [
+        "Dwarf King"
+      ],
+      "to": [
+        "Dwarf King"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Ithilien Ranger 2",
+      "from": [
+        "Ranger of Gondor"
+      ],
+      "to": [
+        "Ranger of Gondor"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Orc Captain 1",
+      "from": [
+        "Orc Captain"
+      ],
+      "to": [
+        "Orc Captain"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Goblin Archer 1",
+      "from": [
+        "Moria Goblin Warrior"
+      ],
+      "to": [
+        "Moria Goblin Warrior"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Arwen Mounted with Frodo",
+      "from": [
+        "Arwen Evenstar",
+        "Frodo Baggins"
+      ],
+      "to": [
+        "Arwen Evenstar",
+        "Frodo Baggins"
+      ],
+      "rules": [
+        "exact",
+        "exact"
+      ]
+    },
+    {
+      "figure": "Morannon Orc 2",
+      "from": [
+        "Morannon Orc"
+      ],
+      "to": [
+        "Morannon Orc"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Sam (Captured)",
+      "from": [
+        "Sam Gamgee"
+      ],
+      "to": [
+        "Samwise Gamgee"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Aragorn (Warg Attack)",
+      "from": [
+        "Aragorn - Strider"
+      ],
+      "to": [
+        "Strider / Aragorn"
+      ],
+      "rules": [
+        "split-default"
+      ]
+    },
+    {
+      "figure": "Gimli (Amon Hen)",
+      "from": [
+        "Gimli"
+      ],
+      "to": [
+        "Gimli, Son of Glóin"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Sam (Shelob)",
+      "from": [
+        "Sam Gamgee"
+      ],
+      "to": [
+        "Samwise Gamgee"
+      ],
+      "rules": [
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Pippin (West)",
+      "from": [
+        "Peregrin Took",
+        "Peregrin Took, Guard of the Citadel"
+      ],
+      "to": [
+        "Peregrin Took",
+        "Peregrin, Guard of the Citadel"
+      ],
+      "rules": [
+        "exact",
+        "renamed"
+      ]
+    },
+    {
+      "figure": "Ringwraith 4",
+      "from": [
+        "The Ringwraiths"
+      ],
+      "to": [
+        "The Ringwraiths"
+      ],
+      "rules": [
+        "exact"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Crossbow 2",
+      "from": [
+        "Uruk-hai Warrior"
+      ],
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rules": [
+        "split"
+      ]
+    },
+    {
+      "figure": "Frodo (Captured)",
+      "from": [
+        "Frodo Baggins"
+      ],
+      "to": [
+        "Frodo Baggins"
+      ],
+      "rules": [
+        "exact"
+      ]
+    }
+  ]
+}

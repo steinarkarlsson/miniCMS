@@ -1,0 +1,464 @@
+[
+ {
+  "_id": "profile5e-abrakhan-merchant-guard",
+  "from": "Abrakhan Merchant Guard",
+  "to": "Abrakhân Merchant Guard",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-aldrac-warlord-of-carn-dum",
+  "from": "Aldrac, Warlord of Carn Dum",
+  "to": "Aldrac, Warlord of Carn Dûm",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-amdur-lord-of-blades",
+  "from": "Amdur, Lord of Blades",
+  "to": "Amdûr, Lord of Blades",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-aranarth-first-chieftain-of-the-dunedain",
+  "from": "Aranarth, First Chieftain of the Dunedain",
+  "to": "Aranarth, First Chieftain of the Dúnedain",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-arwen-undomiel",
+  "from": "Arwen Undomiel",
+  "to": "Arwen Undómiel",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-ashrak",
+  "from": "Ashrak",
+  "to": "Ashrâk",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-black-guard-of-barad-dur",
+  "from": "Black Guard of Barad-Dur",
+  "to": "Black Guard of Barad-Dûr",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-black-numenorean",
+  "from": "Black Numenorean",
+  "to": "Black Númenórean",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-black-numenorean-marshal",
+  "from": "Black Numenorean Marshal",
+  "to": "Black Númenórean Marshal",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-buhrdur-troll-chieftain",
+  "from": "Buhrdur, Troll Chieftain",
+  "to": "Buhrdûr, Troll Chieftain",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-captain-of-carn-dum",
+  "from": "Captain of Carn Dum",
+  "to": "Captain of Carn Dûm",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-captain-of-numenor",
+  "from": "Captain of Numenor",
+  "to": "Captain of Númenor",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-cirdan",
+  "from": "Cirdan",
+  "to": "Círdan",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-dain-ironfoot-king-under-the-mountain",
+  "from": "Dain Ironfoot, King Under the Mountain",
+  "to": "Dáin Ironfoot, King Under the Mountain",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-dain-ironfoot-lord-of-the-iron-hills",
+  "from": "Dain Ironfoot, Lord of the Iron Hills",
+  "to": "Dáin Ironfoot, Lord of the Iron Hills",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-deorwine-chief-of-the-king-s-knights",
+  "from": "Deorwine, Chief of the King's Knights",
+  "to": "Déorwine, Chief of the King's Knights",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-drar",
+  "from": "Drar",
+  "to": "Drár",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-druzhag-the-beastcaller",
+  "from": "Druzhag the Beastcaller",
+  "to": "Drûzhag the Beastcaller",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-dunedain",
+  "from": "Dunedain",
+  "to": "Dúnedain",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-durburz",
+  "from": "Durburz",
+  "to": "Durbûrz",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-durin-king-of-khazad-dum",
+  "from": "Durin, King of Khazad-Dum",
+  "to": "Durin, King of Khazad-Dûm",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-earnur-last-king-of-gondor",
+  "from": "Earnur, Last King of Gondor",
+  "to": "Eärnur, Last King of Gondor",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-fili-the-dwarf",
+  "from": "Fili the Dwarf",
+  "to": "Fíli the Dwarf",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-fili-the-dwarf-champion-of-erebor",
+  "from": "Fili the Dwarf, Champion of Erebor",
+  "to": "Fíli the Dwarf, Champion of Erebor",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-floi-stonehand",
+  "from": "Floi Stonehand",
+  "to": "Flói Stonehand",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-frodo-samwise-and-smeagol",
+  "from": "Frodo, Samwise, and Smeagol",
+  "to": "Frodo, Samwise, and Sméagol",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-ghan-buri-ghan",
+  "from": "Ghan-Buri-Ghan",
+  "to": "Ghân-Buri-Ghân",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-gimli-son-of-gloin",
+  "from": "Gimli Son of Gloin",
+  "to": "Gimli Son of Glóin",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-gloin-the-dwarf",
+  "from": "Gloin the Dwarf",
+  "to": "Glóin the Dwarf",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-gloin-the-dwarf-champion-of-erebor",
+  "from": "Gloin the Dwarf, Champion of Erebor",
+  "to": "Glóin the Dwarf, Champion of Erebor",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-grima-wormtongue",
+  "from": "Grima Wormtongue",
+  "to": "Gríma Wormtongue",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-grishnakh-orc-captain",
+  "from": "Grishnakh, Orc Captain",
+  "to": "Grishnákh, Orc Captain",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-groblog",
+  "from": "Groblog",
+  "to": "Grôblog",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-gulavhar-the-terror-of-arnor",
+  "from": "Gulavhar, The Terror of Arnor",
+  "to": "Gûlavhar, The Terror of Arnor",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-haleth-son-of-hama",
+  "from": "Haleth, Son of Hama",
+  "to": "Haleth, Son of Háma",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-hama-captain-of-rohan",
+  "from": "Hama, Captain of Rohan",
+  "to": "Háma, Captain of Rohan",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-hasharin",
+  "from": "Hasharin",
+  "to": "Hâsharin",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-hurin-the-tall-warden-of-the-keys",
+  "from": "Hurin the Tall, Warden of the Keys",
+  "to": "Húrin the Tall, Warden of the Keys",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-kardush-the-firecaller",
+  "from": "Kardush the Firecaller",
+  "to": "Kardûsh the Firecaller",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-khamul-the-easterling",
+  "from": "Khamul the Easterling",
+  "to": "Khamûl the Easterling",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-khazad-guard",
+  "from": "Khazad Guard",
+  "to": "Khazâd Guard",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-kili-the-dwarf",
+  "from": "Kili the Dwarf",
+  "to": "Kíli the Dwarf",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-kili-the-dwarf-champion-of-erebor",
+  "from": "Kili the Dwarf, Champion of Erebor",
+  "to": "Kíli the Dwarf, Champion of Erebor",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-mahud-beastmaster-chieftain",
+  "from": "Mahud Beastmaster Chieftain",
+  "to": "Mahûd Beastmaster Chieftain",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-mahud-king",
+  "from": "Mahud King",
+  "to": "Mahûd King",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-mahud-raider",
+  "from": "Mahud Raider",
+  "to": "Mahûd Raider",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-mahud-tribesmaster",
+  "from": "Mahud Tribesmaster",
+  "to": "Mahûd Tribesmaster",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-mahud-warrior",
+  "from": "Mahud Warrior",
+  "to": "Mahûd Warrior",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-mauhur",
+  "from": "Mauhur",
+  "to": "Mauhúr",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-mumak",
+  "from": "Mumak",
+  "to": "Mûmak",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-murin",
+  "from": "Murin",
+  "to": "Múrin",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-murin-drar",
+  "from": "Murin & Drar",
+  "to": "Múrin & Drár",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-murin-drar-wanderers",
+  "from": "Murin & Drar (Wanderers)",
+  "to": "Múrin & Drár (Wanderers)",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-oin-the-dwarf",
+  "from": "Oin the Dwarf",
+  "to": "Óin the Dwarf",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-oin-the-dwarf-champion-of-erebor",
+  "from": "Oin the Dwarf, Champion of Erebor",
+  "to": "Óin the Dwarf, Champion of Erebor",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-royal-war-mumak",
+  "from": "Royal War Mumak",
+  "to": "Royal War Mûmak",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-rumil",
+  "from": "Rumil",
+  "to": "Rúmil",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-smeagol",
+  "from": "Smeagol",
+  "to": "Sméagol",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-smeagol-rangers-of-ithilien",
+  "from": "Smeagol (Rangers of Ithilien)",
+  "to": "Sméagol (Rangers of Ithilien)",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-suladan-the-serpent-lord",
+  "from": "Suladan the Serpent Lord",
+  "to": "Suladân the Serpent Lord",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-the-dragon-emperor-of-rhun",
+  "from": "The Dragon Emperor of Rhun",
+  "to": "The Dragon Emperor of Rhûn",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-the-golden-king-of-abrakhan",
+  "from": "The Golden King of Abrakhan",
+  "to": "The Golden King of Abrakhân",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-the-mumak-warleader",
+  "from": "The Mumak Warleader",
+  "to": "The Mûmak Warleader",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-theoden-king-of-rohan",
+  "from": "Theoden, King of Rohan",
+  "to": "Théoden, King of Rohan",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-thrain",
+  "from": "Thrain",
+  "to": "Thráin",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-thrain-the-broken",
+  "from": "Thrain the Broken",
+  "to": "Thráin the Broken",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-thrain-the-broken-evil",
+  "from": "Thrain the Broken (Evil)",
+  "to": "Thráin the Broken (Evil)",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-thrain-the-broken-pits",
+  "from": "Thrain the Broken (Pits)",
+  "to": "Thráin the Broken (Pits)",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-thrain-the-broken-wanderers",
+  "from": "Thrain the Broken (Wanderers)",
+  "to": "Thráin the Broken (Wanderers)",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-thror",
+  "from": "Thror",
+  "to": "Thrór",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-ugluk",
+  "from": "Ugluk",
+  "to": "Uglúk",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-vrasku",
+  "from": "Vrasku",
+  "to": "Vraskû",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-war-mumak-of-far-harad",
+  "from": "War Mumak of Far Harad",
+  "to": "War Mûmak of Far Harad",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-war-mumak-of-harad",
+  "from": "War Mumak of Harad",
+  "to": "War Mûmak of Harad",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-warrior-of-carn-dum",
+  "from": "Warrior of Carn Dum",
+  "to": "Warrior of Carn Dûm",
+  "how": "words"
+ },
+ {
+  "_id": "profile5e-warrior-of-numenor",
+  "from": "Warrior of Numenor",
+  "to": "Warrior of Númenor",
+  "how": "direct"
+ },
+ {
+  "_id": "profile5e-watcher-of-karna",
+  "from": "Watcher of Karna",
+  "to": "Watcher of Kârna",
+  "how": "direct"
+ }
+]

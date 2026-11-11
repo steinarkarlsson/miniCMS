@@ -8,8 +8,8 @@ import releaseWave from './releaseWave'
 import race from './race'
 import accessory from './accessory'
 import allegiance from './allegiance'
-import armyList, {armyListEntry} from './armyList'
-import formation from './formation'
+import armyList, {armyListEntry, armyListRule} from './armyList'
+import formation, {formationSection} from './formation'
 import gallery from './fieldSchemas/gallery'
 import sculptor from './sculptor'
 import edition from './edition'
@@ -32,7 +32,9 @@ export const schemaTypes = [
   allegiance,
   armyList,
   armyListEntry,
+  armyListRule,
   formation,
+  formationSection,
   profile1e,
   profile2e,
   profile3e,

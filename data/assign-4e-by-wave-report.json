@@ -1,0 +1,273 @@
+{
+  "dryRun": false,
+  "range": {
+    "from": "2001-12-01",
+    "toInclusive": "2012-01-01"
+  },
+  "figures": 1002,
+  "alreadyHave4e": 974,
+  "assigned": 8,
+  "adjusted": 0,
+  "documentsPatched": 8,
+  "held": 7,
+  "unmatchedFigures": 4,
+  "notPlayable": 9,
+  "profiles": 291,
+  "profilesWithoutFigures": 9,
+  "profilesWithoutFiguresDetail": [
+    "Black Númenorean Marshal",
+    "Captain of Númenor",
+    "Corsair Reaver",
+    "Demolition Charge",
+    "Foe Spear (proposed for held figures)",
+    "Great Eagle",
+    "Iron Shield (proposed for held figures)",
+    "Mahûd Tribesmaster",
+    "Mordor Uruk-hai Captain"
+  ],
+  "adjustedDetail": [],
+  "heldDetail": [
+    {
+      "figure": "Watcher in the Water Tentacle 1",
+      "wave": "Mines of Moria (2005)",
+      "to": [
+        "The Watcher in the Water"
+      ],
+      "rule": "override",
+      "from": [],
+      "why": "no profiles in any edition"
+    },
+    {
+      "figure": "Watcher in the Water Tentacle 2",
+      "wave": "Mines of Moria (2005)",
+      "to": [
+        "The Watcher in the Water"
+      ],
+      "rule": "override",
+      "from": [],
+      "why": "no profiles in any edition"
+    },
+    {
+      "figure": "Watcher in the Water Tentacle 3",
+      "wave": "Mines of Moria (2005)",
+      "to": [
+        "The Watcher in the Water"
+      ],
+      "rule": "override",
+      "from": [],
+      "why": "no profiles in any edition"
+    },
+    {
+      "figure": "Vault Warden Crew 1",
+      "wave": "Khazad-Dûm (2007)",
+      "to": [
+        "Iron Shield",
+        "Foe Spear"
+      ],
+      "rule": "override",
+      "from": [
+        "5e: Vault Warden Team",
+        "6e: Vault Warden Team"
+      ],
+      "why": "which crew figures are the Iron Shield and which the Foe Spear"
+    },
+    {
+      "figure": "Vault Warden Crew 2",
+      "wave": "Khazad-Dûm (2007)",
+      "to": [
+        "Iron Shield",
+        "Foe Spear"
+      ],
+      "rule": "override",
+      "from": [
+        "5e: Vault Warden Team",
+        "6e: Vault Warden Team"
+      ],
+      "why": "which crew figures are the Iron Shield and which the Foe Spear"
+    },
+    {
+      "figure": "Vault Warden Crew 3",
+      "wave": "Khazad-Dûm (2007)",
+      "to": [
+        "Iron Shield",
+        "Foe Spear"
+      ],
+      "rule": "override",
+      "from": [
+        "5e: Vault Warden Team",
+        "6e: Vault Warden Team"
+      ],
+      "why": "which crew figures are the Iron Shield and which the Foe Spear"
+    },
+    {
+      "figure": "Vault Warden Crew 4",
+      "wave": "Khazad-Dûm (2007)",
+      "to": [
+        "Iron Shield",
+        "Foe Spear"
+      ],
+      "rule": "override",
+      "from": [
+        "5e: Vault Warden Team",
+        "6e: Vault Warden Team"
+      ],
+      "why": "which crew figures are the Iron Shield and which the Foe Spear"
+    }
+  ],
+  "unmatchedDetail": [
+    {
+      "figure": "Uruk-Hai Battering Ram",
+      "wave": "The Two Towers (2002)",
+      "otherEditions": []
+    },
+    {
+      "figure": "Golfimbul Mounted",
+      "wave": "The Scouring of the Shire (2005)",
+      "otherEditions": [
+        "6e: Golfimbul, Orc Captain",
+        "5e: Golfimbul, Orc Chieftain",
+        "1e: Golfimbul"
+      ]
+    },
+    {
+      "figure": "Golfimbul on Foot",
+      "wave": "The Scouring of the Shire (2005)",
+      "otherEditions": [
+        "6e: Golfimbul, Orc Captain",
+        "5e: Golfimbul, Orc Chieftain",
+        "1e: Golfimbul"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Drummer",
+      "wave": "War of the Ring: Battlehosts (2010)",
+      "otherEditions": [
+        "6e: Uruk-Hai Drummer",
+        "5e: Uruk-Hai Drummer"
+      ]
+    }
+  ],
+  "partialDetail": [],
+  "notPlayableDetail": [
+    "Frodo (Barrow-Downs)",
+    "Merry (Barrow-Downs)",
+    "Pippin (Barrow-Downs)",
+    "Sam (Barrow-Downs)",
+    "Frodo (Orc Armour)",
+    "Frodo (Shelob)",
+    "Sam (Orc Armour)",
+    "Gimli on Dead Uruk-Hai",
+    "Final Fate of the Witch-King"
+  ],
+  "assignedDetail": [
+    {
+      "figure": "Gondor Avenger Bolt Thrower Captain",
+      "wave": "Siege of Gondor (2003)",
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rule": "override",
+      "from": [
+        "5e: Minas Tirith Siege Veteran",
+        "6e: Minas Tirith Siege Veteran",
+        "1e: Gondor Crewman",
+        "2e: Gondor Crewman"
+      ]
+    },
+    {
+      "figure": "Gondor Avenger Bolt Thrower Crew 1",
+      "wave": "Siege of Gondor (2003)",
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rule": "override",
+      "from": [
+        "1e: Gondor Crewman",
+        "6e: Minas Tirith Siege Crew",
+        "2e: Gondor Crewman"
+      ]
+    },
+    {
+      "figure": "Gondor Siege Crew 1",
+      "wave": "Siege of Gondor (2003)",
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rule": "override",
+      "from": [
+        "6e: Minas Tirith Siege Crew",
+        "1e: Gondor Crewman",
+        "2e: Gondor Crewman"
+      ]
+    },
+    {
+      "figure": "Gondor Siege Crew 2",
+      "wave": "Siege of Gondor (2003)",
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rule": "override",
+      "from": [
+        "6e: Minas Tirith Siege Crew",
+        "1e: Gondor Crewman",
+        "2e: Gondor Crewman"
+      ]
+    },
+    {
+      "figure": "Gondor Trebuchet Captain",
+      "wave": "Siege of Gondor (2003)",
+      "to": [
+        "Warrior of Minas Tirith"
+      ],
+      "rule": "override",
+      "from": [
+        "1e: Gondor Crewman",
+        "5e: Minas Tirith Siege Veteran",
+        "6e: Minas Tirith Siege Veteran",
+        "2e: Gondor Crewman"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Ballista Captain",
+      "wave": "Siege of Gondor (2003)",
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rule": "override",
+      "from": [
+        "1e: White Hand Uruk-hai",
+        "5e: Uruk-hai Siege Veteran",
+        "6e: Uruk-hai Siege Veteran",
+        "2e: White Hand Uruk-hai"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Ballista Crew 1",
+      "wave": "Siege of Gondor (2003)",
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rule": "override",
+      "from": [
+        "5e: Uruk-hai Crew",
+        "6e: Uruk-hai Crew",
+        "1e: White Hand Uruk-hai",
+        "2e: White Hand Uruk-hai"
+      ]
+    },
+    {
+      "figure": "Uruk-Hai Ballista Crew 2",
+      "wave": "Siege of Gondor (2003)",
+      "to": [
+        "Uruk-hai Warrior"
+      ],
+      "rule": "override",
+      "from": [
+        "5e: Uruk-hai Crew",
+        "6e: Uruk-hai Crew",
+        "1e: White Hand Uruk-hai",
+        "2e: White Hand Uruk-hai"
+      ]
+    }
+  ]
+}
