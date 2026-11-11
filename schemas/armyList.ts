@@ -141,12 +141,6 @@ export default defineType({
       hidden: ({document}) => document?.type !== 'battlehost',
     }),
     defineField({
-      name: 'sources',
-      title: 'Sources',
-      type: 'array',
-      of: [{type: 'profileSource'}],
-    }),
-    defineField({
       name: 'entries',
       title: 'Profiles',
       type: 'array',

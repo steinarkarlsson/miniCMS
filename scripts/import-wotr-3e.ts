@@ -377,7 +377,6 @@ function battlehostDoc(b: Battlehost, unresolved: string[]) {
     composition: b.composition,
     formations: formationRefs,
     rules: rules.map((r, i) => ({_key: key(b.title, String(i)), _type: 'armyListRule', ...r})),
-    sources: [source(PRINT_BH, String(b.page))],
   }
   return JSON.parse(JSON.stringify(doc))
 }
@@ -401,7 +400,6 @@ async function main() {
     edition: ref(EDITION_ID),
     type: 'standard',
     alignment: a.alignment,
-    sources: [source(PRINT_WOTR, a.pages)],
   }))
   const profiles = allVariants.map((v) => profileDoc(v, characters, notes))
   const formationDocs = formations.map(formationDoc)
