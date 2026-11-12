@@ -29,11 +29,6 @@ export const baseProductFields = [
     type: 'references',
   },
   {
-    name: 'featured',
-    title: 'Featured',
-    type: 'boolean',
-  },
-  {
     title: 'Release Date',
     name: 'releaseDate',
     type: 'date',
