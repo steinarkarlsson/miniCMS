@@ -32,20 +32,6 @@ export default {
       description: 'The game profiles this miniature represents, across all editions',
     },
     {
-      name: 'armyList',
-      title: 'Army List (legacy)',
-      type: 'array',
-      readOnly: true,
-      description:
-        'Superseded by Profiles. Kept read-only until every figure is linked to its profiles.',
-      of: [
-        {
-          type: 'reference',
-          to: [{type: 'armyList'}],
-        },
-      ],
-    },
-    {
       title: 'Faction',
       name: 'faction',
       type: 'array',
