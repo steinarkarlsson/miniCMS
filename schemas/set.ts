@@ -7,6 +7,20 @@ export default {
   fields: [
     ...baseProductFields,
     {
+      name: 'contentType',
+      title: 'Contents',
+      type: 'string',
+      description:
+        'Whether this set introduced new products, or only repackages products that were already available in other sets.',
+      options: {
+        list: [
+          {title: 'New (contains products first released in this set)', value: 'new'},
+          {title: 'Repackaging (only previously released products)', value: 'repackaging'},
+        ],
+        layout: 'radio',
+      },
+    },
+    {
       name: 'figures',
       title: 'Figures',
       type: 'array',

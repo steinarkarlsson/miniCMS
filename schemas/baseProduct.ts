@@ -48,4 +48,20 @@ export const baseProductFields = [
       list: ['Released', 'Unreleased', 'Announced'],
     },
   },
+  {
+    name: 'releaseType',
+    title: 'Release Type',
+    type: 'string',
+    description:
+      'How the product was made available. Independent of Status: a Made to Order product is still Released.',
+    options: {
+      list: [
+        {title: 'General release', value: 'general'},
+        {title: 'Made to Order', value: 'made-to-order'},
+        {title: 'Promotional / event', value: 'promotional'},
+        {title: 'Other limited release', value: 'limited'},
+      ],
+    },
+    initialValue: 'general',
+  },
 ]
