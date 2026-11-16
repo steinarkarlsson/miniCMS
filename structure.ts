@@ -74,7 +74,12 @@ export const structure: StructureResolver = (S) =>
       S.documentTypeListItem('formation'),
       S.documentTypeListItem('edition'),
       S.divider(),
+      S.documentTypeListItem('post').title('Update posts'),
+      S.divider(),
       ...S.documentTypeListItems().filter(
-        (item) => !PRODUCT_TYPES.includes(item.getId() ?? '') && !GAME_TYPES.includes(item.getId() ?? '')
+        (item) =>
+          !PRODUCT_TYPES.includes(item.getId() ?? '') &&
+          !GAME_TYPES.includes(item.getId() ?? '') &&
+          item.getId() !== 'post'
       ),
     ])

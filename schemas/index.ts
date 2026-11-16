@@ -14,6 +14,7 @@ import gallery from './fieldSchemas/gallery'
 import sculptor from './sculptor'
 import edition from './edition'
 import packaging from './packaging'
+import post from './post'
 import references from './fieldSchemas/references'
 import {heroicValues, profileOption, profileSource} from './profiles/baseProfile'
 import profile1e from './profiles/profile1e'
@@ -53,4 +54,5 @@ export const schemaTypes = [
   sculptor,
   edition,
   packaging,
+  post,
 ]
